@@ -15,13 +15,24 @@ module.exports = {
       },
     },
     {
+      resolve: "gatsby-plugin-web-font-loader",
+      options: {
+        google: {
+          families: ["Montserrat", "Josefin Sans"],
+        },
+      },
+    },
+    {
       resolve: "gatsby-plugin-react-svg",
       options: {
         rule: {
-          include: /assets/
-        }
-      }
+          include: /assets/,
+        },
+      },
     },
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
+
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {

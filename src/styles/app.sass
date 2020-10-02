@@ -1,18 +1,234 @@
+@import "mixins"
+
 $font-stack:    Helvetica, sans-serif
-$primary-color: #006699
+$primary: #006699
+$black: #222
+$white: #fff
+
+html,body
+  margin: 0
+  padding: 0
+
+html
+  overflow-y: scroll
+  scrollbar-width: none /* Firefox */
+  -ms-overflow-style: none  /* IE 10+ */
+  &::-webkit-scrollbar  /* WebKit */
+    width: 0
 
 body
   font: 100% $font-stack
-  color: $primary-color
+  color: $black
+  font-family: 'Josefin Sans'
+  font-family: 'Montserrat'
+
+p.intro
+  margin: 10% 0
+  line-height: 1.4em
+  font-size: 1.2em
+
+.logoIntro
+  display: none
+
+.choose
+  display: grid
+  grid-template-columns: repeat(2,1fr)
+  grid-template-rows: auto
+  column-gap: 5%
+  .side
+    text-align: center
+    a
+      height: 2em
+      line-height: 2em
+      color: #aaa
+      text-decoration: none
+
+#app
+  margin: 0 auto 100px
+  width: 85%
+  +breakpoint(sm)
+    width: 700px
+    header
+      .burger-menu
+        .dropdown
+          left: 50%
+    p.intro
+      margin: 10%
+    footer
+      grid-template-columns: repeat(6,1fr)
+      grid-template-areas: "k k . . l1 l1" "s s . . l2 l3"
+      padding-top: 32px
+      .mhn
+        margin: 0
+      .links
+        a
+          font-size: 1.2em
+      .social
+        a
+          padding: 0
+          width: 25%
+  +breakpoint(lg)
+    width: 1000px
+    header
+      h1
+        display: none
+      .burger-menu
+        display: none
+      .links
+        display: flex
+
+    p.intro
+      margin: 4% 10%
+    .logoIntro
+      display: block
+      width: 60%
+      height: 100px
+      background: #ccc
+      margin: auto
+
+    footer
+      grid-template-columns: repeat(18,1fr)
+      grid-template-areas: ". . . . . . . . . . . . . . l1 l1 l1 l1" " k k k k . . . . . . . . . . l1 l1 l1 l1" "k k k k . . s s s s s s . .  l2 l2 l3 l3"
+      padding-top: 32px
+      .mhn
+        margin: 0
+      .links
+        a
+          font-size: 1.2em
+      .social
+        margin: 0
+        a
+          padding: 0 5%
+          width: 15%
+
+
+
+header
+  h1
+    margin: 0
+    a
+      background: #ccc
+      width: 75%
+      height: 100px
+      display: block
+      text-indent: -99999px
+      overflow: hidden
+
+    
+  a
+    color: $black
+  .links
+    width: 75%
+    margin: 50px auto 20px
+    display: none
+    text-align: center
+    a, > nav
+      flex: 1 1 0
+    > nav
+      position: relative
+      display: inline-block
+      a
+        display: block
+    .dropdown
+      padding: 1em 2em
+      width: 13rem
+      position: absolute
+      top: 1.2rem
+  .burger-menu
+    > a
+      z-index: 100
+      position: absolute
+      top: 0
+      right: 0
+      width: 3rem
+      height: 3rem
+      padding: 1rem 2rem
+      display: flex
+      flex-direction: column
+      justify-content: space-around
+      span
+        transition: all 0.3s linear
+        background: $primary
+        display: block
+        height: 0.5rem
+        border-radius: 0.5rem
+        position: relative
+        transform-origin: center right
+        &:first-child 
+          transform: rotate(0deg)
+        &:nth-child(2) 
+          opacity: 1
+        &:nth-child(3)
+          transform: rotate(0deg)
+    .dropdown
+      position: absolute
+      top: 0
+      left: 0
+      right: 0
+    &.open 
+      > a
+        span
+          background: $white
+          &:first-child 
+            transform: rotate(-42deg)
+          &:nth-child(2) 
+            opacity: 0
+          &:nth-child(3)
+            transform: rotate(42deg)
+
+              
+              
+  .dropdown
+    z-index: 99
+    text-align: left
+    font-size: 0.9em
+    padding: 2em 3em
+    background: $primary
+    nav
+      margin-left: 3em
+    a
+      display: block
+      line-height: 2.5em
+      color: $white
+      text-decoration: none
+      &:hover
+        text-decoration: underline
+        
+
+main
+  margin-bottom: 48px
 
 footer
-  margin: 30px
-  border-top: 1px solid $primary-color
+  border-top: 1px solid $primary
+  display: grid
+  grid-template-columns: repeat(12,1fr)
+  grid-template-rows: auto
+  grid-template-areas: ". . s s s s s s s s . ." " k k k k k k l1 l1 l1 l1 l1 l1" "k k k k k k l2 l2 l2 l3 l3 l3"
   .social
+    grid-area: s
     display: flex
     justify-content: center
+    margin-bottom: 28px
     a
-      width: 26px
-      height: 26px
-      padding: 10px
+      width: 15%
+      padding: 5%
       display: block
+  .links
+    grid-area: k
+    a
+      color: $black
+      display: block
+      font-size: 0.75em
+      margin-bottom: 20px
+  .mhn
+    display: block
+    grid-area: l1
+    margin: 0 0 18px 50px
+  .museos
+    display: block
+    grid-area: l2
+    margin: 7px
+  .ministerio
+    display: block
+    grid-area: l3
+
