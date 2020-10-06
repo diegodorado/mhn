@@ -1,6 +1,7 @@
 @import "mixins"
+@import "~rfs/scss"
 
-$font-stack:    Helvetica, sans-serif
+
 $primary: #006699
 $black: #222
 $white: #fff
@@ -17,7 +18,7 @@ html
     width: 0
 
 body
-  font: 100% $font-stack
+  font-size: 16px
   color: $black
   font-family: 'Josefin Sans'
   font-family: 'Montserrat'
@@ -25,7 +26,8 @@ body
 p.intro
   margin: 10% 0
   line-height: 1.4em
-  font-size: 1.2em
+  +font-size(1.2rem)
+
 
 .logoIntro
   display: none
