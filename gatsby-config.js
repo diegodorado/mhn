@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/mhn',
   siteMetadata: {
     title: `Museo Histórico Nacional`,
     description: `Sitio Web del Museo Historico Nacional`,
