@@ -1,11 +1,10 @@
-@import "mixins"
-@import "~rfs/scss"
-
-
 $primary: #006699
 $black: #222
 $white: #fff
 $rfs-base-value: 12
+
+@import "mixins"
+@import "~rfs/scss"
 
 html,body
   margin: 0
@@ -21,8 +20,17 @@ html
 
 body
   color: $black
-  font-family: 'Josefin Sans'
   font-family: 'Montserrat'
+
+h2
+  font-family: 'Josefin Sans'
+  color: $primary
+  font-weight: normal
+  +font-size(1.8rem)
+
+h3
+  font-weight: normal
+  +font-size(1.6rem)
 
 p.intro
   padding: 10% 0

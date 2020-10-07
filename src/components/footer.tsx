@@ -26,9 +26,9 @@ const Footer: React.FC = () => (
       </Link>
     </nav>
     <nav className="links">
-      <Link to="/">Propuestas educativas</Link>
-      <Link to="/">Sobre esta muestra</Link>
-      <Link to="/">Mapa del sitio</Link>
+      <Link to="/propuestas-educativas/">Propuestas educativas</Link>
+      <Link to="/sobre-esta-muestra/">Sobre esta muestra</Link>
+      <Link to="/mapa-del-sitio/">Mapa del sitio</Link>
     </nav>
     <Link to="/" className="mhn">
       <MhnLogo />

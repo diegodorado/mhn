@@ -32,22 +32,22 @@ const Dropdown = ({ children, callback }) => {
 
 const Contenidos = () => (
   <>
-    <Link to="/">1800-1810</Link>
+    <Link to="/1800-1810/">1800-1810</Link>
     <nav>
-      <Link to="/">Reformista</Link>
-      <Link to="/">Burócrata</Link>
-      <Link to="/">Invasiones</Link>
-      <Link to="/">La conspiración</Link>
-      <Link to="/">Hacer la revolución</Link>
+      <Link to="/1800-1810/reformista/">Reformista</Link>
+      <Link to="/1800-1810/burocrata/">Burócrata</Link>
+      <Link to="/1800-1810/invasiones/">Invasiones</Link>
+      <Link to="/1800-1810/la-conspiracion/">La conspiración</Link>
+      <Link to="/1800-1810/hacer-la-revolucion/">Hacer la revolución</Link>
     </nav>
-    <Link to="/">1811-1820</Link>
+    <Link to="/1811-1820/">1811-1820</Link>
     <nav>
-      <Link to="/">A las armas</Link>
-      <Link to="/">Celeste y blanca</Link>
-      <Link to="/">Aventura europea</Link>
-      <Link to="/">Un rey inca</Link>
-      <Link to="/">El final</Link>
-      <Link to="/">Muchos rostros</Link>
+      <Link to="/1811-1820/a-las-armas/">A las armas</Link>
+      <Link to="/1811-1820/celeste-y-blanca/">Celeste y blanca</Link>
+      <Link to="/1811-1820/aventura-europea/">Aventura europea</Link>
+      <Link to="/1811-1820/un-rey-inca/">Un rey inca</Link>
+      <Link to="/1811-1820/el-final/">El final</Link>
+      <Link to="/1811-1820/muchos-rostros/">Muchos rostros</Link>
     </nav>
   </>
 )
@@ -73,8 +73,9 @@ const DesktopNav = () => {
           </Dropdown>
         )}
       </nav>
-      <Link to="/">Propuestas educativas</Link>
-      <Link to="/">Sobre esta muestra</Link>
+
+      <Link to="/propuestas-educativas/">Propuestas educativas</Link>
+      <Link to="/sobre-esta-muestra/">Sobre esta muestra</Link>
       <Link to="/mapa-del-sitio/">Mapa del sitio</Link>
     </nav>
   )
@@ -90,7 +91,7 @@ const MobileNav = () => {
   }
 
   return (
-    <nav className={ `burger-menu ${showMenu? 'open':''}` } >
+    <nav className={ `burger-menu ${showMenu? 'open':''}` } aria-label="Menu"  >
       <Link to="/" onClick={toggleMenu}>
         <span/>
         <span/>
@@ -101,7 +102,7 @@ const MobileNav = () => {
           <Link to="/">Inicio</Link>
           <Link to="/">Contenidos</Link>
           <Contenidos />
-          <Link to="/">Sobre esta muestra</Link>
+          <Link to="/sobre-esta-muestra/">Sobre esta muestra</Link>
           <Link to="/mapa-del-sitio/">Mapa del sitio</Link>
         </Dropdown>
       )}
@@ -124,6 +125,11 @@ const Header: React.FC<DataProps> = ({ siteTitle, variant }) => {
       <div className="home-logo">
         <Logo/>
       </div>
+
+      <nav className="content" style={{display: 'none'}}>
+        <Link to="/1800-1810/">1800-1810</Link>
+        <Link to="/1811-1820/">1811-1820</Link>
+      </nav>
     </header>
   )
 }
