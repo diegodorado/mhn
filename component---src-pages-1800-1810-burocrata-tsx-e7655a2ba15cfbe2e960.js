@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{zMki:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),c=t("Bl7J"),i=t("vrFN");n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(i.a,{title:"Inicio"}),l.a.createElement("p",null,"INDEX"))}}}]);
+//# sourceMappingURL=component---src-pages-1800-1810-burocrata-tsx-e7655a2ba15cfbe2e960.js.map
