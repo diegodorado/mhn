@@ -10,8 +10,9 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import Footer from "./footer"
+import { Helmet } from "react-helmet"
 
-const Layout = ({ children, variant = "default" }) => {
+const Layout = ({ children, variant = "default", bodyClass="" }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -24,6 +25,7 @@ const Layout = ({ children, variant = "default" }) => {
 
   return (
     <div id="app">
+      <Helmet bodyAttributes={{ class: bodyClass }} />
       <Header
         siteTitle={data.site.siteMetadata?.title || `Title`}
         variant={variant}

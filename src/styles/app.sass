@@ -5,12 +5,14 @@
 $primary: #006699
 $black: #222
 $white: #fff
+$rfs-base-value: 12
 
 html,body
   margin: 0
   padding: 0
 
 html
+  font-size: 16px
   overflow-y: scroll
   scrollbar-width: none /* Firefox */
   -ms-overflow-style: none  /* IE 10+ */
@@ -18,19 +20,15 @@ html
     width: 0
 
 body
-  font-size: 16px
   color: $black
   font-family: 'Josefin Sans'
   font-family: 'Montserrat'
 
 p.intro
-  margin: 10% 0
+  padding: 10% 0
   line-height: 1.4em
   +font-size(1.2rem)
 
-
-.logoIntro
-  display: none
 
 .choose
   display: grid
@@ -55,38 +53,27 @@ p.intro
         .dropdown
           left: 50%
     p.intro
-      margin: 10%
+      padding: 10%
     footer
       grid-template-columns: repeat(6,1fr)
       grid-template-areas: "k k . . l1 l1" "s s . . l2 l3"
       padding-top: 32px
       .mhn
         margin: 0
-      .links
-        a
-          font-size: 1.2em
       .social
         a
           padding: 0
           width: 25%
   +breakpoint(lg)
-    width: 1000px
+    width: 1080px
     header
-      h1
-        display: none
       .burger-menu
         display: none
       .links
-        display: flex
+        display: block
 
     p.intro
-      margin: 4% 10%
-    .logoIntro
-      display: block
-      width: 60%
-      height: 100px
-      background: #ccc
-      margin: auto
+      padding: 4% 10%
 
     footer
       grid-template-columns: repeat(18,1fr)
@@ -94,9 +81,6 @@ p.intro
       padding-top: 32px
       .mhn
         margin: 0
-      .links
-        a
-          font-size: 1.2em
       .social
         margin: 0
         a
@@ -104,28 +88,47 @@ p.intro
           width: 15%
 
 
+#app
+  +breakpoint(lg)
+    header
+      display: flex
+      h1
+        padding: 40px 0 0 0
+
+.home
+  #app
+    +breakpoint(lg)
+      header
+        display: block
 
 header
   h1
     margin: 0
+    padding: 5% 20%
     a
-      background: #ccc
-      width: 75%
-      height: 100px
       display: block
-      text-indent: -99999px
+      position: relative
       overflow: hidden
+      svg
+        width: 100%
+      span
+        display: block
+        position: absolute
+        text-indent: -999em
 
-    
   a
     color: $black
+  .home-logo
+    display: none
   .links
+    a
+      +font-size(1rem)
     width: 75%
     margin: 50px auto 20px
     display: none
-    text-align: center
+    text-align: right
     a, > nav
-      flex: 1 1 0
+      margin: 0 1em
     > nav
       position: relative
       display: inline-block
@@ -142,17 +145,17 @@ header
       position: absolute
       top: 0
       right: 0
-      width: 3rem
-      height: 3rem
-      padding: 1rem 2rem
+      +rfs(1rem)
+      +rfs(3rem, width)
+      +rfs(3rem, height)
+      +padding(1rem 2rem)
       display: flex
       flex-direction: column
-      justify-content: space-around
       span
         transition: all 0.3s linear
         background: $primary
         display: block
-        height: 0.5rem
+        height: 17%
         border-radius: 0.5rem
         position: relative
         transform-origin: center right
@@ -183,7 +186,7 @@ header
   .dropdown
     z-index: 99
     text-align: left
-    font-size: 0.9em
+    +font-size(1.0rem)
     padding: 2em 3em
     background: $primary
     nav
@@ -220,7 +223,7 @@ footer
     a
       color: $black
       display: block
-      font-size: 0.75em
+      +font-size(0.9rem)
       margin-bottom: 20px
   .mhn
     display: block
@@ -233,4 +236,29 @@ footer
   .ministerio
     display: block
     grid-area: l3
+
+
+.home
+  +breakpoint(lg)
+    header
+      h1
+        display: none
+      .home-logo
+        display: block
+        width: 45%
+        margin: 40px auto 0
+      .links
+        text-align: center
+
+.sitemap
+  main
+    text-align: left
+    +font-size(1.0rem)
+    nav
+      margin-left: 3em
+    a
+      display: block
+      line-height: 2.5em
+      color: $black
+        
 

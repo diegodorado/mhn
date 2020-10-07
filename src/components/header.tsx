@@ -1,6 +1,8 @@
 import { Link } from "gatsby"
 import React, { useState, useRef, useEffect } from "react"
 
+import Logo from "../assets/logo.svg"
+
 type DataProps = {
   siteTitle: string
   variant: string
@@ -73,7 +75,7 @@ const DesktopNav = () => {
       </nav>
       <Link to="/">Propuestas educativas</Link>
       <Link to="/">Sobre esta muestra</Link>
-      <Link to="/">Mapa del sitio</Link>
+      <Link to="/mapa-del-sitio/">Mapa del sitio</Link>
     </nav>
   )
 }
@@ -100,7 +102,7 @@ const MobileNav = () => {
           <Link to="/">Contenidos</Link>
           <Contenidos />
           <Link to="/">Sobre esta muestra</Link>
-          <Link to="/">Mapa del sitio</Link>
+          <Link to="/mapa-del-sitio/">Mapa del sitio</Link>
         </Dropdown>
       )}
     </nav>
@@ -110,12 +112,18 @@ const MobileNav = () => {
 const Header: React.FC<DataProps> = ({ siteTitle, variant }) => {
 
   return (
-    <header className={variant}>
+    <header>
       <MobileNav/>
       <h1>
-        <Link to="/">{siteTitle}</Link>
+        <Link to="/">
+          <span>{siteTitle}</span>
+          <Logo/>
+        </Link>
       </h1>
       <DesktopNav/>
+      <div className="home-logo">
+        <Logo/>
+      </div>
     </header>
   )
 }
