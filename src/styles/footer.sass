@@ -1,0 +1,62 @@
+
+footer
+  border-top: 1px solid $primary
+  display: grid
+  grid-template-columns: repeat(12,1fr)
+  grid-template-rows: auto
+  grid-template-areas: ". . s s s s s s s s . ." " k k k k k k l1 l1 l1 l1 l1 l1" "k k k k k k l2 l2 l2 l3 l3 l3"
+  .social
+    grid-area: s
+    display: flex
+    justify-content: center
+    margin-bottom: 28px
+    a
+      width: 15%
+      padding: 5%
+      display: block
+  .links
+    grid-area: k
+    a
+      color: $black
+      display: block
+      +font-size(0.9rem)
+      margin-bottom: 20px
+  .mhn
+    display: block
+    grid-area: l1
+    margin: 0 0 18px 50px
+  .museos
+    display: block
+    grid-area: l2
+    margin: 7px
+  .ministerio
+    display: block
+    grid-area: l3
+
+
+#app
+  +breakpoint(sm)
+    footer
+      grid-template-columns: repeat(6,1fr)
+      grid-template-areas: "k k . . l1 l1" "s s . . l2 l3"
+      padding-top: 32px
+      .mhn
+        margin: 0
+      .social
+        a
+          padding: 0
+          width: 25%
+  +breakpoint(lg)
+    footer
+      grid-template-columns: repeat(18,1fr)
+      grid-template-areas: ". . . . . . . . . . . . . . l1 l1 l1 l1" " k k k k . . . . . . . . . . l1 l1 l1 l1" "k k k k . . s s s s s s . .  l2 l2 l3 l3"
+      padding-top: 32px
+      .mhn
+        margin: 0
+      .social
+        margin: 0
+        a
+          padding: 0 5%
+          width: 15%
+
+

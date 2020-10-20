@@ -32,13 +32,13 @@ const Dropdown = ({ children, callback }) => {
 
 const Contenidos = () => (
   <>
-    <Link to="/1800-1810/">1800-1810</Link>
+    <Link to="/1794-1810/">1794-1810</Link>
     <nav>
-      <Link to="/1800-1810/reformista/">Reformista</Link>
-      <Link to="/1800-1810/burocrata/">Burócrata</Link>
-      <Link to="/1800-1810/invasiones/">Invasiones</Link>
-      <Link to="/1800-1810/la-conspiracion/">La conspiración</Link>
-      <Link to="/1800-1810/hacer-la-revolucion/">Hacer la revolución</Link>
+      <Link to="/1794-1810/reformista/">Reformista</Link>
+      <Link to="/1794-1810/burocrata/">Burócrata</Link>
+      <Link to="/1794-1810/invasiones/">Invasiones</Link>
+      <Link to="/1794-1810/la-conspiracion/">La conspiración</Link>
+      <Link to="/1794-1810/hacer-la-revolucion/">Hacer la revolución</Link>
     </nav>
     <Link to="/1811-1820/">1811-1820</Link>
     <nav>
@@ -127,7 +127,7 @@ const Header: React.FC<DataProps> = ({ siteTitle, variant }) => {
       </div>
 
       <nav className="content" style={{display: 'none'}}>
-        <Link to="/1800-1810/">1800-1810</Link>
+        <Link to="/1794-1810/">1794-1810</Link>
         <Link to="/1811-1820/">1811-1820</Link>
       </nav>
     </header>

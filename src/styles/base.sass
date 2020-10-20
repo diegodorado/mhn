@@ -1,0 +1,38 @@
+
+html,body
+  margin: 0
+  padding: 0
+
+html
+  font-size: 16px
+  overflow-y: scroll
+  scrollbar-width: none /* Firefox */
+  -ms-overflow-style: none  /* IE 10+ */
+  &::-webkit-scrollbar  /* WebKit */
+    width: 0
+
+body
+  color: $black
+  font-family: 'Montserrat'
+
+h2
+  font-family: 'Josefin Sans'
+  color: $primary
+  font-weight: normal
+  +font-size(1.8rem)
+
+h3
+  font-weight: normal
+  +font-size(1.6rem)
+
+main
+  margin-bottom: 48px
+
+#app
+  margin: 0 auto 100px
+  width: 85%
+  +breakpoint(sm)
+    width: 700px
+  +breakpoint(lg)
+    width: 1080px
+

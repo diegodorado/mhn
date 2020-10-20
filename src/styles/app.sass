@@ -5,103 +5,9 @@ $rfs-base-value: 12
 
 @import "mixins"
 @import "~rfs/scss"
-
-html,body
-  margin: 0
-  padding: 0
-
-html
-  font-size: 16px
-  overflow-y: scroll
-  scrollbar-width: none /* Firefox */
-  -ms-overflow-style: none  /* IE 10+ */
-  &::-webkit-scrollbar  /* WebKit */
-    width: 0
-
-body
-  color: $black
-  font-family: 'Montserrat'
-
-h2
-  font-family: 'Josefin Sans'
-  color: $primary
-  font-weight: normal
-  +font-size(1.8rem)
-
-h3
-  font-weight: normal
-  +font-size(1.6rem)
-
-p.intro
-  padding: 10% 0
-  line-height: 1.4em
-  +font-size(1.2rem)
-
-
-.choose
-  display: grid
-  grid-template-columns: repeat(2,1fr)
-  grid-template-rows: auto
-  column-gap: 5%
-  .side
-    text-align: center
-    a
-      height: 2em
-      line-height: 2em
-      color: #aaa
-      text-decoration: none
-
-#app
-  margin: 0 auto 100px
-  width: 85%
-  +breakpoint(sm)
-    width: 700px
-    header
-      .burger-menu
-        .dropdown
-          left: 50%
-    p.intro
-      padding: 10%
-    footer
-      grid-template-columns: repeat(6,1fr)
-      grid-template-areas: "k k . . l1 l1" "s s . . l2 l3"
-      padding-top: 32px
-      .mhn
-        margin: 0
-      .social
-        a
-          padding: 0
-          width: 25%
-  +breakpoint(lg)
-    width: 1080px
-    header
-      .burger-menu
-        display: none
-      .links
-        display: block
-
-    p.intro
-      padding: 4% 10%
-
-    footer
-      grid-template-columns: repeat(18,1fr)
-      grid-template-areas: ". . . . . . . . . . . . . . l1 l1 l1 l1" " k k k k . . . . . . . . . . l1 l1 l1 l1" "k k k k . . s s s s s s . .  l2 l2 l3 l3"
-      padding-top: 32px
-      .mhn
-        margin: 0
-      .social
-        margin: 0
-        a
-          padding: 0 5%
-          width: 15%
-
-
-#app
-  +breakpoint(lg)
-    header
-      display: flex
-      h1
-        padding: 40px 0 0 0
+@import "base"
+@import "header"
+@import "footer"
 
 .home
   #app
@@ -109,145 +15,79 @@ p.intro
       header
         display: block
 
-header
-  h1
-    margin: 0
-    padding: 5% 20%
-    a
-      display: block
-      position: relative
-      overflow: hidden
-      svg
-        width: 100%
-      span
-        display: block
-        position: absolute
-        text-indent: -999em
-
-  a
-    color: $black
-  .home-logo
-    display: none
-  .links
-    a
-      +font-size(1rem)
-    width: 75%
-    margin: 50px auto 20px
-    display: none
-    text-align: right
-    a, > nav
-      margin: 0 1em
-    > nav
-      position: relative
-      display: inline-block
-      a
-        display: block
-    .dropdown
-      padding: 1em 2em
-      width: 13rem
-      position: absolute
-      top: 1.2rem
-  .burger-menu
-    > a
-      z-index: 100
-      position: absolute
-      top: 0
-      right: 0
-      +rfs(1rem)
-      +rfs(3rem, width)
-      +rfs(3rem, height)
-      +padding(1rem 2rem)
-      display: flex
-      flex-direction: column
-      span
-        transition: all 0.3s linear
-        background: $primary
-        display: block
-        height: 17%
-        border-radius: 0.5rem
-        position: relative
-        transform-origin: center right
-        &:first-child 
-          transform: rotate(0deg)
-        &:nth-child(2) 
-          opacity: 1
-        &:nth-child(3)
-          transform: rotate(0deg)
-    .dropdown
-      position: absolute
-      top: 0
-      left: 0
-      right: 0
-    &.open 
-      > a
-        span
-          background: $white
-          &:first-child 
-            transform: rotate(-42deg)
-          &:nth-child(2) 
-            opacity: 0
-          &:nth-child(3)
-            transform: rotate(42deg)
-
-              
-              
-  .dropdown
-    z-index: 99
-    text-align: left
-    +font-size(1.0rem)
-    padding: 2em 3em
-    background: $primary
-    nav
-      margin-left: 3em
-    a
-      display: block
-      line-height: 2.5em
-      color: $white
-      text-decoration: none
-      &:hover
-        text-decoration: underline
-        
-
-main
-  margin-bottom: 48px
-
-footer
-  border-top: 1px solid $primary
-  display: grid
-  grid-template-columns: repeat(12,1fr)
-  grid-template-rows: auto
-  grid-template-areas: ". . s s s s s s s s . ." " k k k k k k l1 l1 l1 l1 l1 l1" "k k k k k k l2 l2 l2 l3 l3 l3"
-  .social
-    grid-area: s
-    display: flex
-    justify-content: center
-    margin-bottom: 28px
-    a
-      width: 15%
-      padding: 5%
-      display: block
-  .links
-    grid-area: k
-    a
-      color: $black
-      display: block
-      +font-size(0.9rem)
-      margin-bottom: 20px
-  .mhn
-    display: block
-    grid-area: l1
-    margin: 0 0 18px 50px
-  .museos
-    display: block
-    grid-area: l2
-    margin: 7px
-  .ministerio
-    display: block
-    grid-area: l3
+#app
+  +breakpoint(sm)
+    p.intro
+      padding: 10%
+  +breakpoint(lg)
+    p.intro
+      padding: 4% 10%
 
 
 .home
+  .intro
+    position: relative
+    p
+      position: absolute
+      top: 0
+      padding: 0
+      margin: 0
+      line-height: 1.4em
+      text-align: center
+      +font-size(1rem)
+      opacity: 0
+    .chairL
+      left: 4%
+    .chairR
+      right: 4%
+    .chairL, .chairR
+      cursor: pointer
+      position: absolute
+      width: 40%
+      top: 25%
+      text-align: center
+      transform-origin: center center
+      transform: scale(0.5)
+      opacity: 0
+      a
+        height: 2em
+        line-height: 2em
+        color: #aaa
+        text-decoration: none
+        transition-delay: 1s
+        opacity: 0
+    &.ended
+      .chairR,.chairL, p
+        transition: opacity 1s, transform 1s
+        opacity: 1
+        transform: scale(1)
+        a
+          opacity: 1
+      p
+        transition-delay: 1s
+
+    video
+      width: 100%
+  +breakpoint(sm)
+    .intro
+      .chairL, .chairR
+        width: 30%
+        top: 20%
+      .chairL
+        left: 10%
+      .chairR
+        right: 10%
   +breakpoint(lg)
+    .intro
+      p
+        padding: 10% 32%
+      .chairL, .chairR
+        top: 0
+      .chairL
+        left: 4%
+      .chairR
+        right: 4%
+
     header
       h1
         display: none

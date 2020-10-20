@@ -1,0 +1,112 @@
+
+header
+  h1
+    margin: 0
+    padding: 5% 20%
+    a
+      display: block
+      position: relative
+      overflow: hidden
+      svg
+        width: 100%
+      span
+        display: block
+        position: absolute
+        text-indent: -999em
+  a
+    color: $black
+  .home-logo
+    display: none
+  .links
+    a
+      +font-size(1rem)
+    width: 75%
+    margin: 50px auto 20px
+    display: none
+    text-align: right
+    a, > nav
+      margin: 0 1em
+    > nav
+      position: relative
+      display: inline-block
+      a
+        display: block
+    .dropdown
+      padding: 1em 2em
+      width: 13rem
+      position: absolute
+      top: 1.2rem
+  .burger-menu
+    > a
+      z-index: 100
+      position: absolute
+      top: 0
+      right: 0
+      +rfs(1rem)
+      +rfs(3rem, width)
+      +rfs(3rem, height)
+      +padding(1rem 2rem)
+      display: flex
+      flex-direction: column
+      span
+        transition: all 0.3s linear
+        background: $primary
+        display: block
+        height: 17%
+        border-radius: 0.5rem
+        position: relative
+        transform-origin: center right
+        &:first-child 
+          transform: rotate(0deg)
+        &:nth-child(2) 
+          opacity: 1
+        &:nth-child(3)
+          transform: rotate(0deg)
+    .dropdown
+      position: absolute
+      top: 0
+      left: 0
+      right: 0
+    &.open 
+      > a
+        span
+          background: $white
+          &:first-child 
+            transform: rotate(-42deg)
+          &:nth-child(2) 
+            opacity: 0
+          &:nth-child(3)
+            transform: rotate(42deg)
+  .dropdown
+    z-index: 99
+    text-align: left
+    +font-size(1.0rem)
+    padding: 2em 3em
+    background: $primary
+    nav
+      margin-left: 3em
+    a
+      display: block
+      line-height: 2.5em
+      color: $white
+      text-decoration: none
+      &:hover
+        text-decoration: underline
+        
+
+#app
+  +breakpoint(sm)
+    header
+      .burger-menu
+        .dropdown
+          left: 50%
+  +breakpoint(lg)
+    header
+      display: flex
+      h1
+        padding: 40px 0 0 0
+      .burger-menu
+        display: none
+      .links
+        display: block
+
