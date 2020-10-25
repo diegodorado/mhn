@@ -6,7 +6,21 @@ module.exports = {
     author: `@diegodorado`,
   },
   plugins: [
+    `gatsby-plugin-catch-links`,
     `gatsby-plugin-react-helmet`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/content`,
+        name: "pages"
+      }
+    },
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [] // just in case those previously mentioned remark plugins sound cool :)
+      }
+    },
     `gatsby-plugin-sass`,
     {
       resolve: `gatsby-source-filesystem`,
