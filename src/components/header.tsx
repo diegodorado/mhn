@@ -1,5 +1,6 @@
-import { Link } from "gatsby"
 import React, { useState, useRef, useEffect } from "react"
+import { Link,  StaticQuery, graphql } from "gatsby"
+
 
 import Logo from "../assets/logo.svg"
 
@@ -31,25 +32,48 @@ const Dropdown = ({ children, callback }) => {
 }
 
 const Contenidos = () => (
-  <>
-    <Link to="/1794-1810/">1794-1810</Link>
-    <nav>
-      <Link to="/1794-1810/reformista/">Reformista</Link>
-      <Link to="/1794-1810/burocrata/">Burócrata</Link>
-      <Link to="/1794-1810/invasiones/">Invasiones</Link>
-      <Link to="/1794-1810/la-conspiracion/">La conspiración</Link>
-      <Link to="/1794-1810/hacer-la-revolucion/">Hacer la revolución</Link>
-    </nav>
-    <Link to="/1811-1820/">1811-1820</Link>
-    <nav>
-      <Link to="/1811-1820/a-las-armas/">A las armas</Link>
-      <Link to="/1811-1820/celeste-y-blanca/">Celeste y blanca</Link>
-      <Link to="/1811-1820/aventura-europea/">Aventura europea</Link>
-      <Link to="/1811-1820/un-rey-inca/">Un rey inca</Link>
-      <Link to="/1811-1820/el-final/">El final</Link>
-      <Link to="/1811-1820/muchos-rostros/">Muchos rostros</Link>
-    </nav>
-  </>
+  <StaticQuery
+      query={graphql`
+        query Links {
+          allMarkdownRemark(sort: {order: ASC, fields: frontmatter___index}) {
+            group(field: frontmatter___category, limit: 1) {
+              nodes {
+                fields {
+                  slug
+                }
+                frontmatter {
+                  category
+                  index
+                }
+              }
+            }
+          }
+        }
+      `}
+      render={data => {
+        const links = data.allMarkdownRemark.group
+          .map( g => g.nodes[0])
+          .map( n => {return {...n.fields,...n.frontmatter}})
+          .sort((a,b) => a.index > b.index ? 1 : -1)
+        return (
+        <>
+          <Link to="/1794-1810/">1794-1810</Link>
+          <nav>
+            {links.map( l => <Link key={l.slug} to={l.slug}>{l.category}</Link>)}
+          </nav>
+          <Link to="/1811-1820/">1811-1820</Link>
+          <nav>
+            <Link to="/1811-1820/a-las-armas/">A las armas</Link>
+            <Link to="/1811-1820/celeste-y-blanca/">Celeste y blanca</Link>
+            <Link to="/1811-1820/aventura-europea/">Aventura europea</Link>
+            <Link to="/1811-1820/un-rey-inca/">Un rey inca</Link>
+            <Link to="/1811-1820/el-final/">El final</Link>
+            <Link to="/1811-1820/muchos-rostros/">Muchos rostros</Link>
+          </nav>
+        </>
+      )}}
+    />
+
 )
 
 const DesktopNav = () => {

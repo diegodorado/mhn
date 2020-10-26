@@ -1,10 +1,12 @@
 ---
-title: "Invasiones"
+index: "0 3 3"
+category: Invasiones
+title: Escudo de Patricios
+overview: |
+  Una de las consecuencias de la primera invasión británica fue que tras su derrota en agosto de 1806 se formaron en Buenos Aires una serie de cuerpos milicianos voluntarios para combatir una posible segunda invasión. La milicia no era lo mismo que el ejército, sino que la formaban los habitantes de la ciudad armados. 
 images:
   - escudo-de-patricios.jpg
 ---
-### Escudo de Patricios
-Una de las consecuencias de la primera invasión británica fue que tras su derrota en agosto de 1806 se formaron en Buenos Aires una serie de cuerpos milicianos voluntarios para combatir una posible segunda invasión. La milicia no era lo mismo que el ejército, sino que la formaban los habitantes de la ciudad armados. 
 
 Las unidades se crearon según el lugar de origen de los hombres que las conformaron y el color de piel, ya que la sociedad colonial era jurídicamente desigual: quien no era blanco debía estar separado. Los Patricios eran los nacidos en la patria de Buenos Aires, los Arribeños eran de las provincias de arriba, los Naturales, Pardos y Morenos estaban integrados por los miembros de las castas y los cuerpos españoles se organizaron por su lugar de origen. Los soldados votaban a los oficiales. El Cabildo pagó las armas y los uniformes de muchos milicianos sin recursos.
 Belgrano fue elegido sargento mayor de Patricios y en ese cuerpo combatió contra la segunda invasión. Pronto comenzó a tomar lecciones militares.

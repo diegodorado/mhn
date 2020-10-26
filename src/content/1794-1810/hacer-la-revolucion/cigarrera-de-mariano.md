@@ -1,12 +1,13 @@
 ---
-title: "Hacer la revolución"
+index: "0 5 3"
+category: Hacer la revolución 
+title: Cigarrera de Mariano Moreno
+overview: |
+  Esta cigarrera perteneció a Mariano Moreno. Tiene la inscripción de su nombre, su título profesional y su status de español americano: Doctor –en leyes–, y Don. Contiene también una inscripción política: “Fernando VII - Viva el Rey”, y el escudo de armas de la corona española.
 images:
   - cigarrera-de-mariano-a.jpg
   - cigarrera-de-mariano-b.jpg
 ---
-
-### Cigarrera de Mariano Moreno
-Esta cigarrera perteneció a Mariano Moreno. Tiene la inscripción de su nombre, su título profesional y su status de español americano: Doctor –en leyes–, y Don. Contiene también una inscripción política: “Fernando VII - Viva el Rey”, y el escudo de armas de la corona española.
 
 Mientras la mayoría de la junta formada el 25 de mayo de 1810 quería elegir a las propias autoridades y manejar la economía, convirtiendo a los territorios americanos en iguales a España y ya no sus colonias, pero a la vez conservando la fidelidad al rey, la mirada de Moreno era muy crítica de la monarquía y a favor de un gobierno representativo de la voluntad popular. Fue de los primeros en plantear un proyecto independentista, aunque de modo disimulado porque conocía la gran popularidad del rey. En La Gazeta, el periódico que redactaba, sostuvo que amaban a Fernando VII pero que en realidad los derechos de la monarquía española en América eran ilegítimos, ya que la conquista se hizo por la fuerza, y nunca se le había dado poder por el consentimiento libre y unánime de los pueblos, por lo que no se le debía obediencia. En la primera etapa de la Revolución, Belgrano estuvo cerca de las ideas de Moreno.
 

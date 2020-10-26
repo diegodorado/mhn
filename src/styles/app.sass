@@ -110,6 +110,15 @@ $rfs-base-value: 12
       color: $black
         
 .level1
+  .overview
+    +font-size(1.3rem)
+  figure
+    margin: 0
+    a
+      text-align: center
+      display: block
+      +font-size(0.9rem)
+    
   .pager
     display: flex
     line-height: 3em
@@ -132,3 +141,12 @@ $rfs-base-value: 12
         &::after
           border-left: 0
           border-right: 1em solid $primary
+    &.category
+      a,span
+        display: none
+      h3
+        flex: 1
+        margin: 0
+        padding: 0
+        text-align: center
+

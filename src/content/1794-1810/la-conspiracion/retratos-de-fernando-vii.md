@@ -1,13 +1,14 @@
 ---
-title: "La conspiración"
+index: "0 4 2"
+category: La conspiración
+title: Retratos de Fernando VII
+overview: |
+  Los retratos de los reyes españoles estaban muy presentes en América colonial. Su presencia reforzaba el poder de la monarquía y mostraba la cara de un monarca siempre lejano. Las imágenes de Fernando VII circularon mucho porque además representaban el rechazo español a la dominación francesa de Napoleón.
 images:
   - retratos-de-fernando-vii-a.jpg
   - retratos-de-fernando-vii-b.jpg
   - retratos-de-fernando-vii-c.jpg
 ---
-
-### Retratos de Fernando VII
-Los retratos de los reyes españoles estaban muy presentes en América colonial. Su presencia reforzaba el poder de la monarquía y mostraba la cara de un monarca siempre lejano. Las imágenes de Fernando VII circularon mucho porque además representaban el rechazo español a la dominación francesa de Napoleón.
 
 En 1808 el ejército comandado por el emperador francés Napoleón Bonaparte invadió la península Ibérica. Su idea era expandir su poder e influencia sobre el continente europeo. Poco tiempo antes, en 1807, el rey español Carlos IV había renunciado al trono. El príncipe heredero, que había conspirado para que esto sucediera, fue coronado como Fernando VII. Pero su reinado fue breve: Napoleón lo desplazó y lo llevó prisionero a un palacio francés. Entonces nombró a su hermano, José Bonaparte, como rey de España, pero una gran parte de los españoles no aceptó la decisión. Desde ése momento la imagen de Fernando VII se volvió un símbolo de la resistencia española a la invasión francesa tanto en Europa como en las colonias americanas, que permanecieron fieles al monarca cautivo.
 

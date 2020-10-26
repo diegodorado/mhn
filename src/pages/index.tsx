@@ -18,6 +18,9 @@ const IndexPage: React.FC<PageProps<DataProps>> = ({ data, path }) => {
   const [wide, setWide] = useState(false)
   const [ended, setEnded] = useState(false)
 
+  const lLink = "/1794-1810/burocrata/sello-consulado/"
+  const rLink = "/"
+
   useEffect( () => {
     const vid = vidRef.current
 
@@ -59,13 +62,13 @@ const IndexPage: React.FC<PageProps<DataProps>> = ({ data, path }) => {
         <source src={wide ? IntroWide : IntroSq} type="video/mp4" />
       </video>
         <p>Fue reformista y después revolucionario. Fue republicano y luego monárquico. Tuvo victorias y también derrotas. Muchas variaciones pero una constante: la confianza en la acción para modificar el mundo. A esa certeza dedicó su vida Manuel Belgrano.</p>
-        <div className="chairL" onClick={() => navigate("/1794-1810/")}>
+        <div className="chairL" onClick={() => navigate(lLink)}>
           <Img fluid={data.image0.childImageSharp.fluid} />
-          <a href="/">VER 1794-1810</a>
+          <Link to={lLink}>VER 1794-1810</Link>
         </div>
-        <div className="chairR" onClick={() => navigate("/1811-1820/")}>
+        <div className="chairR" onClick={() => navigate(rLink)}>
           <Img fluid={data.image1.childImageSharp.fluid} />
-          <a href="/">VER 1811-1820</a>
+          <Link to={rLink}>VER 1811-1820</Link>
         </div>
     </div>
   </Layout>

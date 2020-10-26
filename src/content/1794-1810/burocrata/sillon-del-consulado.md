@@ -1,12 +1,12 @@
 ---
-title: "Burócrata"
+index: "0 0 1"
+category: Burócrata
+title: Sillón del Consulado
+overview: |
+  Desde su lugar en el Consulado de Buenos Aires, el joven Belgrano defendió sus ideas e intentó promover algunos cambios económicos en el Río de la Plata. Pronto se ganó un prestigio sólido entre la elite porteña.
 images:
   - sillon-del-consulado.jpg
 ---
-
-### Sillón del Consulado
-
-Desde su lugar en el Consulado de Buenos Aires, el joven Belgrano defendió sus ideas e intentó promover algunos cambios económicos en el Río de la Plata. Pronto se ganó un prestigio sólido entre la elite porteña.
 
 Como Secretario, Belgrano tenía que organizar reuniones semanales y redactar informes que se leían cada año al inicio de las sesiones del Consultado. En estos informes, que se llamaban memorias, hacía un análisis de la situación económica y comercial, y recomendaba líneas de acción. En estos escritos, Belgrano defendió un proyecto reformista que estaba inspirado en las corrientes de la economía política en auge en Europa: el liberalismo y la fisiocracia. Preocupado por el progreso de la educación, la agricultura, las industrias artesanales locales y el comercio, propuso la creación de academias de enseñanza técnica, una escuela de náutica y una de dibujo. El proyecto que Belgrano impulsó desde el Consulado promovía el desarrollo local y el valor agregado a la producción. Otros compartían sus posiciones, pero una parte de los grandes comerciantes y las autoridades coloniales no lo hacían.
 

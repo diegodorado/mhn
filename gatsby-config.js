@@ -1,11 +1,13 @@
 module.exports = {
   pathPrefix: '/mhn',
   siteMetadata: {
+    siteUrl: `https://change.me`,
     title: `Museo Histórico Nacional`,
     description: `Sitio Web del Museo Historico Nacional`,
     author: `@diegodorado`,
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-react-helmet`,
     {

@@ -1,11 +1,12 @@
 ---
-title: "Hacer la revolución"
+index: "0 5 1"
+category: Hacer la revolución 
+title: Invitación al Cabildo Abierto
+overview: |
+  Esta es una invitación al Cabildo Abierto del 22 de mayo de 1810, dirigida a Don Diego Agüero, un gran comerciante de Buenos Aires. La reunión extraordinaria se convocó por la noticia de la disolución de la Junta Central de Sevilla ante el avance de la invasión francesa, que ocupó toda España salvo la ciudad de Cádiz. 
 images:
   - invitacion-al-cabildo-abierto.jpg
 ---
-
-### Invitación al Cabildo Abierto
-Esta es una invitación al Cabildo Abierto del 22 de mayo de 1810, dirigida a Don Diego Agüero, un gran comerciante de Buenos Aires. La reunión extraordinaria se convocó por la noticia de la disolución de la Junta Central de Sevilla ante el avance de la invasión francesa, que ocupó toda España salvo la ciudad de Cádiz. 
 
 La caída de la metrópoli significó para muchos que la autoridad del virrey Cisneros había caducado en el Río de la Plata. La posición mayoritaria en el Cabildo Abierto fue que la soberanía debía volver a los pueblos, es decir las ciudades del virreinato, que se gobernarían a sí mismos a través de una junta en nombre de Fernando VII, el rey cautivo. Se suponía que la soberanía retornaba del rey a los pueblos que se la habían dado originalmente, y estos la tendrían en depósito hasta que el monarca volviese a su trono. 
 Los opositores a la medida argumentaron que Buenos Aires no podía tomar la decisión sin consultar a los otros pueblos, pero se les respondió que la emergencia permitía formar la junta primero y convocarlos después. Belgrano estuvo presente en el Cabildo Abierto y fue uno de los partidarios de deponer al virrey, postura que ganó en la votación final.

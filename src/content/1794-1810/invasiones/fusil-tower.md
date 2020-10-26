@@ -1,11 +1,12 @@
 ---
-title: "Invasiones"
+index: "0 3 1"
+category: Invasiones
+title: Fusil Tower
+overview: |
+  A principios del siglo XIX Buenos Aires era a la vez capital de un virreinato y puerto comercial destacado. Sin embargo, a diferencia de otros puertos hispanoamericanos, estaba mal protegida militarmente.
 images:
   - fusil-tower.jpg
 ---
-
-### Fusil Tower
-A principios del siglo XIX Buenos Aires era a la vez capital de un virreinato y puerto comercial destacado. Sin embargo, a diferencia de otros puertos hispanoamericanos, estaba mal protegida militarmente.
 
 En 1805, los británicos vencieron a la flota española y su aliada francesa en la batalla de Trafalgar. España quedó virtualmente incomunicada con sus colonias americanas. Aprovechando la situación, en junio de 1806 un pequeño ejército británico que estaba en Sudáfrica atacó por sorpresa Buenos Aires y la ocupó con facilidad; también se apoderó del tesoro real. El virrey Rafael de Sobremonte se retiró a Córdoba. Varias corporaciones porteñas juraron fidelidad al rey británico, entre ellas el Consulado. Pero su secretario Belgrano se negó a hacerlo y se marchó a la Banda Oriental (actual Uruguay). 
 Tropas enviadas desde Montevideo y fuerzas espontáneas organizadas en Buenos  Aires reconquistaron la ciudad poco más tarde. Al año siguiente una nueva fuerza, esta vez poderosa, llegó desde Inglaterra y conquistó Montevideo. En julio de 1807 se lanzó sobre Buenos Aires. Pero los invasores fueron derrotados en combates callejeros y se rindieron. Belgrano combatió en esa exitosa defensa.
