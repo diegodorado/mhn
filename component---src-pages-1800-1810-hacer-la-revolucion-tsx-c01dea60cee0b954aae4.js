@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{UOyA:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),c=t("Bl7J"),r=t("vrFN");n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Inicio"}),l.a.createElement("p",null,"INDEX"))}}}]);
-//# sourceMappingURL=component---src-pages-1800-1810-hacer-la-revolucion-tsx-c01dea60cee0b954aae4.js.map

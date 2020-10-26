@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{"ewq/":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),u=t("Bl7J"),r=t("vrFN");a.default=function(e){e.data,e.path;return l.a.createElement(u.a,{bodyClass:"about"},l.a.createElement(r.a,{title:"Propuestas educativas"}),l.a.createElement("h2",null,"Propuestas educativas"),l.a.createElement("p",null,"Loren ipsum"),l.a.createElement("h3",null,"Titulo 3"),l.a.createElement("p",null,"Loren ipsum"))}}}]);
-//# sourceMappingURL=component---src-pages-propuestas-educativas-tsx-1de5a8676aa967d84211.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{Giof:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),c=t("Bl7J"),i=t("vrFN");n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(i.a,{title:"Inicio"}),l.a.createElement("p",null,"INDEX"))}}}]);
-//# sourceMappingURL=component---src-pages-1811-1820-celeste-y-blanca-tsx-8f603070f6bfb1448728.js.map

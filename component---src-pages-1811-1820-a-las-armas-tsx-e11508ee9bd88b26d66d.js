@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{vJB6:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),c=t("Bl7J"),r=t("vrFN");n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Inicio"}),l.a.createElement("p",null,"INDEX"))}}}]);
-//# sourceMappingURL=component---src-pages-1811-1820-a-las-armas-tsx-e11508ee9bd88b26d66d.js.map
