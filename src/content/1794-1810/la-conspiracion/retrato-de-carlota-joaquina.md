@@ -5,7 +5,8 @@ title: Retrato de Carlota Joaquina
 overview: |
   Carlota Joaquina de Borbón, hija mayor del rey de España Carlos IV y hermana quien sería Fernando VII, se casó con el príncipe de Braganza, luego rey de Portugal con el nombre de Juan VI. En 1808, cuando Napoleón invadió España y tomó prisionero a Fernando VII, ella se propuso como heredera legítima y depositaria de los derechos de la dinastía borbónica española en América, para gobernar en Buenos Aires.
 images:
-  - retrato-de-carlota-joaquina.jpg
+  - file: retrato-de-carlota-joaquina.jpg
+    alt: Retrato de Carlota Joaquina
 ---
 
 Ante la invasión de Napoleón a Portugal, la familia real y la corte se trasladaron a Brasil, colonia portuguesa, y se instalaron en Río de Janeiro. Desde allí, en agosto de 1808, Carlota intentó ser reconocida como regente de la monarquía española en América, ante el avance francés sobre España, y el cautiverio de su hermano. Las autoridades coloniales la rechazaron, pero tuvo el apoyo de un grupo de hombres de la elite de Buenos Aires, entre los que estaban Belgrano, Juan José Castelli, Hipólito Vieytes, Antonio Beruti y los hermanos Rodríguez Peña. El proyecto político de coronar a la Infanta Carlota como soberana del Río de la Plata en nombre de Fernando, es conocido como Carlotismo.

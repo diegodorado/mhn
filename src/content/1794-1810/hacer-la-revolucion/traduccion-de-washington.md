@@ -7,8 +7,10 @@ title: Traducción de Washington
 overview: |
   Este es un ejemplar del libro: Despedida de Washington al pueblo de los Estados Unidos, que fue traducido por Manuel Belgrano y Joseph Redhead, su médico personal, y publicado en Buenos Aires en 1813. Es un largo discurso de contenido político, que Belgrano consideró útil e inspirador.
 images:
-  - traduccion-de-washington-a.jpg
-  - traduccion-de-washington-b.jpg
+  - file: traduccion-de-washington-a.jpg
+    alt: Traducción de Washington
+  - file: traduccion-de-washington-b.jpg
+    alt: Traducción de Washington
 ---
 
 Se trata de un mensaje de George Washington, general de la guerra de independencia de Estados Unidos de América y primer presidente de ese país, escrito a modo de carta a los ciudadanos, en el que comunicó la decisión de no continuar por un tercer mandato en la presidencia, como le fue ofrecido. Se publicó por primera vez en septiembre de 1796, y es una declaración clásica sobre el republicanismo y sus ideas acerca del gobierno. Defendía la Constitución al afirmar que el sistema de controles, equilibrios y la separación de poderes eran la clave para la libertad y la felicidad de la nación. Belgrano consideró necesario que se leyera y estudiara este “librito”, como lo llamó. Era una incitación a terminar con la tiranía española en el Río de la Plata.

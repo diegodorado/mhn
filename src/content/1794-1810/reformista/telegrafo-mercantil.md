@@ -5,7 +5,8 @@ title: Telégrafo Mercantil
 overview: |
   El 1° de abril de 1801 apareció el Telégrafo Mercantil, Rural, Político, Económico e Historiográfico del Río de la Plata, el primer periódico que se publicó en Buenos Aires. En él expresaron sus ideas y proyectos de transformación social y económica algunos destacados ilustrados de la época. Uno de ellos era Belgrano.
 images:
-  - telegrafo-mercantil.jpg
+  - file: telegrafo-mercantil.jpg
+    alt: Telégrafo mercantil
 ---
 
 En su etapa universitaria en España, Belgrano adoptó ideas de la Ilustración, movimiento que confiaba en la razón humana como vía de conocer la realidad y transformarla. También vivió el impacto que generó la Revolución Francesa, con su gran cuestionamiento de la autoridad y la sociedad tradicional.

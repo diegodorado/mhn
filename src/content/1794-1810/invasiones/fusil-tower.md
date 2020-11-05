@@ -5,7 +5,8 @@ title: Fusil Tower
 overview: |
   A principios del siglo XIX Buenos Aires era a la vez capital de un virreinato y puerto comercial destacado. Sin embargo, a diferencia de otros puertos hispanoamericanos, estaba mal protegida militarmente.
 images:
-  - fusil-tower.jpg
+  - file: fusil-tower.jpg
+    alt: Fusil Tower con mango de madera, gatillo y caño de metal. Medía alrededor de un metro de largo, pesaba de seis a siete kilos y disparaba un proyectil esférico de plomo. 
 ---
 
 En 1805, los británicos vencieron a la flota española y su aliada francesa en la batalla de Trafalgar. España quedó virtualmente incomunicada con sus colonias americanas. Aprovechando la situación, en junio de 1806 un pequeño ejército británico que estaba en Sudáfrica atacó por sorpresa Buenos Aires y la ocupó con facilidad; también se apoderó del tesoro real. El virrey Rafael de Sobremonte se retiró a Córdoba. Varias corporaciones porteñas juraron fidelidad al rey británico, entre ellas el Consulado. Pero su secretario Belgrano se negó a hacerlo y se marchó a la Banda Oriental (actual Uruguay). 
@@ -23,5 +24,4 @@ Arma de fuego de avancarga, con llave de chispa y cañón de ánima lisa. La caj
 Tiene grabada la palabra Tower en la platina, lo que indica su origen primario de fabricación: la Torre de Londres.
 Mide un metro aproximadamente y pesa entre seis y siete kilos.
 
-Fusil Tower con mango de madera, gatillo y caño de metal: medía alrededor de un metro de largo, pesaba de seis a siete kilos y disparaba un proyectil esférico de plomo. 
 

@@ -5,10 +5,14 @@ title: Petitorio Popular
 overview: |
   El 25 de mayo de 1810 se presentó al Cabildo un documento con múltiples firmas y “a nombre del pueblo”, conocido como petitorio popular. Enumera una serie de pedidos y exigencias de los revolucionarios. La principal: la definitiva destitución del Virrey y la formación de una junta de gobierno en la que no intervenía ninguna autoridad colonial.
 images:
-  - petitorio-popular-a.jpg
-  - petitorio-popular-b.jpg
-  - petitorio-popular-c.jpg
-  - petitorio-popular-d.jpg
+  - file: petitorio-popular-a.jpg
+    alt: Petitorio Popular
+  - file: petitorio-popular-b.jpg
+    alt: Petitorio Popular
+  - file: petitorio-popular-c.jpg
+    alt: Petitorio Popular
+  - file: petitorio-popular-d.jpg
+    alt: Petitorio Popular
 ---
 
 El petitorio fue una reacción a lo ocurrido el 24 de mayo, cuando el Cabildo nombró una junta con el virrey, que había sido destituido en el cabildo abierto dos días antes, como presidente. Los firmantes del petitorio exigían se nombrara una nueva junta y exponía los nombres de quienes debían integrarla, porque "esta es la manifiesta voluntad del Pueblo". Los adherentes se presentaban como “vecinos, comandantes y oficiales de los cuerpos voluntarios de esta capital de Buenos Aires que abajo firmamos por nosotros y a nombre del pueblo”. Este pueblo era un nuevo sujeto político.

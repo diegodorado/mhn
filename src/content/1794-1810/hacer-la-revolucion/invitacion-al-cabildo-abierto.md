@@ -5,7 +5,8 @@ title: Invitación al Cabildo Abierto
 overview: |
   Esta es una invitación al Cabildo Abierto del 22 de mayo de 1810, dirigida a Don Diego Agüero, un gran comerciante de Buenos Aires. La reunión extraordinaria se convocó por la noticia de la disolución de la Junta Central de Sevilla ante el avance de la invasión francesa, que ocupó toda España salvo la ciudad de Cádiz. 
 images:
-  - invitacion-al-cabildo-abierto.jpg
+  - file: invitacion-al-cabildo-abierto.jpg
+    alt: Invitación al Cabilod Abierto
 ---
 
 La caída de la metrópoli significó para muchos que la autoridad del virrey Cisneros había caducado en el Río de la Plata. La posición mayoritaria en el Cabildo Abierto fue que la soberanía debía volver a los pueblos, es decir las ciudades del virreinato, que se gobernarían a sí mismos a través de una junta en nombre de Fernando VII, el rey cautivo. Se suponía que la soberanía retornaba del rey a los pueblos que se la habían dado originalmente, y estos la tendrían en depósito hasta que el monarca volviese a su trono. 

@@ -5,7 +5,8 @@ title: Toma de Buenos Aires
 overview: |
   Varios meses después de la derrota británica de 1806 circuló un curioso grabado inglés en el que se representaba la entrada de los invasores en Buenos Aires.
 images:
-  - toma-de-buenos-aires.jpg
+  - file: toma-de-buenos-aires.jpg
+    alt: Toma de Buenos Aires
 ---
 
 La gloriosa conquista de Buenos Aires por las fuerzas británicas es una entre muchas imágenes que circulaban y construían relatos. Así, las personas conocían y recordaban los eventos más significativos de sus tiempos: batallas, naufragios, funerales y hasta actividades de la vida cotidiana. Probablemente inspirada en los relatos de quienes regresaban de América, esta escena representa en sucesivos planos la toma de la ciudad de Buenos Aires en junio de 1806, durante la primera invasión inglesa. Por eso se ven distintos grupos de hombres descargando armamento, formándose, disparando e incluso iniciando incendios camino al Fuerte. Su autor es George Thompson, un grabador e impresor de Londres, y se trata de una xilografía coloreada a mano.

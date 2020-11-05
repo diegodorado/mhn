@@ -5,8 +5,10 @@ title: Bandera de gallegos
 overview:  |
   Las unidades milicianas de los españoles que vivían en Buenos Aires se organizaron según la región de origen, que era una identidad muy fuerte. Así hubo cuerpos de Catalanes o Miñones, Vizcaínos, Cántabros o Montañeses, Andaluces y Gallegos. El comandante de los Gallegos fue Pedro Antonio Cerviño, que había llegado de Galicia en 1774 y desde 1799 era el director de la Escuela Náutica, puesto en el que fue designado por Belgrano, con quien compartía varios puntos de vista.
 images:
-  - bandera-de-gallegos-a.jpg
-  - bandera-de-gallegos-b.jpg
+  - file: bandera-de-gallegos-a.jpg
+    alt: Bandera de Gallegos
+  - file: bandera-de-gallegos-b.jpg
+    alt: Bandera de Gallegos
 ---
 
 Cada cuerpo miliciano creó sus insignias. Los escudos y banderas organizaban a los hombres y reforzaban su identidad. Cerviño mandó a hacer dos banderas para el tercio de Gallegos.

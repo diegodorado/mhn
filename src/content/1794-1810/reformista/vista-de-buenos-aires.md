@@ -5,7 +5,8 @@ title: Vista de Buenos Aires
 overview: |
   Así fue dibujada Buenos Aires en 1794, año en el que Belgrano retornó de España a esa ciudad, donde había nacido. La vista es la primera que se conoce tomada desde el interior del territorio, en el sudeste, y no desde el Río de la Plata. Se atribuye a Fernando Brambilla, miembro de una expedición científica enviada por la monarquía española a poco de creado el Virreinato.
 images:
-  - vista-de-buenos-aires.jpg
+  - file: vista-de-buenos-aires.jpg
+    alt: Vista de Buenos Aires
 ---
 
 Como parte de las reformas que se iniciaron en el imperio español con el rey Carlos III,  buscando una mejor administración y aumentar la recaudación fiscal, se planificaron expediciones. La que llegó al Río de la Plata, al mando del marino italiano Alessandro Malaspina, se extendió desde 1789 a 1794, siguiendo las rutas de expediciones previas francesas e inglesas. Se propuso confeccionar cartas hidrográficas, es decir, mapas de los ríos y puertos marítimos, para guiar las rutas de navegación mercantil. A su regreso, Malaspina recomendó una “independencia moderada” de las colonias, por lo cual fue encarcelado y desterrado de España.

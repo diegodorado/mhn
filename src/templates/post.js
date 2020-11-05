@@ -30,7 +30,7 @@ const Template = ({pageContext, data}) => {
     
     {images && (
       <CyclicFade speed={8000}> 
-        {images.map( i => <Img key={i} fluid={i.childImageSharp.fluid} alt={i.name.replace("-"," ")} />)}
+        {images.map( i => <Img key={i} fluid={i.file.childImageSharp.fluid} alt={i.alt} />)}
       </CyclicFade>
     )}
 
@@ -62,10 +62,12 @@ export const pageQuery = graphql`
         category
         overview
         images {
-          name
-          childImageSharp {
-            fluid(maxWidth: 1000) {
-              ...GatsbyImageSharpFluid
+          alt
+          file{ 
+            childImageSharp {
+              fluid(maxWidth: 1920, quality: 90) {
+                ...GatsbyImageSharpFluid
+              }
             }
           }
         }
