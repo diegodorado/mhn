@@ -3,14 +3,15 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Img from "gatsby-image"
-import CyclicFade from  "../components/cyclic-fade"
 import Surprise from "../assets/caja-sorpresa.svg"
+import ZoomSlider from "../components/slider/components/Slider"
 
 
 const Template = ({pageContext, data}) => {
   const { markdownRemark: post } = data
   const { category, title, overview, images } = post.frontmatter
   const {previous, next } = pageContext
+  const slides = images.map( i => <Img key={i}  draggable={false}  fluid={i.file.childImageSharp.fluid} alt={i.alt} />)
 
   return (
   <Layout bodyClass="level1">
@@ -18,21 +19,20 @@ const Template = ({pageContext, data}) => {
 
     <nav className="pager category">
       {previous ? <Link to={previous} /> : <span/>}
-      <h3>{category}</h3>
+      <h2>{category}</h2>
       {next ? <Link to={next} /> : <span/>}
     </nav>
     
-    <nav className="pager"> 
+    <nav className="pager object"> 
       {previous ? <Link to={previous} /> : <span/>}
-      <h2>{title}</h2>
+      <h3>{title}</h3>
       {next ? <Link to={next} /> : <span/>}
     </nav>
     
-    {images && (
-      <CyclicFade speed={8000}> 
-        {images.map( i => <Img key={i} fluid={i.file.childImageSharp.fluid} alt={i.alt} />)}
-      </CyclicFade>
-    )}
+    <div style={{width:'100%', overflow: 'hidden'}}>
+      <ZoomSlider slides={slides} activeDotColor={"#006699"}/>
+
+    </div>
 
     <p className="overview">{overview}</p>
 

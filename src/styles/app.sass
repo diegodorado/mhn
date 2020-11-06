@@ -1,5 +1,6 @@
 $primary: #006699
 $black: #222
+$gray: #ccc
 $white: #fff
 $rfs-base-value: 12
 
@@ -122,31 +123,40 @@ $rfs-base-value: 12
   .pager
     display: flex
     line-height: 3em
-    h2
+    h2, h3
       flex: 1
+      margin: 0
+      padding: 0
       text-align: center
+
     span
       filter: saturate(0)
       opacity: 0.5
     a,span
       display: block
-      padding: 0.5em 1em
+      padding: 0.5em 0 0 1em
+      &:nth-child(1)
+        padding: 0.5em 1em 0 0
       &::after
         display: block
         content: ""
-        border-left: 1em solid $primary
         border-top: 1em solid transparent
         border-bottom: 1em solid transparent
-      &:nth-child(1)
+    &.object
+      font-size: 0.7em
+      a,span
         &::after
-          border-left: 0
-          border-right: 1em solid $primary
+          border-left: 1em solid $gray
+          border-right: 0
+        &:nth-child(1)
+          &::after
+            border-left: 0
+            border-right: 1em solid $gray
     &.category
       a,span
         display: none
-      h3
-        flex: 1
-        margin: 0
-        padding: 0
-        text-align: center
-
+        &::after
+          border-left: 1em solid $primary
+        &:nth-child(1)
+          &::after
+            border-right: 1em solid $primary
