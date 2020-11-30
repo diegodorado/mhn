@@ -1,45 +1,95 @@
-import { Link } from "gatsby"
+import { Link, useStaticQuery, graphql } from "gatsby"
 import React from "react"
+import Img from "gatsby-image"
 
-import FbIcon from "../assets/fb.svg"
-import WebIcon from "../assets/web.svg"
-import TwIcon from "../assets/tw.svg"
-import IgIcon from "../assets/ig.svg"
-import MinisterioLogo from "../assets/logo-ministerio.svg"
-import MuseosLogo from "../assets/logo-museos.svg"
-import MhnLogo from "../assets/logo-mhn.svg"
+const Footer: React.FC = () => {
 
-const Footer: React.FC = () => (
-  <footer>
-    <nav className="social">
-      <Link to="/">
-        <FbIcon />
+  const data = useStaticQuery(graphql`
+    query {
+      fb: file(relativePath: { eq: "icons/fb.png" }) {
+        childImageSharp {
+          fluid(maxWidth: 58) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      web: file(relativePath: { eq: "icons/web.png" }) {
+        childImageSharp {
+          fluid(maxWidth: 58) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      tw: file(relativePath: { eq: "icons/tw.png" }) {
+        childImageSharp {
+          fluid(maxWidth: 58) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      ig: file(relativePath: { eq: "icons/ig.png" }) {
+        childImageSharp {
+          fluid(maxWidth: 58) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      mhn: file(relativePath: { eq: "logos/logo-mhn.png" }) {
+        childImageSharp {
+          fixed(width: 240) {
+            ...GatsbyImageSharpFixed
+          }
+        }
+      }
+      museos: file(relativePath: { eq: "logos/logo-museos.png" }) {
+        childImageSharp {
+          fixed(width: 106) {
+            ...GatsbyImageSharpFixed
+          }
+        }
+      }
+      ministerio: file(relativePath: { eq: "logos/logo-ministerio.png" }) {
+        childImageSharp {
+          fixed(width: 120) {
+            ...GatsbyImageSharpFixed
+          }
+        }
+      }
+    }
+  `)
+
+  return (
+    <footer>
+      <nav className="social">
+        <Link to="/">
+          <Img fluid={data.fb.childImageSharp.fluid} />
+        </Link>
+        <Link to="/">
+          <Img fluid={data.tw.childImageSharp.fluid} />
+        </Link>
+        <Link to="/">
+          <Img fluid={data.web.childImageSharp.fluid} />
+        </Link>
+        <Link to="/">
+          <Img fluid={data.ig.childImageSharp.fluid} />
+        </Link>
+      </nav>
+      <nav className="links">
+        <Link to="/propuestas-educativas/">Propuestas educativas</Link>
+        <Link to="/sobre-esta-muestra/">Sobre esta muestra</Link>
+        <Link to="/mapa-del-sitio/">Mapa del sitio</Link>
+      </nav>
+      <Link to="/" className="mhn">
+        <Img fixed={data.mhn.childImageSharp.fixed} />
       </Link>
-      <Link to="/">
-        <TwIcon />
+      <Link to="/" className="museos">
+        <Img fixed={data.museos.childImageSharp.fixed} />
       </Link>
-      <Link to="/">
-        <WebIcon />
+      <Link to="/" className="ministerio">
+        <Img fixed={data.ministerio.childImageSharp.fixed} />
       </Link>
-      <Link to="/">
-        <IgIcon />
-      </Link>
-    </nav>
-    <nav className="links">
-      <Link to="/propuestas-educativas/">Propuestas educativas</Link>
-      <Link to="/sobre-esta-muestra/">Sobre esta muestra</Link>
-      <Link to="/mapa-del-sitio/">Mapa del sitio</Link>
-    </nav>
-    <Link to="/" className="mhn">
-      <MhnLogo />
-    </Link>
-    <Link to="/" className="museos">
-      <MuseosLogo />
-    </Link>
-    <Link to="/" className="ministerio">
-      <MinisterioLogo />
-    </Link>
-  </footer>
-)
+    </footer>
+  )
+}
 
 export default Footer

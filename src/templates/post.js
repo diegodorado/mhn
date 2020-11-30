@@ -4,14 +4,14 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Img from "gatsby-image"
 import Surprise from "../assets/caja-sorpresa.svg"
-import ZoomSlider from "../components/slider/components/Slider"
+import ZoomSlider from "../components/slider/Slider"
 
 
 const Template = ({pageContext, data}) => {
   const { markdownRemark: post } = data
   const { category, title, overview, images } = post.frontmatter
   const {previous, next } = pageContext
-  const slides = images.map( i => <Img key={i}  draggable={false}  fluid={i.file.childImageSharp.fluid} alt={i.alt} />)
+  const slides = images.map( i => <Img key={i}  draggable={false}  fluid={i.file.childImageSharp.fluid} alt={i.alt} epigraph={i.epigraph} />)
 
   return (
   <Layout bodyClass="level1">
@@ -31,7 +31,6 @@ const Template = ({pageContext, data}) => {
     
     <div style={{width:'100%', overflow: 'hidden'}}>
       <ZoomSlider slides={slides} activeDotColor={"#006699"}/>
-
     </div>
 
     <p className="overview">{overview}</p>
@@ -63,6 +62,7 @@ export const pageQuery = graphql`
         overview
         images {
           alt
+          epigraph
           file{ 
             childImageSharp {
               fluid(maxWidth: 1920, quality: 90) {

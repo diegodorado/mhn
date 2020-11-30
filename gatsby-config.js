@@ -17,12 +17,6 @@ module.exports = {
         name: "pages"
       }
     },
-    {
-      resolve: "gatsby-transformer-remark",
-      options: {
-        plugins: [] // just in case those previously mentioned remark plugins sound cool :)
-      }
-    },
     `gatsby-plugin-sass`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -48,10 +42,24 @@ module.exports = {
       },
     },
     `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1080,
+              srcSetBreakpoints: [ 400, 720 ] ,
+              linkImagesToOriginal: false,
+              quality: 90,
+            },
+          },
+        ],
+      },
+    },
 
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

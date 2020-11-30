@@ -7,12 +7,16 @@ overview: |
 images:
   - file: petitorio-popular-a.jpg
     alt: Petitorio Popular
+    epigraph: Petitorio Popular
   - file: petitorio-popular-b.jpg
     alt: Petitorio Popular
+    epigraph: Petitorio Popula B
   - file: petitorio-popular-c.jpg
     alt: Petitorio Popular
+    epigraph: Petitorio Popular C
   - file: petitorio-popular-d.jpg
     alt: Petitorio Popular
+    epigraph: Petitorio Popular D
 ---
 
 El petitorio fue una reacción a lo ocurrido el 24 de mayo, cuando el Cabildo nombró una junta con el virrey, que había sido destituido en el cabildo abierto dos días antes, como presidente. Los firmantes del petitorio exigían se nombrara una nueva junta y exponía los nombres de quienes debían integrarla, porque "esta es la manifiesta voluntad del Pueblo". Los adherentes se presentaban como “vecinos, comandantes y oficiales de los cuerpos voluntarios de esta capital de Buenos Aires que abajo firmamos por nosotros y a nombre del pueblo”. Este pueblo era un nuevo sujeto político.

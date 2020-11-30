@@ -20,6 +20,8 @@ const IndexPage: React.FC<PageProps<DataProps>> = ({ data, path }) => {
 
   const lLink = "/1794-1810/burocrata/sello-consulado/"
   const rLink = "/"
+  const lAlt = "Sillón de madera de jacarandá tallada, con apoyabrazos curvos y alargados. La parte superior del respaldo está coronada con un motivo tallado. El asiento  y el respaldo alto están tapizados en pana. Tiene marcas de las herramientas con las que se labraron a mano,  huella del trabajo de los artesanos. El sillón tiene las patas rectas acordes al estilo neoclásico. Aunque en términos estilísticos puede considerarse en una etapa de transición."
+  const rAlt = "Silla Plegable de campaña, reclinada, con apoya brazos, hecha en madera, con asiento y respaldo de listones."
 
   useEffect( () => {
     const vid = vidRef.current
@@ -63,11 +65,11 @@ const IndexPage: React.FC<PageProps<DataProps>> = ({ data, path }) => {
       </video>
         <p>Fue reformista y después revolucionario. Fue republicano y luego monárquico. Tuvo victorias y también derrotas. Muchas variaciones pero una constante: la confianza en la acción para modificar el mundo. A esa certeza dedicó su vida Manuel Belgrano.</p>
         <div className="chairL" onClick={() => navigate(lLink)}>
-          <Img fluid={data.image0.childImageSharp.fluid} />
+          <Img fluid={data.image0.childImageSharp.fluid} alt={lAlt} />
           <Link to={lLink}>VER 1794-1810</Link>
         </div>
         <div className="chairR" onClick={() => navigate(rLink)}>
-          <Img fluid={data.image1.childImageSharp.fluid} />
+          <Img fluid={data.image1.childImageSharp.fluid} alt={rAlt} />
           <Link to={rLink}>VER 1811-1820</Link>
         </div>
     </div>
@@ -79,9 +81,6 @@ export default IndexPage
 
 export const query = graphql`
   query {
-    site {
-      buildTime(formatString: "YYYY-MM-DD hh:mm a z")
-    }
     image0: file(relativePath: {eq: "1794-1810.png"}) {
       childImageSharp {
         fluid(maxWidth: 1000) {

@@ -7,8 +7,9 @@ header
       display: block
       position: relative
       overflow: hidden
-      svg
+      img
         width: 100%
+        display: block
       span
         display: block
         position: absolute
@@ -17,6 +18,8 @@ header
     color: $black
   .home-logo
     display: none
+    img
+      width: 100%
   .links
     a
       +font-size(1rem)
@@ -33,7 +36,7 @@ header
         display: block
     .dropdown
       padding: 1em 2em
-      width: 13rem
+      width: 16rem
       position: absolute
       top: 1.2rem
   .burger-menu
@@ -104,6 +107,7 @@ header
     header
       display: flex
       h1
+        width: 25%
         padding: 40px 0 0 0
       .burger-menu
         display: none

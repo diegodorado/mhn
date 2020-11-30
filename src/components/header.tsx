@@ -1,8 +1,6 @@
 import React, { useState, useRef, useEffect } from "react"
-import { Link,  StaticQuery, graphql } from "gatsby"
-
-
-import Logo from "../assets/logo.svg"
+import { Link,  useStaticQuery, StaticQuery, graphql } from "gatsby"
+import Img from "gatsby-image"
 
 type DataProps = {
   siteTitle: string
@@ -31,52 +29,26 @@ const Dropdown = ({ children, callback }) => {
   )
 }
 
-const Contenidos = () => (
-  <StaticQuery
-      query={graphql`
-        query Links {
-          allMarkdownRemark(sort: {order: ASC, fields: frontmatter___index}) {
-            group(field: frontmatter___category, limit: 1) {
-              nodes {
-                fields {
-                  slug
-                }
-                frontmatter {
-                  category
-                  index
-                }
-              }
-            }
-          }
-        }
-      `}
-      render={data => {
-        const links = data.allMarkdownRemark.group
-          .map( g => g.nodes[0])
-          .map( n => {return {...n.fields,...n.frontmatter}})
-          .sort((a,b) => a.index > b.index ? 1 : -1)
-        return (
-        <>
-          <Link to="/1794-1810/">1794-1810</Link>
-          <nav>
-            {links.map( l => <Link key={l.slug} to={l.slug}>{l.category}</Link>)}
-          </nav>
-          <Link to="/1811-1820/">1811-1820</Link>
-          <nav>
-            <Link to="/1811-1820/a-las-armas/">A las armas</Link>
-            <Link to="/1811-1820/celeste-y-blanca/">Celeste y blanca</Link>
-            <Link to="/1811-1820/aventura-europea/">Aventura europea</Link>
-            <Link to="/1811-1820/un-rey-inca/">Un rey inca</Link>
-            <Link to="/1811-1820/el-final/">El final</Link>
-            <Link to="/1811-1820/muchos-rostros/">Muchos rostros</Link>
-          </nav>
-        </>
-      )}}
-    />
+const Contenidos = ({ links }) => (
 
+    <>
+      <Link to="/1794-1810/">1794-1810</Link>
+      <nav>
+        {links.map( l => <Link key={l.slug} to={l.slug}>{l.category}</Link>)}
+      </nav>
+      <Link to="/1811-1820/">1811-1820</Link>
+      <nav>
+        <Link to="/1811-1820/a-las-armas/">A las armas</Link>
+        <Link to="/1811-1820/celeste-y-blanca/">Celeste y blanca</Link>
+        <Link to="/1811-1820/aventura-europea/">Aventura europea</Link>
+        <Link to="/1811-1820/un-rey-inca/">Un rey inca</Link>
+        <Link to="/1811-1820/el-final/">El final</Link>
+        <Link to="/1811-1820/muchos-rostros/">Muchos rostros</Link>
+      </nav>
+    </>
 )
 
-const DesktopNav = () => {
+const DesktopNav = ({links}) => {
   const [showMenu, setShowMenu] = useState(false)
 
   const toggleMenu = ev => {
@@ -93,7 +65,7 @@ const DesktopNav = () => {
         </Link>
         {showMenu && (
           <Dropdown callback={() => setShowMenu(false)}>
-            <Contenidos />
+            <Contenidos links={links} />
           </Dropdown>
         )}
       </nav>
@@ -105,7 +77,7 @@ const DesktopNav = () => {
   )
 }
 
-const MobileNav = () => {
+const MobileNav = ({links}) => {
   const [showMenu, setShowMenu] = useState(false)
 
   const toggleMenu = ev => {
@@ -125,7 +97,7 @@ const MobileNav = () => {
         <Dropdown callback={() => setShowMenu(false)}>
           <Link to="/">Inicio</Link>
           <Link to="/">Contenidos</Link>
-          <Contenidos />
+          <Contenidos links={links} />
           <Link to="/sobre-esta-muestra/">Sobre esta muestra</Link>
           <Link to="/mapa-del-sitio/">Mapa del sitio</Link>
         </Dropdown>
@@ -136,18 +108,48 @@ const MobileNav = () => {
 
 const Header: React.FC<DataProps> = ({ siteTitle, variant }) => {
 
+  const data = useStaticQuery(graphql`
+    query {
+      logo: file(relativePath: { eq: "logos/logo.png" }) {
+        childImageSharp {
+          fluid(maxWidth: 486) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      links: allMarkdownRemark(sort: {order: ASC, fields: frontmatter___index}) {
+        group(field: frontmatter___category, limit: 1) {
+          nodes {
+            fields {
+              slug
+            }
+            frontmatter {
+              category
+              index
+            }
+          }
+        }
+      }
+    }
+  `)
+
+  const links = data.links.group
+    .map( g => g.nodes[0])
+    .map( n => {return {...n.fields,...n.frontmatter}})
+    .sort((a,b) => a.index > b.index ? 1 : -1)
+
   return (
     <header>
-      <MobileNav/>
+      <MobileNav links={links}/>
       <h1>
         <Link to="/">
           <span>{siteTitle}</span>
-          <Logo/>
+          <Img fluid={data.logo.childImageSharp.fluid} />
         </Link>
       </h1>
-      <DesktopNav/>
+      <DesktopNav links={links}/>
       <div className="home-logo">
-        <Logo/>
+        <Img fluid={data.logo.childImageSharp.fluid} />
       </div>
 
       <nav className="content" style={{display: 'none'}}>
