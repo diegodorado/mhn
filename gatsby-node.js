@@ -3,7 +3,8 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
-  const template = path.resolve(`src/templates/post.js`)
+  const postTemplate = path.resolve(`src/templates/post.js`)
+  const categoryTemplate = path.resolve(`src/templates/category.js`)
   const result = await graphql(`
     {
       allMarkdownRemark(
@@ -14,6 +15,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
           node {
             fields {
               slug
+              index
             }
           }
           previous {
@@ -35,9 +37,10 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     return
   }
   result.data.allMarkdownRemark.edges.forEach( ({ node, previous, next}) => {
+    const index = node.fields.index
     createPage({
       path: node.fields.slug,
-      component: template,
+      component: index ? categoryTemplate : postTemplate,
       context: {
         slug: node.fields.slug,
         previous: previous ? previous.fields.slug : null,
@@ -45,6 +48,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       }
     })
   })
+  //console.log(result.data.allMarkdownRemark.edges)
 }
 
 exports.onCreateNode = (data) => {
@@ -52,7 +56,7 @@ exports.onCreateNode = (data) => {
   const { createNodeField } = actions
   if (node.internal.type === `MarkdownRemark`) {
     const name = path.basename(node.fileAbsolutePath, `.md`)
-    let slug = createFilePath({ node, getNode })
+    const slug = createFilePath({ node, getNode })
     createNodeField({ node, name: `index`,value: name.startsWith('index')})
     createNodeField({ node, name: `slug`,value: `${slug}`})
   }

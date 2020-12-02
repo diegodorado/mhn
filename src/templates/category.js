@@ -8,9 +8,12 @@ import ZoomSlider from "../components/slider/Slider"
 
 
 const Template = ({pageContext, data}) => {
-  const { markdownRemark: post } = data
-  const { category, title, overview, images } = post.frontmatter
+  const { markdownRemark: post, allMarkdownRemark: posts } = data
+  const { category, title, overview } = post.frontmatter
   const {previous, next } = pageContext
+  // join all images
+  const images = posts.edges.map(e => e.node.frontmatter.images).reduce((a,e) => a.concat(e) , [])
+  console.log(images)
   const slides = images.map( i => <Img key={i}  draggable={false}  fluid={i.file.childImageSharp.fluid} alt={i.alt} epigraph={i.epigraph} />)
 
   return (
@@ -18,12 +21,14 @@ const Template = ({pageContext, data}) => {
     <SEO title={title} />
 
     <nav className="pager category">
+      {previous ? <Link to={previous} /> : <span/>}
       <h2>{category}</h2>
+      {next ? <Link to={next} /> : <span/>}
     </nav>
     
     <nav className="pager object"> 
       {previous ? <Link to={previous} /> : <span/>}
-      <h3>{title}</h3>
+      <h3></h3>
       {next ? <Link to={next} /> : <span/>}
     </nav>
     
@@ -38,31 +43,34 @@ const Template = ({pageContext, data}) => {
       dangerouslySetInnerHTML={{ __html: post.html }}
     />
 
-    <figure>
-      <Surprise/>
-      <Link to="/propuestas-educativas/">Actividades para todas las edades</Link>
-    </figure>
-
   </Layout>)
 }
 
 export default Template
 
 export const pageQuery = graphql`
-  query PostBySlug($slug: String!) {
+  query PostsBySlug($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {
         title
         category
         overview
-        images {
-          alt
-          epigraph
-          file{ 
-            childImageSharp {
-              fluid(maxWidth: 1920, quality: 90) {
-                ...GatsbyImageSharpFluid
+      }
+    }
+    allMarkdownRemark(sort: {order: ASC, fields: frontmatter___index}, filter: {fields: {slug: {regex: $slug, ne: $slug}}}) {
+      edges {
+        node {
+          frontmatter {
+            images {
+              alt
+              epigraph
+              file{ 
+                childImageSharp {
+                  fluid(maxWidth: 1920, quality: 90) {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
               }
             }
           }

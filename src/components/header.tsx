@@ -32,19 +32,15 @@ const Dropdown = ({ children, callback }) => {
 const Contenidos = ({ links }) => (
 
     <>
-      <Link to="/1794-1810/">1794-1810</Link>
-      <nav>
-        {links.map( l => <Link key={l.slug} to={l.slug}>{l.category}</Link>)}
-      </nav>
-      <Link to="/1811-1820/">1811-1820</Link>
-      <nav>
-        <Link to="/1811-1820/a-las-armas/">A las armas</Link>
-        <Link to="/1811-1820/celeste-y-blanca/">Celeste y blanca</Link>
-        <Link to="/1811-1820/aventura-europea/">Aventura europea</Link>
-        <Link to="/1811-1820/un-rey-inca/">Un rey inca</Link>
-        <Link to="/1811-1820/el-final/">El final</Link>
-        <Link to="/1811-1820/muchos-rostros/">Muchos rostros</Link>
-      </nav>
+      {Object.entries(links).map(([k,v])=>{
+        return (<React.Fragment key={k}>
+          <Link to={v[0].slug}>{k}</Link>
+          <nav>
+            {v.map( l => <Link key={l.slug} to={l.slug}>{l.category}</Link>)}
+          </nav>
+          </React.Fragment>
+        )
+      }) }
     </>
 )
 
@@ -137,6 +133,13 @@ const Header: React.FC<DataProps> = ({ siteTitle, variant }) => {
     .map( g => g.nodes[0])
     .map( n => {return {...n.fields,...n.frontmatter}})
     .sort((a,b) => a.index > b.index ? 1 : -1)
+    .reduce( (a,n) => {
+      const axis = n.slug.split("/")[1] 
+      if(!a[axis])
+        a[axis] = []
+      a[axis].push(n)
+      return a
+    },{})
 
   return (
     <header>
