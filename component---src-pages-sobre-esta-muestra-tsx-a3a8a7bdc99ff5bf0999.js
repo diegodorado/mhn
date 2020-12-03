@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{"2EgJ":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),r=a("Bl7J"),u=a("vrFN");t.default=function(e){e.data,e.path;return l.a.createElement(r.a,{bodyClass:"about"},l.a.createElement(u.a,{title:"Sobre esta muestra"}),l.a.createElement("h2",null,"Sobre esta muestra"),l.a.createElement("p",null,"Loren ipsum"),l.a.createElement("h3",null,"Titulo 3"),l.a.createElement("p",null,"Loren ipsum"))}}}]);
+//# sourceMappingURL=component---src-pages-sobre-esta-muestra-tsx-a3a8a7bdc99ff5bf0999.js.map
