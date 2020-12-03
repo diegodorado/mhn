@@ -30,6 +30,13 @@ export default function Slider({
   })
   const epigraph = slides[currentSlide].props.epigraph
 
+  const onZoom = dir => {
+    if(dir >0)
+      scale.setValue(4)
+    else
+      scale.setValue(1)
+  }
+
   return (
     <div>
       {zooming && (
@@ -56,9 +63,8 @@ export default function Slider({
         slidesCount={slides.length}
         // eslint-disable-next-line react/jsx-props-no-spreading
         {...bind()}
-        onClick={ ev => console.log(ev)}
         style={{
-          transform: x.interpolate(slideX => `translateX(${slideX}px`),
+          transform: x.interpolate(slideX => `translateX(${slideX}%`),
         }}
       >
         {slides.map((slide, idx) => (
@@ -76,6 +82,7 @@ export default function Slider({
         centerDots={slides.length < 6 ? slides.length : undefined}
         dotColor={dotColor}
         activeDotColor={activeDotColor}
+        onZoom={onZoom}
       />
 
     </div>

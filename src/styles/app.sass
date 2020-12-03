@@ -103,12 +103,24 @@ $rfs-base-value: 12
   main
     text-align: left
     +font-size(1.0rem)
+    h2
+      margin: 2em 0 1em
     nav
       margin-left: 3em
+      a
+        color: $black
+        font-size: 1rem
+      nav
+        a
+          color: $primary
+        nav
+          a
+            color: $black
     a
       display: block
       line-height: 2.5em
-      color: $black
+      font-size: 1.2rem
+      color: $primary
         
 .level1
   .overview

@@ -113,26 +113,23 @@ const Header: React.FC<DataProps> = ({ siteTitle, variant }) => {
           }
         }
       }
-      links: allMarkdownRemark(sort: {order: ASC, fields: frontmatter___index}) {
-        group(field: frontmatter___category, limit: 1) {
-          nodes {
-            fields {
-              slug
-            }
-            frontmatter {
-              category
-              index
-            }
+
+      links: allMarkdownRemark(filter: {fields: {index: {eq: true}}}, sort: {order: ASC, fields: frontmatter___index}) {
+        nodes {
+          fields {
+            slug
+          }
+          frontmatter {
+            category
+            index
           }
         }
       }
     }
   `)
 
-  const links = data.links.group
-    .map( g => g.nodes[0])
+  const links = data.links.nodes
     .map( n => {return {...n.fields,...n.frontmatter}})
-    .sort((a,b) => a.index > b.index ? 1 : -1)
     .reduce( (a,n) => {
       const axis = n.slug.split("/")[1] 
       if(!a[axis])

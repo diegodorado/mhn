@@ -71,7 +71,7 @@ export default function useZoom({ minScale, maxScale, onScale }) {
         })
       }
     },
-    [set]
+    [set,minScale,maxScale]
   )
 
   const handleTouchEnd = useCallback(() => {
@@ -87,11 +87,38 @@ export default function useZoom({ minScale, maxScale, onScale }) {
     initialBoundingRect.current = null
   }, [set])
 
+  const handleMouseMove = useCallback(ev => {
+    const clientX = ev.offsetX
+    const clientY = ev.offsetY
+    set({
+      middleTouchOnElement: [clientX, clientY],
+      immediate: false,
+    })
+  }, [set])
+
+  const handleMouseWheel = useCallback(ev => {
+    console.log(scale.value)
+    const zooming = ev.deltaY < 0
+    if(!zooming && scale.value === minScale)
+      return
+
+    ev.preventDefault()
+    set({
+      scale: zooming ? maxScale : minScale,
+      immediate: false,
+    })
+
+  }, [set, minScale, maxScale, scale])
+
+
+
   useEffect(() => {
     element.current.ontouchstart = handleTouchStart
     element.current.ontouchmove = handleTouchMove
     element.current.ontouchend = handleTouchEnd
-  }, [handleTouchStart, handleTouchMove, handleTouchEnd])
+    element.current.onmousewheel = handleMouseWheel
+    element.current.onmousemove = handleMouseMove
+  }, [handleTouchStart, handleTouchMove, handleTouchEnd, handleMouseWheel, handleMouseMove])
 
   return [element, scale, translateX, translateY, middleTouchOnElement]
 }
