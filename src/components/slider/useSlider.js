@@ -46,8 +46,10 @@ export default function useSlider({ initialSlide, slides }) {
       }
 
       if(tap){
-        const slideDir = (xy[0] > window.innerWidth /2) ? 1 : -1
-        index.current = clamp(index.current + slideDir, 0, slides.length - 1)
+        if(!zooming){
+          const slideDir = (xy[0] > window.innerWidth /2) ? 1 : -1
+          index.current = clamp(index.current + slideDir, 0, slides.length - 1)
+        }
       }
 
       // We have swiped past halfway

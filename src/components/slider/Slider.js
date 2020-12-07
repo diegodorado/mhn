@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import { animated } from 'react-spring'
 import { defaultProps } from './constants'
@@ -29,12 +29,13 @@ export default function Slider({
     slides,
   })
   const epigraph = slides[currentSlide].props.epigraph
+  const [zoom, setZoom] = useState(0)
 
   const onZoom = dir => {
     if(dir >0)
-      scale.setValue(4)
+      setZoom(zoom > 0 ? zoom + 1 : 1)
     else
-      scale.setValue(1)
+      setZoom(zoom < 0 ? zoom - 1 : -1)
   }
 
   return (
@@ -69,7 +70,7 @@ export default function Slider({
       >
         {slides.map((slide, idx) => (
           // eslint-disable-next-line react/no-array-index-key
-          <Slide onScale={onScale} key={idx}>
+          <Slide zoom={zoom} onScale={onScale} key={idx}>
             {slide}
           </Slide>
         ))}

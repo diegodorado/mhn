@@ -2,7 +2,7 @@ import { useRef, useEffect, useCallback } from 'react'
 import { useSpring } from 'react-spring'
 import { isTouchesInsideRect, getMiddleTouchOnElement, getLengthOfLine, clamp } from './helpers'
 
-export default function useZoom({ minScale, maxScale, onScale }) {
+export default function useZoom({ minScale, maxScale, onScale, onZoom }) {
   const element = useRef(null)
   const initialBoundingRect = useRef(null)
   const firstTouch = useRef(null)
@@ -97,20 +97,25 @@ export default function useZoom({ minScale, maxScale, onScale }) {
   }, [set])
 
   const handleMouseWheel = useCallback(ev => {
-    console.log(scale.value)
     const zooming = ev.deltaY < 0
     if(!zooming && scale.value === minScale)
       return
-
+    // do not zoom in if image is not in screen yet (scrolling up)
+    if(zooming && element.current.parentElement.getBoundingClientRect().top < 0)
+      return
     ev.preventDefault()
     set({
       scale: zooming ? maxScale : minScale,
       immediate: false,
     })
-
   }, [set, minScale, maxScale, scale])
 
-
+  const handleMouseLeave = useCallback(ev => {
+    set({
+      scale: minScale,
+      immediate: false,
+    })
+  }, [set, minScale])
 
   useEffect(() => {
     element.current.ontouchstart = handleTouchStart
@@ -118,7 +123,8 @@ export default function useZoom({ minScale, maxScale, onScale }) {
     element.current.ontouchend = handleTouchEnd
     element.current.onmousewheel = handleMouseWheel
     element.current.onmousemove = handleMouseMove
-  }, [handleTouchStart, handleTouchMove, handleTouchEnd, handleMouseWheel, handleMouseMove])
+    element.current.onmouseleave = handleMouseLeave
+  }, [handleTouchStart, handleTouchMove, handleTouchEnd, handleMouseWheel, handleMouseMove, handleMouseLeave])
 
-  return [element, scale, translateX, translateY, middleTouchOnElement]
+  return [element, scale, translateX, translateY, middleTouchOnElement, set]
 }

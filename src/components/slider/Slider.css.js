@@ -1,6 +1,7 @@
 import styled from 'styled-components'
 
 export const Slider = styled.div`
+  margin-top: 10px;
   position: relative;
   display: grid;
   grid-auto-flow: column;
@@ -28,5 +29,6 @@ export const SlideOverlay = styled.div`
 
 export const Epigraph = styled.div`
   text-align: center;
+  padding: 1em 0 0.3em;
 `
 

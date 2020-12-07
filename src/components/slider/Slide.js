@@ -1,4 +1,4 @@
-import React from 'react'
+import React ,{ useEffect } from 'react'
 import PropTypes from 'prop-types'
 import { animated, interpolate } from 'react-spring'
 import useZoom from './useZoom'
@@ -7,12 +7,20 @@ import { Slide as StyledSlide } from './Slide.css'
 
 const AnimatedSlide = animated(StyledSlide)
 
-export default function Slide({ children, onScale, minScale, maxScale }) {
-  const [element, scale, translateX, translateY, middleTouchOnElement] = useZoom({
+export default function Slide({ children, zoom, onScale, minScale, maxScale }) {
+  const [element, scale, translateX, translateY, middleTouchOnElement, set] = useZoom({
     minScale,
     maxScale,
     onScale,
   })
+
+  useEffect(() => {
+    set({
+      scale: zoom > 0 ? maxScale : minScale,
+      immediate: false,
+    })
+  }, [zoom,set])
+
 
   return (
     <AnimatedSlide

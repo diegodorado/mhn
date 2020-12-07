@@ -3,14 +3,16 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Img from "gatsby-image"
-import Surprise from "../assets/caja-sorpresa.svg"
 import ZoomSlider from "../components/slider/Slider"
+import juegos from "../images/juegos.gif"
+
 
 const remark = require('remark')
 const parse = require(`remark-parse`)
 const toHAST = require(`mdast-util-to-hast`)
 
 const hastToHTML = require(`hast-util-to-html`)
+
 
 
 const Template = ({pageContext, data}) => {
@@ -50,10 +52,11 @@ const Template = ({pageContext, data}) => {
       dangerouslySetInnerHTML={{ __html: post.html }}
     />
 
-    <figure>
-      <Surprise/>
-      <Link to="/propuestas-educativas/">Actividades para todas las edades</Link>
-    </figure>
+    <br/>
+    <br/>
+    <Link to="/juegos/">
+      <img src={juegos} style={{width:'100%'}} />
+    </Link>
 
   </Layout>)
 }

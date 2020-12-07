@@ -1,7 +1,7 @@
 import React, { useRef } from 'react'
 import PropTypes from 'prop-types'
 import { clamp } from './helpers'
-import { Dots as StyledDots, Dot as StyledDot } from './Dots.css'
+import {ZoomDot, Dots as StyledDots, Dot as StyledDot } from './Dots.css'
 
 export default function Dots({ onZoom, activeDotColor, centerDots, currentSlide, dotColor, totalSlides }) {
   const centerOffset = useRef(0)
@@ -25,7 +25,8 @@ export default function Dots({ onZoom, activeDotColor, centerDots, currentSlide,
 
   return (
     <StyledDots>
-      <span onClick={onZoomOut}>-</span>
+    {// <ZoomDot onClick={onZoomOut}>-</ZoomDot>
+    }
       {(totalSlides > 1) && [...Array(totalSlides)].map((_, idx) => {
         const centerPage = parseInt(centerDots / 2, 10) + slideOffset.current
         const distance = Math.abs(idx - centerPage)
@@ -43,7 +44,8 @@ export default function Dots({ onZoom, activeDotColor, centerDots, currentSlide,
           />
         )
       })}
-      <span onClick={onZoomIn}>+</span>
+    {//<ZoomDot onClick={onZoomIn}>+</ZoomDot>
+    }
     </StyledDots>
   )
 }

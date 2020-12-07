@@ -30,7 +30,6 @@ const IndexPage: React.FC<PageProps<DataProps>> = ({ data, path }) => {
       return
 
     const handleEnded = () => {
-      console.log('ended')
       setEnded(true)
     }
 
