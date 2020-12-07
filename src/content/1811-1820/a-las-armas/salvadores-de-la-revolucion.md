@@ -3,7 +3,7 @@ index: "06-2"
 category: A las armas
 title: Salvadores de la revolución
 overview: |
-  En 1812 Belgrano asumió el mando del Ejército Auxiliar del Perú en retirada, perseguido por los enemigos. Belgrano ordenó dejar tierra arrasada en Jujuy, marchar con su población y recursos hasta un punto donde resistir. El Triunvirato le ordenó retroceder hasta Córdoba. Pero con apoyo local, Belgrano decidió resistir en Tucumán.
+  En 1812 Belgrano asumió el mando del Ejército Auxiliar del Perú en retirada, perseguido por los enemigos. Belgrano ordenó dejar *tierra arrasada* en Jujuy, marchar con su población y recursos hasta un punto donde resistir. El Triunvirato le ordenó retroceder hasta Córdoba. Pero con apoyo local, Belgrano decidió resistir en Tucumán.
 images:
   - file: escudo-por-la-batalla-de-tucuman.jpg
     epigraph: Escudo por la batalla de Tucumán
@@ -26,7 +26,7 @@ Para que brillaran, en hilos de plata se bordó la inscripción, y en hilos de s
 ### ¿Querés saber más?
 
 El oficial José María Paz contó en sus memorias que en el medio de la batalla de Tucumán, entre el humo de las armas, los sorprendió una nube de langostas:
-“buscando al general Belgrano por entre el fuego y la grita de los heridos, que contribuía a hacer más confusa la humareda, el polvo, y una densísima nube de langostas, que casualmente acertaba a pasar por encima, muchos nos creíamos momentáneamente heridos de bala, cuando estos insectos nos daban un golpe por el rostro o por el pecho”.
+“*buscando al general Belgrano por entre el fuego y la grita de los heridos, que contribuía a hacer más confusa la humareda, el polvo, y una densísima nube de langostas, que casualmente acertaba a pasar por encima, muchos nos creíamos momentáneamente heridos de bala, cuando estos insectos nos daban un golpe por el rostro o por el pecho*”.
 
 ### Datos del objeto
 

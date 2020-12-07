@@ -16,11 +16,11 @@ images:
     alt: Bandera del Batallón Fernando VII en tafetán de seda y bordados. En el centro se observa una cruz roja con aspas en los brazos de la misma. Cada vértice rematado con un escudo con letras bordadas. 
 ---
 
-Dos de las banderas capturadas pertenecían al Batallón Fernando VII. A ese modelo se las conocía como batallonas. Llevaban sobre un campo de tafetán de seda blanco aplicada con costura la cruz aspada de Borgoña, en tafetán de seda rojo. En los extremos de la cruz están aplicados escudos bordados en hilos de seda con las iniciales de un lema.
+Dos de las banderas capturadas pertenecían al Batallón Fernando VII. A ese modelo se las conocía como *batallonas*. Llevaban sobre un campo de tafetán de seda blanco aplicada con costura la cruz aspada de Borgoña, en tafetán de seda rojo. En los extremos de la cruz están aplicados escudos bordados en hilos de seda con las iniciales de un lema.
 
 ![](./eje06-5-a.jpg)
 
-La otra bandera era del Regimiento Abancay y no responde a los modelos que ordenaba la corona. Sobre un fondo de seda blanca está pintado el escudo real de España coronado, sobre una cinta que dice “Viva el Rey”, mientras otra cinta lleva el nombre del regimiento.
+La otra bandera era del Regimiento Abancay y no responde a los modelos que ordenaba la corona. Sobre un fondo de seda blanca está pintado el escudo real de España coronado, sobre una cinta que dice “*Viva el Rey*”, mientras otra cinta lleva el nombre del regimiento.
 
 ![](./eje06-5-b.jpg)
 

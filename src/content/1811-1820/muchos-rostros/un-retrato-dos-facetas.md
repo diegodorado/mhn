@@ -33,11 +33,11 @@ En la escena militar del cuadro hay varias banderas blancas y celestes flameando
 
 ### ¿Querés saber más?
 José María Paz, oficial del Ejército del Norte, señala en sus memorias:
-“Cuando Belgrano volvió al ejército el año 16, después de su viaje a Londres, había variado; vino decidido por la forma monárquica en la familia de los incas, sus maneras eran algo aristocráticas, y vestía como un elegante de París o Londres. [...] En los años de 1812, 13 y 14, el general Belgrano vestía del modo más sencillo, hasta la montura de su caballo tocaba en mezquindad. Cuando volvió de Europa en 1816 era todo lo contrario, pues aunque vestía sin relumbres, de que no gustaba generalmente, era con un esmero no menor del que pone en su tocado el elegante más refinado, sin descuidar la perfumería. Con sus opiniones políticas habían variado sus gustos, porque de republicano acérrimo que era al principio, se volvió monarquista claro y decidido".
+“*Cuando Belgrano volvió al ejército el año 16, después de su viaje a Londres, había variado; vino decidido por la forma monárquica en la familia de los incas, sus maneras eran algo aristocráticas, y vestía como un elegante de París o Londres. [...] En los años de 1812, 13 y 14, el general Belgrano vestía del modo más sencillo, hasta la montura de su caballo tocaba en mezquindad. Cuando volvió de Europa en 1816 era todo lo contrario, pues aunque vestía sin relumbres, de que no gustaba generalmente, era con un esmero no menor del que pone en su tocado el elegante más refinado, sin descuidar la perfumería. Con sus opiniones políticas habían variado sus gustos, porque de republicano acérrimo que era al principio, se volvió monarquista claro y decidido*".
 
 El comerciante tucumano José Celedonio Balbín, tuvo una impresión distinta a la de Paz:
 
-“Se hallaba siempre en la mayor escasez, así es que muchas veces me mandó pedir cien o doscientos pesos para comer. Lo he visto tres o cuatro veces en diferentes épocas con las botas remendadas, y no se parecía en esto a un elegante de París o Londres”.
+“*Se hallaba siempre en la mayor escasez, así es que muchas veces me mandó pedir cien o doscientos pesos para comer. Lo he visto tres o cuatro veces en diferentes épocas con las botas remendadas, y no se parecía en esto a un elegante de París o Londres*”.
 
 ### Datos del objeto
 Retrato de Manuel Belgrano hecho al óleo por Fortunato Fontana en 1941. Mide 1,15 metros de alto y 0,90 metros de ancho.

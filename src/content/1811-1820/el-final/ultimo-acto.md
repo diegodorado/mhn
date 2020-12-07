@@ -32,7 +32,7 @@ Según narró la hija de Alvarado al hacer la donación, antes de pertenecer a s
 
 Sin embargo, investigaciones hechas por miembros de Gendarmería Nacional sostienen que fue Miguel Riglos quien se lo ofreció a Güemes y que no hay documentación para afirmar que el sable haya pertenecido a Belgrano. Por su parte, el Instituto Belgraniano plantea que tampoco hay documentación para sostener lo contrario. Se trata, en definitiva, de un interrogante que difícilmente pueda resolverse.
 
-Es un sable de honor que, aparentemente, recuerda las campañas de Napoleón Bonaparte en Egipto a fines del siglo XVIII. Estos sables de lujo eran encargados especialmente a famosos espaderos y era frecuente que fueran obsequiados como muestra de gratitud a alguna personalidad militar.
+Es un sable *de honor* que, aparentemente, recuerda las campañas de Napoleón Bonaparte en Egipto a fines del siglo XVIII. Estos sables de lujo eran encargados especialmente a famosos espaderos y era frecuente que fueran obsequiados como muestra de gratitud a alguna personalidad militar.
 
 ### Datos del objeto
 El sable tiene hoja de acero corva, con empuñadura de cachas de nácar, de un solo filo.La vaina es dorada, con dos abrazaderas y anillas, con tres aplicaciones de bronce que representan escenas de guerra. El resto está repujado.

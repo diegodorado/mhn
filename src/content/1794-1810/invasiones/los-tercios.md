@@ -20,7 +20,7 @@ El comandante de los Gallegos fue Pedro Antonio Cerviño, que había llegado de 
 
 ![](./eje03-4-a.jpg)
 
-Cada unidad de la milicia tenía su reglamento. En el primer punto del reglamento de los Gallegos, Cerviño estableció el nombre oficial del grupo: Tercio de Voluntarios de Galicia, y la confección de dos banderas. El nombre tercio fue adoptado por todos los españoles. Así se llamaba en España a los grupos de defensa cívica de las ciudades. El nombre provenía de las famosas unidades de infantería españolas del siglo XVI.
+Cada unidad de la milicia tenía su reglamento. En el primer punto del reglamento de los Gallegos, Cerviño estableció el nombre oficial del grupo: *Tercio de Voluntarios de Galicia*, y la confección de dos banderas. El nombre *tercio* fue adoptado por todos los españoles. Así se llamaba en España a los grupos de defensa *cívica* de las ciudades. El nombre provenía de las famosas unidades de infantería españolas del siglo XVI.
 
 ![](./eje03-4-b.jpg)
 
@@ -34,6 +34,6 @@ Así, Cerviño decía en uno de sus discursos en 1799:
 “La erección de escuelas merece el mayor aplauso, ellas ilustran a los moradores de la Patria y los despertarán del largo sueño que no les ha dejado pensar en sus verdaderas conveniencias; de la ilustración se debe esperar todo bien, como de la ignorancia un conjunto de males considerables, enséñese, pues, las ciencias y prosperará el país”.
 
 ### Datos del objeto
-La bandera del tercio de gallegos está bordada en tafetán de seda. En su centro el escudo de armas del rey coronado y rodeado por el toisón de oro, un collar del que pende un cordero, rodeado por una rama de palma y otra de laurel, símbolos de gloria militar. En el escudo figuran las armas de los reinos de Castilla, León, Granada, y la flor de lis, emblema de la dinastía de los Borbones; estos dos últimos con hilos metálicos. En su reverso tiene una cruz que identifica al apóstol Santiago, cuyo santuario se encuentra en Galicia. Mide 1,50 metros de largo por 1,44 metros de ancho.
+La bandera del tercio de gallegos está bordada en tafetán de seda. En su centro el escudo de armas del rey coronado y rodeado por el *toisón de oro*, un collar del que pende un cordero, rodeado por una rama de palma y otra de laurel, símbolos de gloria militar. En el escudo figuran las armas de los reinos de Castilla, León, Granada, y la flor de lis, emblema de la dinastía de los Borbones; estos dos últimos con hilos metálicos. En su reverso tiene una cruz que identifica al apóstol Santiago, cuyo santuario se encuentra en Galicia. Mide 1,50 metros de largo por 1,44 metros de ancho.
 
 

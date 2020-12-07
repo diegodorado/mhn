@@ -29,7 +29,7 @@ El arte del grabado posibilita la multiplicación, porque su operación de impre
 Belgrano tenía trato personal con Núñez de Ibarra. En el trabajo de este, Belgrano veía que los proyectos de reforma que le había costado impulsar bajo la colonia cobraban un nuevo impulso tras la revolución.
 
 En 1812, cuando Núñez de Ibarra propuso abrir un taller de fabricación de letras de imprenta, Belgrano apoyó el proyecto:
-“Apreciadísimo Amigo, Los fines a que se dirigen sus conocimientos son grandes, y muy útiles en las actuales circunstancias, para formar hombres. [...] Conozco que como verdadero hijo de la Patria, procura Usted los adelantamientos de todos sus naturales”.
+“*Apreciadísimo Amigo, Los fines a que se dirigen sus conocimientos son grandes, y muy útiles en las actuales circunstancias, para formar hombres. [...] Conozco que como verdadero hijo de la Patria, procura Usted los adelantamientos de todos sus naturales*”.
 
 ### Datos del objeto
 Nro. 1043:

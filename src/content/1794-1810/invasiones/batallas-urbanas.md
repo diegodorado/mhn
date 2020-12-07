@@ -24,12 +24,12 @@ Al año siguiente una nueva fuerza, esta vez poderosa, llegó desde Inglaterra y
 ### Un trofeo muy útil
 Apoderarse de las armas de los enemigos luego de vencerlos, tenía dos sentidos. Por un lado era parte del botín del triunfo y un símbolo de ese logro, pero también era una forma de conseguir armamento para el propio uso, en una época preindustrial donde cada pieza era un producto artesanal y por lo tanto costosa.
 
-Durante las invasiones inglesas la falta de armas fue un problema para las tropas de Buenos Aires. Este fusil tower fue usado por la infantería británica durante las invasiones y recuperado por las milicias porteñas. Muchas de estas armas se reutilizaron más tarde en las guerras de independencia.
+Durante las invasiones inglesas la falta de armas fue un problema para las tropas de Buenos Aires. Este fusil *tower* fue usado por la infantería británica durante las invasiones y recuperado por las milicias porteñas. Muchas de estas armas se reutilizaron más tarde en las guerras de independencia.
 
 ### ¿Querés saber más?
-Hubo varios modelos de fusiles británicos llamados popularmente Tower. Uno fue el Brown Bess y otro el Baker. Se los conocía con el mismo nombre porque llevaban grabada la misma inscripción en el mecanismo de disparo.
+Hubo varios modelos de fusiles británicos llamados popularmente *Tower*. Uno fue el *Brown Bess* y otro el *Baker*. Se los conocía con el mismo nombre porque llevaban grabada la misma inscripción en el mecanismo de disparo.
 
-La palabra Tower indicaba que el mecanismo estaba realizado en la Torre de Londres, siguiendo los estándares más altos de calidad establecidos por la corona británica. Más adelante, cuando se amplió la cantidad de fábricas de armas, la palabra tower continuó grabada en los fusiles, indicando el respeto de esas normas de fabricación.
+La palabra *Tower* indicaba que el mecanismo estaba realizado en la Torre de Londres, siguiendo los estándares más altos de calidad establecidos por la corona británica. Más adelante, cuando se amplió la cantidad de fábricas de armas, la palabra *tower* continuó grabada en los fusiles, indicando el respeto de esas normas de fabricación.
 
 Ambos tipos de fusiles fueron utilizados por las fuerzas británicas durante las invasiones al Río de Plata. Los primeros eran menos precisos, pero de recarga más rápida. Los segundos eran mucho más certeros –y llegaban a mayor distancia– pero su recarga demandaba más tiempo.
 

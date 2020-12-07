@@ -23,7 +23,7 @@ Está atribuida al artista francés Jean-Philippe Goulu, que migró a Sudaméric
 Paradójicamente, por su diminuto tamaño las miniaturas se hacían sobre láminas de marfil, extraídas de los colmillos de animales colosales, elefantes e hipopótamos, comercializados desde Asia y África. Se usaban también pinceles de pelos finos de marta para lograr el detalle. Y los pigmentos de las acuarelas se preparaban con miel de abejas.
 
 ### Datos del objeto
-Ojo izquierdo del Gral Manuel Belgrano, miniatura sobre marfil pintada en gouache atribuida a Jean-Phillipe Goulu. Mide 3 centímetros de alto y 2 centímetros de ancho.
+*Ojo izquierdo del Gral Manuel Belgrano*, miniatura sobre marfil pintada en *gouache* atribuida a Jean-Phillipe Goulu. Mide 3 centímetros de alto y 2 centímetros de ancho.
 
 
 

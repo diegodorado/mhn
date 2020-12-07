@@ -6,10 +6,20 @@ import Img from "gatsby-image"
 import Surprise from "../assets/caja-sorpresa.svg"
 import ZoomSlider from "../components/slider/Slider"
 
+const remark = require('remark')
+const parse = require(`remark-parse`)
+const toHAST = require(`mdast-util-to-hast`)
+
+const hastToHTML = require(`hast-util-to-html`)
+
 
 const Template = ({pageContext, data}) => {
   const { markdownRemark: post } = data
   const { category, title, overview, images } = post.frontmatter
+
+  const ov = hastToHTML(toHAST(remark().parse(overview)))
+
+
   const {previous, next } = pageContext
   const slides = images.map( i => <Img key={i}  draggable={false}  fluid={i.file.childImageSharp.fluid} alt={i.alt} epigraph={i.epigraph} />)
 
@@ -31,7 +41,9 @@ const Template = ({pageContext, data}) => {
       <ZoomSlider slides={slides} activeDotColor={"#006699"}/>
     </div>
 
-    <p className="overview">{overview}</p>
+    <div className="overview"
+      dangerouslySetInnerHTML={{ __html: ov}}
+    />
 
     <div
       className="post-content"

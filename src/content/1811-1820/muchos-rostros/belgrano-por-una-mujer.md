@@ -3,7 +3,7 @@ index: "11-5"
 category: Muchos Rostros
 title: Belgrano por una mujer
 overview: |
-  Este retrato de Belgrano fue dibujado por Andrienne Pauline Macaire. Su firma está inscripta como Andrea Bacle, el apellido de su compañero y socio César Hippolyte Bacle. Ambos eran ginebrinos y en 1828 instalaron una imprenta litográfica de Buenos Aires. Desde ahí, hicieron una serie que promocionaron en la prensa como “retratos de los hombres más célebres”.
+  Este retrato de Belgrano fue dibujado por Andrienne Pauline Macaire. Su firma está inscripta como Andrea Bacle, el apellido de su compañero y socio César Hippolyte Bacle. Ambos eran ginebrinos y en 1828 instalaron una imprenta litográfica de Buenos Aires. Desde ahí, hicieron una serie que promocionaron en la prensa como “*retratos de los hombres más célebres*”.
 images:
   - file: retrato-de-manuel-belgrano-2.jpg
     epigraph: Retrato de Manuel Belgrano
@@ -18,7 +18,7 @@ Macaire se inspiró en los retratos londinenses de Belgrano, uno conservado por 
 
 La inscripción que incluyó debajo, dice:
 
-“Jamás admitió otra recompensa que el honor de haber servido bien a su patria y murió pobre después de haber contribuido a salvarla por medio de victorias inmortales, dejando un gran ejemplo a Buenos Ayres”.
+“*Jamás admitió otra recompensa que el honor de haber servido bien a su patria y murió pobre después de haber contribuido a salvarla por medio de victorias inmortales, dejando un gran ejemplo a Buenos Ayres*”.
 
 ### ¿Querés saber más?
 En el Río de la Plata, la introducción de la litografía permitió un salto en la circulación de imágenes y en los usos visuales de la política.

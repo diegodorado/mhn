@@ -29,5 +29,5 @@ Esta escribanía portátil perteneció a Álvarez Thomas. Es una caja de madera 
 
 ### Datos del objeto
 
-Escribanía portátil de forma octogonal. Está revestida con madera de caoba lustrada y sus aristas están revestidas con láminas de bronce atornilladas. En el centro de la tapa se observa una placa de bronce con la inscripción: "General Alvarez Thomas 1814". En los laterales tiene agarraderas de bronce. Al levantarse la tapa se aprecian tres tableros revestidos con terciopelo violeta que forman un plano inclinado. Tiene un compartimento con un cajón secreto, seis con tapas con perillas de hueso y uno con un espejo con marco de madera.
+Escribanía portátil de forma octogonal. Está revestida con madera de caoba lustrada y sus aristas están revestidas con láminas de bronce atornilladas. En el centro de la tapa se observa una placa de bronce con la inscripción: "*General Alvarez Thomas 1814*". En los laterales tiene agarraderas de bronce. Al levantarse la tapa se aprecian tres tableros revestidos con terciopelo violeta que forman un plano inclinado. Tiene un compartimento con un cajón secreto, seis con tapas con perillas de hueso y uno con un espejo con marco de madera.
 

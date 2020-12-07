@@ -31,11 +31,11 @@ Los sellos se encargaban a artesanos y dibujantes especializados, y muchas veces
 
 El sello del Consulado de Buenos Aires está compuesto por elementos con fuerte simbología. El ancla, por ejemplo, es un símbolo de las ciudades portuarias. Los dos barcos que se mueven en diferentes direcciones indican el gran movimiento comercial.
 
-La paloma en la parte superior representa dentro del cristianismo al espíritu santo y, entre quienes navegaban, era un indicio de buena navegación, ya que un ave urbana indicaba la cercanía a la tierra.
+La paloma en la parte superior representa dentro del cristianismo al *espíritu santo* y, entre quienes navegaban, era un indicio de buena navegación, ya que un ave urbana indicaba la cercanía a la tierra.
 
 Este diseño, sin embargo, no fue el único: hay otra versión del escudo del Consulado, un dibujo que lleva las insignias de la Real Marina española y el escudo de Buenos Aires dentro de una concha marina.
 
 ### Datos del objeto
-Este es un sello de tipo seco, la impresión se produce por presión.
+Este es un sello de tipo *seco*, la impresión se produce por presión.
 Fue donado al MHN por el Sr. Roberto Levillier. Mide 6 centímetros de diámetro.
 

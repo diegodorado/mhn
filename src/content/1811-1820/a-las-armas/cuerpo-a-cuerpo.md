@@ -19,7 +19,7 @@ Estas hojas metálicas afiladas con punta se ajustaban alrededor del cañón del
 ![](./eje06-4-b.jpg)
 
 Las maniobras de infantería requerían mucho entrenamiento y organización. Tras la victoria en Tucumán, Belgrano comunicó al gobierno que cuando sonó la corneta indicando preparar el arma: 
-“Confieso que fue una gloria para mí ver que el resultado de mis lecciones a los infantes para acostumbrarlos a calar bayonetas, al oír aquel toque, correspondió a mis deseos”.
+“*Confieso que fue una gloria para mí ver que el resultado de mis lecciones a los infantes para acostumbrarlos a calar bayonetas, al oír aquel toque, correspondió a mis deseos*”.
 
 ### Datos del objeto
 

@@ -3,7 +3,7 @@ index: "08-1"
 category: Aventura europea
 title: La misión
 overview: |
-  El gobierno revolucionario envió a Belgrano y Rivadavia para negociar con España “la independencia política de este Continente” o al menos “la libertad civil de estas Provincias”, es decir la autonomía dentro la monarquía española.
+  El gobierno revolucionario envió a Belgrano y Rivadavia para negociar con España “*la independencia política de este Continente*” o al menos “*la libertad civil de estas Provincias*”, es decir la autonomía dentro la monarquía española.
 images:
   - file: miniatura-realizada-por-ja-boichard.jpg
     epigraph: Miniatura realizada por J.A Boichard
@@ -13,7 +13,7 @@ images:
 ---
 
 
-Una alternativa era “la venida de un príncipe de la Casa Real de España que mande en soberano este Continente bajo las formas Constitucionales que establezcan las Provincias; o el vínculo y dependencia de ellas de la Corona de España, quedando la administración de todos sus ramos en manos de los Americanos”. Si no conseguían nada debían ganar tiempo y buscar la protección de otra potencia europea.
+Una alternativa era “*la venida de un príncipe de la Casa Real de España que mande en soberano este Continente bajo las formas Constitucionales que establezcan las Provincias; o el vínculo y dependencia de ellas de la Corona de España, quedando la administración de todos sus ramos en manos de los Americanos*”. Si no conseguían nada debían ganar tiempo y buscar la protección de otra potencia europea.
 
 ![](./eje08-1-a.jpg)
 

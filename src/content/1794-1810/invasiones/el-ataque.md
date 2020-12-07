@@ -11,7 +11,7 @@ images:
 
 ---
 
-La gloriosa conquista de Buenos Aires por las fuerzas británicas es una entre muchas imágenes que circulaban y construían relatos. Así, las personas conocían y recordaban los eventos más significativos de sus tiempos: batallas, naufragios, funerales y hasta actividades de la vida cotidiana.
+*La gloriosa conquista de Buenos Aires por las fuerzas británicas* es una entre muchas imágenes que circulaban y construían relatos. Así, las personas conocían y recordaban los eventos más significativos de sus tiempos: batallas, naufragios, funerales y hasta actividades de la vida cotidiana.
 
 ![](./eje03-2-a.jpg)
 
@@ -29,8 +29,8 @@ Es que debajo del asfalto y los edificios se esconde un relieve ondulado que en 
 ### ¿Querés saber más?
 Más de la mitad de los hombres que llegaron durante las invasiones inglesas a las costas de Buenos Aires pertenecían al Regimiento 71 de Highlanders de infantería, de Escocia. En este grabado Thompson los representa en sus uniformes con sus típicos kilts –polleras– y morriones emplumados –cubrecabezas–.
 
-Estos eran trajes típicos que llamaron la atención de los porteños y perduraron en sus recuerdos. Un soldado de la época escribió en su diario que el vestuario de estas tropas parecía el “vestido de un arlequino”. Cincuenta años después, al escribir sus memorias, la propia Mariquita Sánchez de Thompson se refirió a ellos como “las más lindas tropas que se podían ver, el uniforme más poético”.
+Estos eran trajes típicos que llamaron la atención de los porteños y perduraron en sus recuerdos. Un soldado de la época escribió en su diario que el vestuario de estas tropas parecía el “*vestido de un arlequino*”. Cincuenta años después, al escribir sus memorias, la propia Mariquita Sánchez de Thompson se refirió a ellos como “*las más lindas tropas que se podían ver, el uniforme más poético*”.
 
 ### Datos del objeto
-Toma de Buenos Aires (The Capture of Buenos Ayres 28th June, 1806) realizado por George Thompson. Utilizó la técnica del grabado coloreado a mano. Fue hecho sobre madera con la técnica de la xilografía, en Londres en 1806. Mide 19 centímetros de alto y 23,5 centímetros de ancho sin el marco.
+*Toma de Buenos Aires* (*The Capture of Buenos Ayres 28th June, 1806*) realizado por George Thompson. Utilizó la técnica del grabado coloreado a mano. Fue hecho sobre madera con la técnica de la xilografía, en Londres en 1806. Mide 19 centímetros de alto y 23,5 centímetros de ancho sin el marco.
 

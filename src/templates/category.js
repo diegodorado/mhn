@@ -36,7 +36,9 @@ const Template = ({pageContext, data}) => {
       <ZoomSlider slides={slides} activeDotColor={"#006699"}/>
     </div>
 
-    <p className="overview">{overview}</p>
+    <div className="overview">
+      <p>{overview}</p>
+    </div>
 
     <div
       className="post-content"

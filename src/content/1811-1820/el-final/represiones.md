@@ -25,11 +25,11 @@ Pero no fue el final. En 1818 Belgrano fue convocado para atacar Santa Fe, que s
 Cuando se desplazaba al frente de sus tropas, el general utilizaba esta silla de campaña.
 
 ### ¿Querés saber más?
-Las varillas del respaldo de la silla están ligeramente vencidas, lo cual da cuenta de que fue usada. Es probable que haya sido hecha en Inglaterra, donde la industria de muebles de campaña se desarrolló aceleradamente a partir del avance imperial colonial británico.
+Las varillas del respaldo de la silla están ligeramente vencidas, lo cual da cuenta de que fue usada. Es probable que haya sido hecha en Inglaterra, donde la industria de *muebles de campaña* se desarrolló aceleradamente a partir del avance imperial colonial británico.
 
 El mobiliario de campaña fue fundamental durante las guerras revolucionarias. Los oficiales y generales desplegaban sillas, mesas y escribanías en sus tiendas de campaña.
  
-Tan importantes eran en la cotidianidad militar, que Belgrano le escribió a San Martín una carta, en 1814, diciéndole: "Deseo mucho hablar con usted de silla a silla para que tomemos las medidas más acertadas y formando nuestros planes, los sigamos sean cuales fueren los obstáculos que se nos presenten". Tal vez, Belgrano imaginó tener la conversación desde esta silla. 
+Tan importantes eran en la cotidianidad militar, que Belgrano le escribió a San Martín una carta, en 1814, diciéndole: "*Deseo mucho hablar con usted de silla a silla para que tomemos las medidas más acertadas y formando nuestros planes, los sigamos sean cuales fueren los obstáculos que se nos presenten*". Tal vez, Belgrano imaginó tener la conversación desde esta silla. 
 
 ### Datos del objeto
 Silla de cedro, plegadiza con posabrazos. Mide 0,90 metros de alto por 0,42 metros de ancho. En el respaldo tiene siete barrotes y el asiento, ocho.

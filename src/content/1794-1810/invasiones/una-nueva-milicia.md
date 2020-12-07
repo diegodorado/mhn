@@ -14,7 +14,7 @@ La milicia no era lo mismo que el ejército, sino que la formaban los habitantes
 
 ![](./eje03-3-a.jpg)
 
-Los Patricios eran los nacidos en la patria de Buenos Aires, los Arribeños eran de las provincias de arriba, los Naturales, Pardos y Morenos estaban integrados por los miembros de las castas (sin importar dónde hubieran nacido), y los cuerpos españoles se organizaron por su lugar de origen. Los soldados votaban a los oficiales. El Cabildo pagó las armas y los uniformes de muchos milicianos sin recursos.
+Los Patricios eran los nacidos en *la patria de Buenos Aires*, los Arribeños eran de las provincias *de arriba*, los Naturales, Pardos y Morenos estaban integrados por los miembros de las castas (sin importar dónde hubieran nacido), y los cuerpos españoles se organizaron por su lugar de origen. Los soldados votaban a los oficiales. El Cabildo pagó las armas y los uniformes de muchos milicianos sin recursos.
 
 ![](./eje03-3-b.jpg)
 
@@ -28,7 +28,7 @@ La elección de Belgrano como jefe de los Patricios no fue totalmente casual. El
 Por tener ese nombramiento, asistió rápidamente al fuerte cuando llegaron los ingleses, pero al caer la ciudad se retiró, negándose a aceptar la dominación inglesa. Para no jurar fidelidad a las autoridades extranjeras decidió escapar de Buenos Aires, con la excusa de trasladar documentos y sellos del Consulado. Se fue a la Banda Oriental (hoy Uruguay). Al tiempo regresó y fue elegido oficial por el recientemente formado Cuerpo de Patricios.
 
 ### ¿Querés saber más?
-Los Patricios se distinguían porque usaban una tradicional coleta o trenza. Este peinado era motivo de orgullo entre las tropas españolas. Usar esta trenza era una moda que venía desde tiempos del Rey Carlos III, y los Patricios de Buenos Aires la adoptaron como parte de su identidad. En su tiempo era vista como un signo de masculinidad frente a los nuevos peinados a la francesa, que llevaban Fernando VII o Napoleón.
+Los Patricios se distinguían porque usaban una tradicional *coleta* o trenza. Este peinado era motivo de orgullo entre las tropas españolas. Usar esta trenza era una moda que venía desde tiempos del Rey Carlos III, y los Patricios de Buenos Aires la adoptaron como parte de su identidad. En su tiempo era vista como un signo de masculinidad frente a los nuevos peinados *a la francesa*, que llevaban Fernando VII o Napoleón.
 
 A fines de 1811, cuando los Patricios ya se habían convertido en un regimiento de línea, es decir no miliciano, Belgrano fue nombrado su jefe. Ya no tenían el derecho de elegir a sus oficiales. Belgrano quiso instrumentar algunas medidas de disciplina y se rumoreó entre las tropas que les iban a cortar la trenza. La medida se sumó a otros descontentos, y soldados, cabos y sargentos se amotinaron. Fueron reprimidos en su cuartel del centro porteño y los cabecillas terminaron fusilados.
 

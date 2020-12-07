@@ -3,7 +3,7 @@ index: "09-5"
 category: Un rey inca
 title: Independencia
 overview: |
-  "Tres días después de que Belgrano presentase el plan del rey inca, el Soberano Congreso de las Provincias Unidas del Río de la Plata dio un paso fundamental: declaró la independencia. Al hacerlo cambió el nombre del nuevo Estado por Provincias Unidas en Sud-América."
+  "Tres días después de que Belgrano presentase el plan del rey inca, el *Soberano Congreso de las Provincias Unidas del Río de la Plata* dio un paso fundamental: declaró la independencia. Al hacerlo cambió el nombre del nuevo Estado por *Provincias Unidas en Sud-América*."
 images:
   - file: escribania.jpg
     epigraph: Escribanía
@@ -15,7 +15,7 @@ Este reforzaba una identidad americana por sobre las locales, y dejaba abierta l
 
 ![](./eje09-5-a.jpg)
 
-La declaración decía que era “voluntad unánime e indudable de estas provincias romper los violentos vínculos que las ligaban a los reyes de España, recuperar los derechos de que fueron despojadas, e investirse del alto carácter de una nación libre e independiente del rey Fernando VII, sus sucesores y metrópoli”. El 21 de julio, ante críticas de que se negociaría con los portugueses, se agregó “y de toda otra dominación extranjera”.
+La declaración decía que era “*voluntad unánime e indudable de estas provincias romper los violentos vínculos que las ligaban a los reyes de España, recuperar los derechos de que fueron despojadas, e investirse del alto carácter de una nación libre e independiente del rey Fernando VII, sus sucesores y metrópoli*”. El 21 de julio, ante críticas de que se negociaría con los portugueses, se agregó “*y de toda otra dominación extranjera*”.
 
 ![](./eje09-5-b.jpg)
 
@@ -26,7 +26,7 @@ Se considera que con esta escribanía de plata fueron redactadas las actas del C
 ### ¿Querés saber más?
 Las provincias que enviaron diputados fueron Tucumán, Salta, Jujuy, Santiago del Estero, Córdoba, Catamarca, La Rioja, San Juan, Mendoza, San Luis, Buenos Aires, y algunas del Alto Perú: Charcas, Chichas y Mizque, hoy pertenecientes a Bolivia.
 
-Corrientes, Misiones, Santa Fe, Entre Ríos y la Banda Oriental, decidieron no enviar representantes. Se habían organizado confederadamente en la Liga de los Pueblos Libres y nombrado a un Protector, Artigas. Estaban enfrentadas a las pretensiones de instaurar un gobierno central.
+Corrientes, Misiones, Santa Fe, Entre Ríos y la Banda Oriental, decidieron no enviar representantes. Se habían organizado confederadamente en la *Liga de los Pueblos Libres* y nombrado a un *Protector*, Artigas. Estaban enfrentadas a las pretensiones de instaurar un gobierno central.
 
 El Congreso dispuso que se imprimiera la declaración y el juramento de la independencia en hoja suelta. Se publicaron 1500 números solo en castellano, y 1500 bilingües, 1000 en castellano-quechua y 500 en castellano-aymara, que fueron enviadas a Belgrano para que las distribuya en el norte y en el Alto Perú. No se tradujo oficialmente al guaraní, como sí habían ocurrido con los decretos de la Asamblea del Año XIII, lo cual expresa una resignación ante un espacio sujeto al Paraguay y a la política artiguista.
 

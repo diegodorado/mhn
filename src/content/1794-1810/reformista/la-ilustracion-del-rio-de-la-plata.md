@@ -3,7 +3,7 @@ index: "02-1"
 category: Reformista
 title: La Ilustración del Río de la Plata
 overview: |
-  El 1° de abril de 1801 apareció el Telégrafo Mercantil, Rural, Político, Económico e Historiográfico del Río de la Plata, el primer periódico que se publicó en Buenos Aires. En él expresaron sus ideas y proyectos de transformación social y económica algunos destacados ilustrados de la época. Uno de ellos era Belgrano.
+  El 1° de abril de 1801 apareció el *Telégrafo Mercantil, Rural, Político, Económico e Historiográfico del Río de la Plata*, el primer periódico que se publicó en Buenos Aires. En él expresaron sus ideas y proyectos de transformación social y económica algunos destacados *ilustrados* de la época. Uno de ellos era Belgrano.
 images:
   - file: portada-del-n-10-del-telegrafo-mercantil.jpg
     epigraph: Portada del Nº 10 del Telégrafo Mercantil
@@ -31,10 +31,10 @@ En los escritos de Belgrano, y en los de Hipólito Vieytes, se combinaban las id
 Se oponían, por lo tanto, al monopolio comercial del sistema colonial, e impulsaban el comercio libre, la libre navegación de los ríos interiores y el desarrollo de la agricultura.
 
 ### ¿Querés saber más? 
-El Telégrafo Mercantil, editado por Francisco Cabello y Mesa, salía dos veces por semana, y desde octubre de 1801 solo los domingos, pero duró solo un año. Enseguida, en 1802, apareció el Semanario de Agricultura, Industria y Comercio, editado por Vieytes, con casi los mismos colaboradores que el Telégrafo.
+El *Telégrafo Mercantil*, editado por Francisco Cabello y Mesa, salía dos veces por semana, y desde octubre de 1801 solo los domingos, pero duró solo un año. Enseguida, en 1802, apareció el *Semanario de Agricultura, Industria y Comercio*, editado por Vieytes, con casi los mismos colaboradores que el Telégrafo.
 
-Todos ellos estaban preocupados por el atraso productivo y comercial del Río de la Plata, querían el desarrollo de la industria y los artesanos locales, así como mejorar la agricultura. En marzo de 1810, ya en otro contexto, Belgrano fundó otro periódico, el Correo de Comercio, del cual fue redactor. Más tarde comentó “que no era otra cosa más que una acusación contra el Gobierno español; pero todo pasaba y así creíamos ir abriendo los ojos a nuestros paisanos”.
+Todos ellos estaban preocupados por el atraso productivo y comercial del Río de la Plata, querían el desarrollo de la industria y los artesanos locales, así como mejorar la agricultura. En marzo de 1810, ya en otro contexto, Belgrano fundó otro periódico, el *Correo de Comercio*, del cual fue redactor. Más tarde comentó “*que no era otra cosa más que una acusación contra el Gobierno español; pero todo pasaba y así creíamos ir abriendo los ojos a nuestros paisanos*”.
 
 ### Datos del objeto
-Hoja de portada del décimo número del periódico Telégrafo Mercantil, Rural, Político, Económico e Historiográfico del Río de la Plata, publicado el sábado dos de mayo de 1801.
+Hoja de portada del décimo número del periódico *Telégrafo Mercantil, Rural, Político, Económico e Historiográfico del Río de la Plata*, publicado el sábado dos de mayo de 1801.
 
