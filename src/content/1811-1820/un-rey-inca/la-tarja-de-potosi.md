@@ -37,6 +37,9 @@ También recibió a un cacique ava guaraní-chiriguano llamado Cumbay que llegó
 
 Tras su derrota y antes de retirarse, Belgrano quiso volar por los aires la Casa de la Moneda, central en Potosí. Pero la pólvora no se activó.
 
+Para explorar la Tarja en detalle hacé click [acá](/TarjaDePotosi_MHN.pdf).
+
+
 ### Datos del objeto
 Tarja labrada en plata y oro hecha en Potosí, 1813. Mide 1,70 metros de alto por 1,03 metros de ancho.
 
