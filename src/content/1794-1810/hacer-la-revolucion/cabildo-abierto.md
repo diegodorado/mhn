@@ -1,7 +1,9 @@
 ---
-index: "05-2"
+index: "05-1"
 category: Hacer la revolución 
 title: Cabildo abierto
+intro: |
+  Cuando llegó a Buenos Aires la noticia de la caída de toda España en manos francesas, un grupo de revolucionarios, entre quienes estaba Belgrano, actuó para destituir al virrey y crear un gobierno autónomo.
 overview: |
   La caída de toda la metrópoli, salvo la ciudad de Cádiz, por el avance militar francés de principios de 1810 significó para muchos que la autoridad del virrey Cisneros había caducado en el Río de la Plata. Un grupo se movilizó y presionó para convocar un cabildo abierto para lidiar con la emergencia.
 images:

@@ -2,6 +2,8 @@
 index: "06-1"
 category: A las armas
 title: El general
+intro: |
+  Entre 1810 y 1814, para colaborar en el triunfo de la revolución, Belgrano se convirtió en jefe militar. En esa ocupación se convirtió en un protagonista decisivo de la época.
 overview: |
   Belgrano dejó su cargo de vocal de la Junta y se lanzó a la vida militar, en la que no tenía formación profesional. Pero puso en ella toda su energía. Escribió: “*no se duerme, se come poco y se trabaja mucho; pero no hay otro remedio para conseguir aquel fin*”.
 images:

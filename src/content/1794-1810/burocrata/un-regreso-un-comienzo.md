@@ -2,6 +2,8 @@
 index: "01-1"
 category: Burócrata
 title: Un regreso, un comienzo
+intro: |
+  Tras estudiar en Europa, Manuel Belgrano volvió a Buenos Aires con el cargo de secretario vitalicio de una nueva institución, el Consulado de Comercio, desde el que impulsó varios cambios.
 overview: |
  Con 24 años, Manuel Belgrano regresó a su Buenos Aires natal en 1794, tras cinco años de estadía en España, donde estudió derecho. Llegaba con una buena noticia: el rey de España había aprobado la creación del Consulado de Buenos Aires y él había sido designado secretario de esa institución de por vida.
 images:

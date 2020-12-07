@@ -2,6 +2,8 @@
 index: "11-1"
 category: Muchos Rostros
 title: El ojo íntimo
+intro: |
+  De Belgrano se conocen pocos retratos. Pero para su época son muchos, ya que era complicado hacerlos. Fueron realizados por distintos artistas y con una variedad de técnicas. Las pinturas eran encargos costosos y estaban destinadas al ámbito íntimo, mientras que las estampas buscaron homenajearlo públicamente.
 overview: |
   Los retratos miniatura se regalaban como una forma de correspondencia. Por lo tanto, tenían destinatarios. Las miniaturas de ojos pertenecían a un género con dos significados posibles: un regalo para una persona amada pero secreta, o un recuerdo para el duelo.
 images:

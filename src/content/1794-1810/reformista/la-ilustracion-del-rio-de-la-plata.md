@@ -2,6 +2,8 @@
 index: "02-1"
 category: Reformista
 title: La Ilustración del Río de la Plata
+intro: |
+  Belgrano y otros ilustrados querían convencer a muchos de que se necesitaban cambios económicos, sociales, educativos. La aparición de los periódicos les permitió difundir esas ideas.
 overview: |
   El 1° de abril de 1801 apareció el *Telégrafo Mercantil, Rural, Político, Económico e Historiográfico del Río de la Plata*, el primer periódico que se publicó en Buenos Aires. En él expresaron sus ideas y proyectos de transformación social y económica algunos destacados *ilustrados* de la época. Uno de ellos era Belgrano.
 images:

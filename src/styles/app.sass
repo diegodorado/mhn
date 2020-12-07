@@ -25,6 +25,29 @@ $rfs-base-value: 12
       padding: 4% 10%
 
 
+.home2
+  h2
+    text-align: center
+  .axis
+    padding: 20px 0
+    h3
+      padding-bottom: 0
+      a
+        font-size: inherit
+        text-decoration: none
+    .left, .right
+      video
+        width: 100%
+    +breakpoint(lg)
+      padding: 0
+      display: flex
+      .left, .right
+        padding: 20px
+        flex: 1
+        width: 50%
+      &:nth-child(2n)
+        flex-direction: row-reverse
+
 .home
   .intro
     position: relative
@@ -103,8 +126,6 @@ $rfs-base-value: 12
   main
     text-align: left
     +font-size(1.0rem)
-    h2
-      margin: 2em 0 1em
     nav
       margin-left: 3em
       a
@@ -134,11 +155,14 @@ $rfs-base-value: 12
   .post-content
     .gatsby-resp-image-wrapper
       margin: 2em 0
+
+  h2
+    text-align: center
     
   .pager
     display: flex
     line-height: 3em
-    h2, h3
+    h3
       flex: 1
       margin: 0
       padding: 0
@@ -149,9 +173,10 @@ $rfs-base-value: 12
       opacity: 0.5
     a,span
       display: block
-      padding: 0.5em 0 0 1em
+      padding: 0 0 0 1em
+      font-size: 1.2rem
       &:nth-child(1)
-        padding: 0.5em 1em 0 0
+        padding: 0 1em 0 0
       &::after
         display: block
         content: ""
@@ -167,17 +192,13 @@ $rfs-base-value: 12
           &::after
             border-left: 0
             border-right: 1em solid $gray
-    &.category
+
+    &.foot
+      padding: 2em 0 5em
       a,span
-        display: none
+        flex: 1
         &::after
-          border-left: 1em solid $primary
+          float: right
         &:nth-child(1)
           &::after
-            border-right: 1em solid $primary
-
-.about
-  h2, h3
-    padding: 1em 0
-  p
-    padding: 1em 0
+            float: left

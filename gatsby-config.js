@@ -49,7 +49,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 1080,
+              maxWidth: 1920,
               srcSetBreakpoints: [ 400, 720 ] ,
               linkImagesToOriginal: false,
               quality: 90,
@@ -66,8 +66,8 @@ module.exports = {
         name: `Museo Histórico Nacional`,
         short_name: `mhn`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#006699`,
+        theme_color: `#006699`,
         display: `minimal-ui`,
         icon: `src/images/logo.svg`, // This path is relative to the root of the site.
       },

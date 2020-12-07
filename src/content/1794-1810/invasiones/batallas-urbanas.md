@@ -2,6 +2,8 @@
 index: "03-1"
 category: Invasiones
 title: Batallas urbanas
+intro: |
+  En 1806 y en 1807 los británicos buscaron apoderarse de Buenos Aires por la fuerza. Belgrano fue parte de la resistencia a esos intentos. Las victorias sobre los invasores tuvieron fuertes consecuencias.
 overview: |
   A principios del siglo XIX Buenos Aires era a la vez capital de un virreinato y puerto comercial destacado. Sin embargo, a diferencia de otros puertos hispanoamericanos, estaba mal protegida militarmente.
 images:

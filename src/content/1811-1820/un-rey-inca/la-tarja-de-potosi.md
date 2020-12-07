@@ -2,6 +2,8 @@
 index: "09-1"
 category: Un rey inca
 title: La Tarja de Potosí
+intro: |
+  En 1816 Belgrano propuso crear una monarquía constitucional con un descendiente de los incas como rey. Reivindicaba así el pasado americano y buscaba el apoyo indígena.
 overview: |
   Los revolucionarios tomaron algunas medidas en favor de las comunidades indígenas, como la abolición del tributo, la mita y el servicio personal. También propagaron un discurso igualitario y celebraron una identidad americana reivindicando el pasado indígena. Esto fue evidente en la campaña de Belgrano al Alto Perú de 1813.
 images:

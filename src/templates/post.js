@@ -6,20 +6,16 @@ import Img from "gatsby-image"
 import ZoomSlider from "../components/slider/Slider"
 import juegos from "../images/juegos.gif"
 
-
 const remark = require('remark')
-const parse = require(`remark-parse`)
 const toHAST = require(`mdast-util-to-hast`)
-
 const hastToHTML = require(`hast-util-to-html`)
-
-
 
 const Template = ({pageContext, data}) => {
   const { markdownRemark: post } = data
   const { category, title, overview, images } = post.frontmatter
 
   const ov = hastToHTML(toHAST(remark().parse(overview)))
+  const year = data.markdownRemark.fields.slug.split("/")[1]
 
 
   const {previous, next } = pageContext
@@ -29,9 +25,7 @@ const Template = ({pageContext, data}) => {
   <Layout bodyClass="level1">
     <SEO title={title} />
 
-    <nav className="pager category">
-      <h2>{category}</h2>
-    </nav>
+    <h2>{year} - {category}</h2>
     
     <nav className="pager object"> 
       {previous ? <Link to={previous} /> : <span/>}
@@ -52,8 +46,11 @@ const Template = ({pageContext, data}) => {
       dangerouslySetInnerHTML={{ __html: post.html }}
     />
 
-    <br/>
-    <br/>
+    <nav className="pager object foot"> 
+      {previous ? <Link to={previous} /> : <span/>}
+      {next ? <Link to={next} /> : <span/>}
+    </nav>
+    
     <Link to="/juegos/">
       <img src={juegos} style={{width:'100%'}} />
     </Link>
@@ -67,6 +64,9 @@ export const pageQuery = graphql`
   query PostBySlug($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
+      fields {
+        slug
+      }
       frontmatter {
         title
         category

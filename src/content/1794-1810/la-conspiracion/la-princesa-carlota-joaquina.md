@@ -2,6 +2,8 @@
 index: "04-1"
 category: La conspiración
 title: La princesa Carlota Joaquina
+intro: |
+  En 1808 los franceses invadieron España. El rey Fernando VII quedó prisionero en Francia. Su hermana Carlota Joaquina se propuso como regente en el Río de la Plata, apoyada por varios porteños, entre ellos Belgrano.
 overview: |
   Carlota Joaquina de Borbón, hija mayor del rey de España Carlos IV y hermana de quien sería Fernando VII, se casó con el príncipe de Braganza, luego rey de Portugal con el nombre de Juan VI. En 1808 ella se propuso como depositaria de los derechos de la dinastía borbónica española en América, para gobernar en Buenos Aires.
 images:

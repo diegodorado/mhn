@@ -81,21 +81,21 @@ export const query = graphql`
   query {
     inicial: file(relativePath: {eq: "propuestas-educativas/inicial.jpg"}) {
       childImageSharp {
-        fluid(maxWidth: 1000) {
+        fluid(maxWidth: 1920, quality: 90) {
           ...GatsbyImageSharpFluid
         }
       }
     }
     media: file(relativePath: {eq: "propuestas-educativas/media.jpg"}) {
       childImageSharp {
-        fluid(maxWidth: 1000) {
+        fluid(maxWidth: 1920, quality: 90) {
           ...GatsbyImageSharpFluid
         }
       }
     }
     primaria: file(relativePath: {eq: "propuestas-educativas/primaria.jpg"}) {
       childImageSharp {
-        fluid(maxWidth: 1000) {
+        fluid(maxWidth: 1920, quality: 90) {
           ...GatsbyImageSharpFluid
         }
       }

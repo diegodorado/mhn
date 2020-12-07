@@ -2,6 +2,8 @@
 index: "07-1"
 category: Celeste y blanca
 title: Una bandera para unir
+intro: |
+  La revolución mantuvo al principio los símbolos del rey, ya que se hizo en su nombre. Pero el conflicto se radicalizó y para 1812 ya había posturas independentistas más fuertes. Belgrano consideraba que era necesario tener símbolos propios. Y creó uno que iba a durar: la bandera.
 overview: |
   El 26 de febrero de 1812, en una carta al Triunvirato desde Rosario, Belgrano comentó que “*las Banderas de nuestros enemigos son las que hasta ahora hemos usado*”, a lo que mostró su oposición. “*Abajo, Señor Excelentísimo, esas señales exteriores que para nada nos han servido, y con que parece que aún no hemos roto las cadenas de la esclavitud*”.
 images:

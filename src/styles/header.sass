@@ -36,7 +36,7 @@ header
         display: block
     .dropdown
       padding: 1em 2em
-      width: 16rem
+      width: 22rem
       position: absolute
       top: 1.2rem
   .burger-menu
@@ -56,15 +56,9 @@ header
         background: $primary
         display: block
         height: 17%
+        margin-bottom: 12%
         border-radius: 0.5rem
         position: relative
-        transform-origin: center right
-        &:first-child 
-          transform: rotate(0deg)
-        &:nth-child(2) 
-          opacity: 1
-        &:nth-child(3)
-          transform: rotate(0deg)
     .dropdown
       position: absolute
       top: 0
@@ -74,12 +68,6 @@ header
       > a
         span
           background: $white
-          &:first-child 
-            transform: rotate(-42deg)
-          &:nth-child(2) 
-            opacity: 0
-          &:nth-child(3)
-            transform: rotate(42deg)
   .dropdown
     z-index: 99
     text-align: left

@@ -2,6 +2,8 @@
 index: "08-1"
 category: Aventura europea
 title: La misión
+intro: |
+  En 1814 Manuel Belgrano viajó a Europa en misión diplomática junto a Bernardino Rivadavia . Ese año Napoleón Bonaparte había sido derrotado y Fernando VII había vuelto a su trono, con apoyo de las potencias europeas. Las revoluciones americanas estaban en peligro. 
 overview: |
   El gobierno revolucionario envió a Belgrano y Rivadavia para negociar con España “*la independencia política de este Continente*” o al menos “*la libertad civil de estas Provincias*”, es decir la autonomía dentro la monarquía española.
 images:

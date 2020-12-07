@@ -11,10 +11,10 @@ const SiteMapPage = ({ data, path }) => {
       if(!a[axis])
         a[axis] = []
 
-      if(n.index)
+      if(n.intro !== null)
         a[axis].push({...n, posts:[]})
-      else
-        a[axis][a[axis].length - 1].posts.push(n)
+
+      a[axis][a[axis].length - 1].posts.push(n)
 
       return a
     },{})
@@ -27,7 +27,7 @@ const SiteMapPage = ({ data, path }) => {
       <nav>
         {Object.entries(links).map(([k,v])=>{
           return (<React.Fragment key={k}>
-            <Link to={k}>{k}</Link>
+            <Link to={`/${k}`}>{k}</Link>
             <nav>
               {v.map( l => {
                 return (<React.Fragment key={l.slug}>
@@ -56,9 +56,9 @@ export const pageQuery = graphql`
         nodes {
           fields {
             slug
-            index
           }
           frontmatter {
+            intro
             category
             title
           }

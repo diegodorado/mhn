@@ -34,7 +34,7 @@ const Contenidos = ({ links }) => (
     <>
       {Object.entries(links).map(([k,v])=>{
         return (<React.Fragment key={k}>
-          <Link to={v[0].slug}>{k}</Link>
+          <Link to={`/${k}`}>{k}</Link>
           <nav>
             {v.map( l => <Link key={l.slug} to={l.slug}>{l.category}</Link>)}
           </nav>
@@ -62,6 +62,7 @@ const DesktopNav = ({links}) => {
         {showMenu && (
           <Dropdown callback={() => setShowMenu(false)}>
             <Contenidos links={links} />
+            <Link to="/juegos">Juegos para todas las edades</Link>
           </Dropdown>
         )}
       </nav>
@@ -92,8 +93,8 @@ const MobileNav = ({links}) => {
       {showMenu && (
         <Dropdown callback={() => setShowMenu(false)}>
           <Link to="/">Inicio</Link>
-          <Link to="/">Contenidos</Link>
           <Contenidos links={links} />
+          <Link to="/juegos">Juegos para todas las edades</Link>
           <Link to="/sobre-esta-muestra/">Sobre esta muestra</Link>
           <Link to="/mapa-del-sitio/">Mapa del sitio</Link>
         </Dropdown>
@@ -114,7 +115,7 @@ const Header: React.FC<DataProps> = ({ siteTitle, variant }) => {
         }
       }
 
-      links: allMarkdownRemark(filter: {fields: {index: {eq: true}}}, sort: {order: ASC, fields: frontmatter___index}) {
+      links: allMarkdownRemark(filter: {frontmatter: {intro: {ne: null}}}, sort: {order: ASC, fields: frontmatter___index}) {
         nodes {
           fields {
             slug
