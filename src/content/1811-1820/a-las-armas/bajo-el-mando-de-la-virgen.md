@@ -5,10 +5,12 @@ title: Bajo el mando de la Virgen
 overview: |
   La victoria de Tucumán tuvo lugar el día de la Virgen de La Merced. En agradecimiento, un mes más tarde Belgrano organizó la procesión que se había suspendido por la batalla, para nombrarla patrona y generala del ejército, entregándole su bastón de mando.
 images:
-  - file: virgen-de-la-merced.jpg
+  - desktop: virgen-de-la-merced.jpg
+    mobile: virgen-de-la-merced_m.jpg  
     epigraph: Virgen de la Merced
     alt: Imagen de vestir de la Virgen de la Merced, con manos y cara de madera tallada, ojos de vidrio y cabellera de pelo natural. No lleva atributos en sus manos y su vestimenta, si bien lujosa, no es original.
-  - file: detalle-del-rostro-de-la-virgen.jpg
+  - desktop: detalle-del-rostro-de-la-virgen.jpg
+    mobile: detalle-del-rostro-de-la-virgen_m.jpg  
     epigraph: Detalle del rostro de la Virgen
     alt: Detalle del rostro de la Virgen
 ---

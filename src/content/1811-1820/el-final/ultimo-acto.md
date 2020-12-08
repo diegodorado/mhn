@@ -5,10 +5,12 @@ title: Último acto
 overview: |
   El conflicto entre el Directorio y Santa Fe parecía no terminar nunca. Pueyrredón renunció en 1819, pero el nuevo director, José Rondeau, decidió volver a atacar a la provincia. Para eso convocó otra vez al Ejército de Belgrano. Este puso a sus tropas en marcha pero delegó el mando, ya que estaba enfermo, y se instaló en Tucumán.
 images:
-  - file: sable-de-manuel-belgrano.jpg
+  - desktop: el-sable-del-debate.jpg
+    mobile:  el-sable-del-debate_m.jpg
     epigraph: El sable del debate
     alt: Sable de acero con forma curva y vaina con la misma forma. Está decorada con repujados y aplicaciones de bronce con escenas de guerra.
-  - file: detalle-de-la-vaina.jpg
+  - desktop: detalle-de-la-vaina.jpg
+    mobile: detalle-de-la-vaina_m.jpg  
     epigraph: Detalle de la vaina
     alt: Detalle de la vaina
 

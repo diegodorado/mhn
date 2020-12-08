@@ -5,11 +5,13 @@ title: Traducir y difundir
 overview: |
   Belgrano consideraba necesario difundir ideas de cambio y el proyecto de la revolución. Uno de los discursos que le interesó dar a conocer fue la *Despedida de Washington al pueblo de los Estados Unidos*, que tradujo él mismo. 
 images:
-  - file: traduccion-de-la-despedida-de-washington-al-pueblo-de-los-estados-unidos.jpg
+  - desktop: traduccion-de-la-despedida-de-washington-al-pueblo-de-los-estados-unidos.jpg
+    mobile: traduccion-de-la-despedida-de-washington-al-pueblo-de-los-estados-unidos_m.jpg  
     epigraph: Traducción de la “Despedida de Washington al pueblo de los Estados Unidos”
     alt: >
       Ejemplar de la “Despedida de Washington al pueblo de los Estados Unidos”, traducido en colaboración entre Belgrano y quien fue su médico personal, Joseph Redhead quien se declaraba norteamericano y conocía el inglés.  En la portada interior figura escrito en imprenta: DESPEDIDA DE WASHINGTON AL PUEBLO DE LOS ESTADOS UNIDOS TRADUCIDA DE SU ORIGINAL. AÑO DE 1813 EN BUENOS AIRES. Imprenta de Niños Expósitos.  Escrito a mano figura el nombre de su dueño: Padre Ministro González.
-  - file: tapa-y-contratapa-pintadas-a-mano.jpg
+  - desktop: tapa-y-contratapa-pintadas-a-mano.jpg
+    mobile: tapa-y-contratapa-pintadas-a-mano_m.jpg  
     epigraph: Tapa y contratapa pintadas a mano
     alt: Está encuadernado y su tapa fue decorada y pintada manualmente.
 

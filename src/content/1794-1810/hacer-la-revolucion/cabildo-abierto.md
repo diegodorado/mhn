@@ -7,7 +7,8 @@ intro: |
 overview: |
   La caída de toda la metrópoli, salvo la ciudad de Cádiz, por el avance militar francés de principios de 1810 significó para muchos que la autoridad del virrey Cisneros había caducado en el Río de la Plata. Un grupo se movilizó y presionó para convocar un cabildo abierto para lidiar con la emergencia.
 images:
-  - file: invitacion-al-cabildo-abierto.jpg
+  - desktop: invitacion-al-cabildo-abierto.jpg
+    mobile: invitacion-al-cabildo-abierto_m.jpg  
     epigraph: Invitación al Cabildo Abierto
     alt: >
       Invitación al Cabildo Abierto del 22 de mayo de 1810 dirigida al Señor Don Diego Agüero. Pero Agüero no asistió a esta asamblea y utilizó el papel para hacer cuentas con importantes sumas de dinero y, el 27 de septiembre de ese año, enviar con quien estuviese a su servicio, probablemente una persona esclavizada o un criado, un acuse de recibo dirigido a un tal Lezica.  En la invitación se lee escrito en tipos móviles el siguiente texto: El excelentísimo Cabildo convoca a vuestra (espacio en blanco) para se sirva asistir precisamente mañana 22 del corriente a las 9 sin etiqueta alguna, y en clase de vecino al Cabildo abierto, que con anuencia del Excelentísimo Señor Virrey ha acordado celebrar, debiendo manifestar esta esquela a Tropas que guarnezcan las avenidas de esta Plaza, para que se le permita pasar libremente.  Luego de un espacio en blanco dice: Señor Don. Y con caligrafía a mano figura escrito el nombre Diego Aguero.  La fecha y hora de la invitación también están escritas a mano.

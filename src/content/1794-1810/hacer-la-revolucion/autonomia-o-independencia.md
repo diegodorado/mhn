@@ -5,10 +5,12 @@ title: ¿Autonomía o independencia?
 overview: |
   La mayoría de la junta formada el 25 de mayo de 1810 quería elegir a las propias autoridades y manejar la economía, convirtiendo a los territorios americanos en iguales a España y ya no sus colonias, pero a la vez conservando la fidelidad al rey. Pero su secretario, Mariano Moreno, sugirió que había que lograr la independencia.
 images:
-  - file: cigarrera-de-mariano-a.jpg
+  - desktop: cigarrera-de-mariano-a.jpg
+    mobile: cigarrera-de-mariano-a_m.jpg  
     epigraph: Cigarrera de Mariano Moreno
     alt: Cigarrera que perteneció a Mariano Moreno, con estructura de madera recubierta por marquetería en paja barnizada. Es un tipo de artesanía que se desarrolló en Asia y luego en distintos puntos de Europa.
-  - file: cigarrera-de-mariano-b.jpg
+  - desktop: cigarrera-de-mariano-b.jpg
+    mobile: cigarrera-de-mariano-b_m.jpg  
     epigraph: Cigarrera de Mariano Moreno
     alt: >
       Lleva escrito su nombre y su título profesional y de español americano: Don Doctor -en leyes-. Y llamativamente, porta una inscripción política: Fernando VII - Viva el Rey, y el escudo de armas de la corona española.

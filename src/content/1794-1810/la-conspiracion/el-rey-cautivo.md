@@ -5,16 +5,19 @@ title: El rey cautivo
 overview: |
   Los retratos de los reyes españoles estaban muy presentes en América colonial. Su presencia reforzaba el poder de la monarquía y mostraba la cara de un monarca siempre lejano. Las imágenes de Fernando VII circularon mucho porque además representaban el rechazo español a la dominación francesa de Napoleón.
 images:
-  - file: retrato-de-fernando-vi-nro-850.jpg
-    epigraph: Retrato de Fernando VI Nro. 850
+  - desktop: retrato-de-fernando-vii-nro-850.jpg
+    mobile: retrato-de-fernando-vii-nro-850_m.jpg  
+    epigraph: Retrato de Fernando VII Nro. 850
     alt: >
       Estas tres estampas son imágenes alegóricas, es decir, que representaban la lucha de una nación frente a otra con símbolos, como animales. En ellas aparecen el león representando a España, y el águila a Francia, por ser el ave recuperada por Napoleón Bonaparte de las legiones romanas. Y también se presentan figuras icónicas como la república francesa como una mujer en toga con el gorro frigio o de la libertad, que en la antigüedad romana representaba a los esclavos libertos.  El reinado de Fernando VII fue breve: Napoleón lo desplazó y lo recluyó. Fernando VII pasó a ser entonces una figura reivindicada como un símbolo por la resistencia española a la invasión francesa. La producción gráfica fue una de las maneras de expresar esa resistencia a través de la multiplicación del retrato del rey, que pasó a ser nombrado como El Deseado, mistificando e idealizando sus virtudes como monarca imaginariamente, porque su gobierno había sido muy breve. 
-  - file: retrato-de-fernando-vi-nro-851.jpg
-    epigraph: Retrato de Fernando VI Nro. 851
+  - desktop: retrato-de-fernando-vii-nro-851.jpg
+    mobile: retrato-de-fernando-vii-nro-851_m.jpg  
+    epigraph: Retrato de Fernando VII Nro. 851
     alt: >
       Otras de las estampas tiene doble retrato: arriba aparece el perfil entre laureles, mientras que bajo un arco aparece el rey de pie coronado y debajo dice "Fernando el católico". Sobre esta construcción un león muerde con fiereza a un águila que escupe soldados franceses, a quienes les espera el fuego de una hoguera que aviva un guerrero español vestido como torero o matador. La inscripción dice: "Retrato del Señor Don Fernando VII Rey de España y sus Indias".
-  - file: retrato-de-fernando-vi-nro-855.jpg
-    epigraph: Retrato de Fernando VI Nro. 855
+  - desktop: retrato-de-fernando-vii-nro-855.jpg
+    mobile: retrato-de-fernando-vii-nro-855_m.jpg  
+    epigraph: Retrato de Fernando VII Nro. 855
     alt: >
       Estampa del retrato del rey está sobre un pedestal donde se lee "Vencer o Morir", y sobre él una leyenda dice: "Viva Fernando VII, Rey de España e Indias". Está sostenido por un ángel a la vez alzado por una mujer con una corona de laureles, que puede representar a la victoria. Un soldado sostiene la bandera británica, nación que colabora con España en la lucha antinapoleónica terrestre y naval, como representa un barco.  Sobre el pedestal un león muerde a un águila que está sobre una mujer a sus pies encadenada con un gorro frigio sobre una pica: ambas representan a la nación y a la república francesa. 
 

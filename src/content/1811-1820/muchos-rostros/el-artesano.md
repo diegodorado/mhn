@@ -5,10 +5,12 @@ title: El artesano
 overview: |
   En 1819, Manuel Pablo Núñez de Ibarra, grabador y platero de origen correntino, realizó un retrato grabado de Belgrano. Lo representó vestido como general sobre símbolos que representaban sus victorias militares.
 images:
-  - file: retrato-de-manuel-belgrano-nro-1043.jpg
+  - desktop: retrato-de-manuel-belgrano-nro-1043.jpg
+    mobile: retrato-de-manuel-belgrano-nro-1043_m.jpg  
     epigraph: Retrato de Manuel Belgrano Nro. 1043
     alt: Retrato grabado que representa la parte superior del cuerpo de Belgrano. Incluyen la cabeza, los hombros, el nacimiento de los brazos y el pecho. Porta su uniforme militar. 
-  - file: retrato-de-manuel-belgrano-nro-1048.jpg
+  - desktop: retrato-de-manuel-belgrano-nro-1048.jpg
+    mobile: retrato-de-manuel-belgrano-nro-1048_m.jpg  
     epigraph: Retrato de Manuel Belgrano Nro. 1048
     alt: Retrato grabado que representa la parte superior del cuerpo de Belgrano. Incluyen la cabeza, los hombros, el nacimiento de los brazos y el pecho. Porta su uniforme militar.
 

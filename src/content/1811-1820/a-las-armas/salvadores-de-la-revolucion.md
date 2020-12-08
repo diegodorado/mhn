@@ -5,7 +5,8 @@ title: Salvadores de la revolución
 overview: |
   En 1812 Belgrano asumió el mando del Ejército Auxiliar del Perú en retirada, perseguido por los enemigos. Belgrano ordenó dejar *tierra arrasada* en Jujuy, marchar con su población y recursos hasta un punto donde resistir. El Triunvirato le ordenó retroceder hasta Córdoba. Pero con apoyo local, Belgrano decidió resistir en Tucumán.
 images:
-  - file: escudo-por-la-batalla-de-tucuman.jpg
+  - desktop: escudo-por-la-batalla-de-tucuman.jpg
+    mobile: escudo-por-la-batalla-de-tucuman_m.jpg  
     epigraph: Escudo por la batalla de Tucumán
     alt: Escudo que se entregó a los oficiales en reconocimiento por su participación en la Batalla de Tucumán, el 24 de septiembre de 1812. Es de paño de lana, una tela gruesa y resistente. Se cosían a mano en la manga izquierda de la casaca del uniforme. Está bordado con hilos metálicos, en este caso de plata, para que reluzca el brillo de la leyenda que dice "LA PATRIA A SU DEFENSOR EN TUCUMÁN". La inscripción está rodeada de hojas de palma bordadas en hilo de seda.
 

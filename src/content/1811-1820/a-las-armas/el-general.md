@@ -7,13 +7,16 @@ intro: |
 overview: |
   Belgrano dejó su cargo de vocal de la Junta y se lanzó a la vida militar, en la que no tenía formación profesional. Pero puso en ella toda su energía. Escribió: “*no se duerme, se come poco y se trabaja mucho; pero no hay otro remedio para conseguir aquel fin*”.
 images:
-  - file: catalejo-de-manuel-belgrano.jpg
+  - desktop: catalejo-de-manuel-belgrano.jpg
+    mobile: catalejo-de-manuel-belgrano_m.jpg  
     epigraph: Catalejo de Manuel Belgrano
     alt: Catalejo de origen londinense que perteneció a Manuel Belgrano. Consiste en un mecanismo con mira y lentes conectadas por tres tubos metálicos.  
-  - file: secuencia-de-despliegue.jpg
+  - desktop: secuencia-de-despliegue.jpg
+    mobile: secuencia-de-despliegue_m.jpg  
     epigraph: Secuencia de despliegue
     alt: Cuando se despliegan en su máxima extensión, mide casi un metro. Y cuanto más largo, más poder de alcance.
-  - file: detalle-alrededor-del-lente.jpg
+  - desktop: detalle-alrededor-del-lente.jpg
+    mobile: detalle-alrededor-del-lente_m.jpg  
     epigraph: Detalle alrededor del lente
     alt: Alrededor de la lente tiene grabado “Gral. Belgrano”.  
 ---

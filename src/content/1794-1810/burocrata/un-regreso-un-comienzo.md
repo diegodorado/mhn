@@ -7,7 +7,8 @@ intro: |
 overview: |
  Con 24 años, Manuel Belgrano regresó a su Buenos Aires natal en 1794, tras cinco años de estadía en España, donde estudió derecho. Llegaba con una buena noticia: el rey de España había aprobado la creación del Consulado de Buenos Aires y él había sido designado secretario de esa institución de por vida.
 images:
-  - file: sello-del-real-consulado-de-comercio-de-buenos-aires.jpg
+  - desktop: sello-del-real-consulado-de-comercio-de-buenos-aires.jpg
+    mobile: sello-del-real-consulado-de-comercio-de-buenos-aires_m.jpg  
     alt: Sello seco, impreso en papel, que representa al Real Consulado de Comercio de Buenos Aires. En el centro tiene el símbolo semejante al escudo de la ciudad de Buenos Aires y sobre él una corona para indicar el vínculo con España.
     epigraph: Sello del Real Consulado de Comercio de Buenos Aires
 ---

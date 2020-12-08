@@ -6,11 +6,13 @@ overview:  |
   Las unidades milicianas de los españoles que vivían en Buenos Aires se organizaron según la región de origen, que era una identidad muy fuerte. Así hubo cuerpos de Catalanes o Miñones, Vizcaínos, Cántabros o Montañeses, Andaluces y Gallegos.
 
 images:
-  - file: bandera-de-gallegos.jpg
+  - desktop: bandera-de-gallegos.jpg
+    mobile: bandera-de-gallegos_m.jpg  
     epigraph: Bandera de Gallegos
     alt: Bandera de la milicia urbana de Gallegos. Mide 1,50 metros de largo por 1,44 metros de ancho.  Está bordada en tafetán de seda. En su centro se bordó el escudo de armas del rey Carlos III coronado y un collar del que pende un cordero que se puede asociar tanto con el sacrificio de Cristo, como con el mito de Jasón y los argonautas en búsqueda del vellocino de oro. Está rodeado por una rama de palma y otra de laurel que son símbolos de gloria militar. En el escudo figuran las armas de los reinos de Castilla, León, Granada, y la flor de lis, característica de la dinastía de los Borbones, con hilos metálicos. En su reverso cuenta con una cruz que identifica al apóstol Santiago, que peregrinó hacia la península ibérica, y su santuario se encuentra en Galicia.
 
-  - file: detalle-del-escudo.jpg
+  - desktop: detalle-del-escudo.jpg
+    mobile: detalle-del-escudo_m.jpg  
     epigraph: Detalle del escudo
     alt: Imagen de detalle del escudo bordado
 

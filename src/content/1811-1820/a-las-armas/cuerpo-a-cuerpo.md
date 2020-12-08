@@ -5,7 +5,8 @@ title: Cuerpo a cuerpo
 overview: |
   Los ejércitos de la Guerra de Independencia estaban integrados por tres armas: infantería, caballería y artillería. Equiparlas, entrenarlas y hacerlas eficaces fue uno de los mayores desafíos para los jefes militares de la época.
 images:
-  - file: bayoneta.jpg
+  - desktop: bayoneta.jpg
+    mobile: bayoneta_m.jpg  
     epigraph: Bayoneta
     alt: Bayoneta encontrada en excavación en los subterráneos del Cuartel de Patricios. Se trata de un arma blanca muy afilada que se acopla al extremo del cañón del fusil o carabina y se usa como lanza para combatir cuerpo a cuerpo. Mide 30 centímetros de largo. Es de hierro con base chata y punta redondeada. En su parte más ancha lleva un cilindro enroscado al interior para poder sujetarla al fusil.
 ---

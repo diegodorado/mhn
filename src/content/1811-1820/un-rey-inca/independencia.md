@@ -5,7 +5,8 @@ title: Independencia
 overview: |
   Tres días después de que Belgrano presentase el plan del rey inca, el *Soberano Congreso de las Provincias Unidas del Río de la Plata* dio un paso fundamental: declaró la independencia. Al hacerlo cambió el nombre del nuevo Estado por *Provincias Unidas en Sud-América*.
 images:
-  - file: escribania.jpg
+  - desktop: escribania.jpg
+    mobile: escribania_m.jpg  
     epigraph: Escribanía
     alt: Escribanía de plata. Consta de una bandeja lisa con pequeñas patas y borde floreado. Sobre la bandeja descansan dos frascos de plata para tinta con tapa cónica, uno para arenilla y un porta pluma con orificios en la tapa para sostener la pluma.
 

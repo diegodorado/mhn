@@ -5,7 +5,8 @@ title: Belgrano por una mujer
 overview: |
   Este retrato de Belgrano fue dibujado por Andrienne Pauline Macaire. Su firma está inscripta como Andrea Bacle, el apellido de su compañero y socio César Hippolyte Bacle. Ambos eran ginebrinos y en 1828 instalaron una imprenta litográfica de Buenos Aires. Desde ahí, hicieron una serie que promocionaron en la prensa como “*retratos de los hombres más célebres*”.
 images:
-  - file: retrato-de-manuel-belgrano-2.jpg
+  - desktop: retrato-de-manuel-belgrano-2.jpg
+    mobile: retrato-de-manuel-belgrano-2_m.jpg  
     epigraph: Retrato de Manuel Belgrano
     alt: "Retrato litográfico que representa la parte superior del cuerpo de Belgrano: tiene expresión risueña y viste uniforme militar. Debajo está escrito: “Don Manuel Belgrano General en Jefe de los ejércitos auxiliadores del Norte y del Alto Perú. Jamás admitió otra recompensa que el honor de haber servido bien a su patria y murió pobre después de haber contribuido a salvarla por medio de victorias inmortales, dejando un gran ejemplo a Buenos Ayres”."
 

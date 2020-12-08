@@ -5,10 +5,12 @@ title: Vida privada
 overview: |
   En su segunda estadía en Tucumán al frente del Ejército, Belgrano conoció a María Dolores Helguero, de 15 años. Con ella tuvo en 1819 una hija, Manuela Mónica. En ese momento, Belgrano marchó con sus tropas hacia el Litoral. Cuando regresó a Tucumán, Dolores había sido casada con un primo, por decisión familiar, y vivía en Londres, Catamarca. A Manuela Mónica la crió desde pequeña una hermana de Belgrano. 
 images:
-  - file: pistola-de-cachorrillos.jpg
+  - desktop: pistola-de-cachorrillos.jpg
+    mobile: pistola-de-cachorrillos_m.jpg  
     epigraph: Pistola de cachorrillos
     alt: Esta pistola llamada “cachorrillos” tiene grabado el nombre y el grado militar del “*General M. J. Belgrano*”.  Existen varias teorías sobre por qué a este tipo de pistolas se las suele llamar "cachorrillos". Puede ser por su tamaño pequeño, de corto alcance, “a tiro de pistola”, y por su empuñadura, conocida por estar hecha de "cachas", piezas de madera encastradas. O quizás también porque su martillo percutor que permite el disparo tiene forma de cabeza de perro. O porque se llevaban en las “cachas” o disimuladas en bolsillos. Este modelo de pistola se fabricaba en las fraguas de Ripoll, localidad catalana con minas de hierro. Su procedencia se puede identificar por su empuñadura o culata, por la artesanía de su decoración y por el diseño del mecanismo de disparo, la “llave de chispa”.  Es una pistola de “avancarga”, es decir, que se carga por su boca delantera. La varilla para empujar y compactar la pólvora, el retazo de tela y la bala, se encuentra encastrada en la parte inferior de la boca de disparo
-  - file: detalle-del-grabado-general-m-j-belgrano.jpg
+  - desktop: detalle-del-grabado-general-m-j-belgrano.jpg
+    mobile: detalle-del-grabado-general-m-j-belgrano_m.jpg  
     epigraph: Detalle del grabado “General M. J. Belgrano”
     alt: Detalle del grabado “General M. J. Belgrano”
 

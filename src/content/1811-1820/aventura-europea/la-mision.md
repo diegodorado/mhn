@@ -7,7 +7,8 @@ intro: |
 overview: |
   El gobierno revolucionario envió a Belgrano y Rivadavia para negociar con España “*la independencia política de este Continente*” o al menos “*la libertad civil de estas Provincias*”, es decir la autonomía dentro la monarquía española.
 images:
-  - file: miniatura-realizada-por-ja-boichard.jpg
+  - desktop: miniatura-realizada-por-ja-boichard.jpg
+    mobile: miniatura-realizada-por-ja-boichard_m.jpg  
     epigraph: Miniatura realizada por J.A Boichard
     alt: Miniatura de Manuel Belgrano de formato redondo en marco cuadrado de madera. La pintura presenta a un Belgrano de rasgos jóvenes, pelo corto ondulado y sin patillas ni bigotes. Lleva ropa de civil con saco oscuro, camisa de cuello alto y corbata anudada. El rostro del retratado está serio y de frente perfil. 
 

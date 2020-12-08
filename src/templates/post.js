@@ -19,17 +19,12 @@ const Template = ({pageContext, data}) => {
 
   const {previous, next } = pageContext
   const slides = images.map( i => {
-    /*
     const sources = [
       i.mobile.childImageSharp.fluid,
       {
         ...i.desktop.childImageSharp.fluid,
         media: `(min-width: 768px)`,
       },
-    ]
-    */
-    const sources = [
-      i.desktop.childImageSharp.fluid,
     ]
     return <Img key={i}  draggable={false}  fluid={sources} alt={i.alt} epigraph={i.epigraph} />
   })
@@ -38,11 +33,12 @@ const Template = ({pageContext, data}) => {
   <Layout bodyClass="level1">
     <SEO title={title} />
 
-    <h2>{year} - {category}</h2>
-    
     <nav className="pager object"> 
       {previous ? <Link to={previous} /> : <span/>}
-      <h3>{title}</h3>
+      <div>
+        <h2>{year} - {category}</h2>
+        <h3>{title}</h3>
+      </div>
       {next ? <Link to={next} /> : <span/>}
     </nav>
     
@@ -96,14 +92,14 @@ export const pageQuery = graphql`
         images {
           alt
           epigraph
-          mobile: file{ 
+          mobile{ 
             childImageSharp {
-              fluid(maxWidth: 1920, quality: 90, maxHeight: 1920) {
+              fluid(maxWidth: 1080, quality: 90, maxHeight: 1080) {
                 ...GatsbyImageSharpFluid
               }
             }
           }
-          desktop: file{ 
+          desktop{ 
             childImageSharp {
               fluid(maxWidth: 1920, quality: 90) {
                 ...GatsbyImageSharpFluid

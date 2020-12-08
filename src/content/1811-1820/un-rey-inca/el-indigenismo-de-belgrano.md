@@ -5,7 +5,8 @@ title: El “indigenismo” de Belgrano
 overview: |
   La preocupación de Belgrano por los indígenas era anterior al proyecto incaico. Ya en la expedición que condujo al Paraguay intentó mejorar la situación de los pueblos guaraníes que habían sido misiones jesuitas hasta 1768.
 images:
-  - file: bombilla.jpg
+  - desktop: bombilla.jpg
+    mobile: bombilla_m.jpg  
     epigraph: Bombilla
     alt: Bombilla de plata con decoraciones fitomorfas cinceladas en su cánula. El filtro tiene forma esférica y el pico es aplanado.
 

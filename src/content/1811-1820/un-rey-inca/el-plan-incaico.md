@@ -5,13 +5,16 @@ title: El plan incaico
 overview: |
   Belgrano regresó de Europa convencido de que las Provincias Unidas se debían gobernar con una monarquía constitucional: un rey y una corte de ministros que ejercieran el poder ejecutivo, junto a un congreso. Pero ya no con un rey europeo, sino con uno americano. 
 images:
-  - file: canon-atahualpa.jpg
+  - desktop: canon-atahualpa.jpg
+    mobile: canon-atahualpa_m.jpg  
     epigraph: Cañón Atahualpa
     alt: Cañón fundido en Buenos Aires el 1ro de diciembre de 1815 y usado en la guerra de Independencia. Este es un cañón de bronce de avancarga rayado. La denominación “de avancarga” deriva de su funcionamiento, ya que la munición y la pólvora se cargaban por delante.
-  - file: detalle-del-nombre.jpg
+  - desktop: detalle-del-nombre.jpg
+    mobile: detalle-del-nombre_m.jpg  
     epigraph: Detalle del nombre
     alt: En la faja alta del primer cuerpo tiene la siguiente inscripción, “Buenos Ayres 1 de diciembre de 1815 N°8. En el tercer cuerpo próximo a la boca, dentro de una cinta figurada el nombre “El Atahualpa”. En el muñón derecho lleva grabado el peso del cañón, “P° 668 LS”. El muñón izquierdo sin inscripción. El primer cuerpo termina en cascabel. Mide 1,49 metros.
-  - file: detalle-del-escudo-de-la-provincias-unidas.jpg
+  - desktop: detalle-del-escudo-de-la-provincias-unidas.jpg
+    mobile: detalle-del-escudo-de-la-provincias-unidas_m.jpg  
     epigraph: Detalle del escudo de la Provincias Unidas
     alt: Además del nombre del cañón y los datos del mismo con la fecha de fundición, tiene grabado el escudo de las provincias unidas, que fuera aprobado por la Asamblea del año 1813. Antecedente directo del actual escudo argentino.
 

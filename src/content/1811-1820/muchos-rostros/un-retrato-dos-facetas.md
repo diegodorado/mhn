@@ -5,16 +5,20 @@ title: Un retrato, dos facetas
 overview: |
   Belgrano se hizo retratar durante su misión diplomática a Londres en 1815. El Museo cuenta con dos copias del retrato original atribuido al artista francés François Casimir Carbonnier, conservado por el Museo Dámaso Arce, en Olavarría. 
 images:
-  - file: retrato-de-manuel-belgrano.jpg
+  - desktop: retrato-de-manuel-belgrano.jpg
+    mobile: retrato-de-manuel-belgrano_m.jpg  
     epigraph: Retrato de Manuel Belgrano
     alt: Retrato de Belgrano sentado en una silla imperio, con un pastillero en su mano derecha.
-  - file: detalle-del-rostro.jpg
+  - desktop: detalle-del-rostro.jpg
+    mobile: detalle-del-rostro_m.jpg  
     epigraph: Detalle del rostro
     alt: Viste un frac con doble abotonadura dorada cruzada, que exhibe una camisa blanca con cuello duro y lazo con jabot, pantalón y botas de caña alta.
-  - file: detalle-de-la-batalla-de-fondo.jpg
+  - desktop: detalle-de-la-batalla-de-fondo.jpg
+    mobile: detalle-de-la-batalla-de-fondo_m.jpg  
     epigraph: Detalle de la batalla de fondo
     alt: A un costado, un cortinado se abre y muestra un episodio bélico. El general montado blande una espada, junto a hileras de soldados flameando banderas de dos franjas, blancas y celestes; las explosiones de los disparos de la artillería aportan dramatismo.
-  - file: detalle-de-la-mano.jpg
+  - desktop: detalle-de-la-mano.jpg
+    mobile: detalle-de-la-mano_m.jpg  
     epigraph: Detalle de la mano
     alt: Detalle de la mano
 

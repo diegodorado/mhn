@@ -5,7 +5,8 @@ title: La amazona
 overview: |
   Tras el fracaso de las expediciones rioplatenses al Alto Perú, las guerrillas locales cumplieron allí un papel central hostilizando a los realistas y dificultando su avance hacia el sur. Aunque a finales de 1816 la mayoría de las guerrillas fue suprimida, algunas siguieron actuando por años.
 images:
-  - file: retrato-de-juana-azurduy.jpg
+  - desktop: retrato-de-juana-azurduy.jpg
+    mobile: retrato-de-juana-azurduy_m.jpg  
     epigraph: Retrato de Juana Azurduy
     alt: Retrato de Juana Azurduy asignado al pintor Antonio Estrada.  Se presenta a Juana de frente, con el rostro de cuarto perfil. Las manos descansan juntas sobre su sable. Viste uniforme militar, lleva un peinado recogido y expresión es severa. En el pecho porta medallas que parecen ser un distintivo de su grado militar, la estrella de ocho puntas. Es probable que las medallas sean un agregado de quienes pintaron los retratos, a modo de homenaje por los premios que Juana Azurduy debió recibir en vida.
 

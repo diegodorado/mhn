@@ -5,10 +5,12 @@ title: El retorno
 overview: |
   Cuando Belgrano regresó de Europa en enero de 1816 encontró una difícil situación en las Provincias Unidas. Ignacio Álvarez Thomas, su sobrino político, era el nuevo Director Supremo, pero casi no era obedecido fuera de Buenos Aires. Y en la misma capital había agitaciones constantes entre grupos políticos rivales.
 images:
-  - file: escribania-de-alvarez-thomas.jpg
+  - desktop: escribania-de-alvarez-thomas.jpg
+    mobile: escribania-de-alvarez-thomas_m.jpg  
     epigraph: Escribanía de Álvarez Thomas
     alt: Escribanía portátil que perteneció al sobrino político de Belgrano, Ignacio Álvarez Thomas, quien fue director supremo de las Provincias Unidas entre 1815 y principios de 1816.
-  - file: escribania-de-alvarez-thomas-2.jpg
+  - desktop: escribania-de-alvarez-thomas-2.jpg
+    mobile: escribania-de-alvarez-thomas-2_m.jpg  
     epigraph: Escribanía de Álvarez Thomas
     alt: Es una caja de madera, probablemente de origen inglés. Cuenta con varios compartimentos con frascos para tinta y arenilla que se usaba como secante, para las plumas y herramientas para tallar sus puntas, para abrecartas y para el papel. Al abrirla se despliega una superficie plana inclinada para escribir en ella. Tiene cerradura y también un compartimiento secreto. 
 

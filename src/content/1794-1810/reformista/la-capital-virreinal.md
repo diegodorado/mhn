@@ -5,7 +5,8 @@ title: La capital virreinal
 overview: |
   Así fue dibujada Buenos Aires en 1794, año en el que Belgrano retornó de España a esa ciudad, donde había nacido. La vista es la primera que se conoce tomada desde el interior del territorio, en el sudeste, y no desde el Río de la Plata. Se atribuye a Fernando Brambilla, miembro de una expedición científica enviada por la monarquía española a poco de creado el Virreinato.
 images:
-  - file: vista-de-buenos-aires-de-1794.jpg
+  - desktop: vista-de-buenos-aires-de-1794.jpg
+    mobile: vista-de-buenos-aires-de-1794_m.jpg  
     epigraph: Vista de Buenos Aires de 1794
     alt: Grabado tipo litografía que representa una vista de la ciudad de Buenos Aires en 1794, realizado Fernando Brambilla. En primer plano se dispone un árbol, dos carretas de ruedas grandes tiradas por bueyes y un hombre arreando otros bueyes. En el horizonte se perfila el contorno de las edificaciones de Buenos Aires. En la base el título impreso que dice “Vista de la Ciudad de Buenos-Ayres”.
 

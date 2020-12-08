@@ -5,7 +5,8 @@ title: El otro enviado
 overview: |
   Rivadavia se quedó en Europa tras la partida de Belgrano. En París se enteró de la declaración de Independencia de las Provincias Unidas y el Director Supremo desde 1816, Juan Martín de Pueyrredón, lo autorizó a que fuese el representante del nuevo país.
 images:
-  - file: retrato-de-bernardino-rivadavia.jpg
+  - desktop: retrato-de-bernardino-rivadavia.jpg
+    mobile: retrato-de-bernardino-rivadavia_m.jpg  
     epigraph: Retrato de Bernardino Rivadavia
     alt: Retrato de Bernardino Rivadavia, se lo ve sentado en actitud de descanso, con un brazo sobre una mesa vestida con un mantel y la otra mano descansando sobre su pierna. De fondo un cortinado de telas y un lujoso reloj de pie. En la mesa se ubican papeles y lo que pareciera ser un tintero. Rivadavia mira hacia adelante, serio, vestido con una levita oscura, una camisa con volados en el cuello y corbata tipo chabot.  El retrato no tiene firma de su autor. 
 

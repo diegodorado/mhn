@@ -5,7 +5,8 @@ title: Escudo sobre escudo
 overview: |
   En 1813, diputados de las Provincias Unidas del Río de la Plata se reunieron en un congreso en Buenos Aires, conocido como Asamblea del Año XIII. Determinaron que ya no se usarían más los escudos de la corona española para los edificios de gobierno y los documentos.
 images:
-  - file: escudo-de-la-asamblea-de-1813.jpg
+  - desktop: escudo-de-la-asamblea-de-1813.jpg
+    mobile: escudo-de-la-asamblea-de-1813_m.jpg  
     epigraph: Escudo de la Asamblea de 1813
     alt: Escudo de madera pintada de la Asamblea de 1813. Existe una polémica sobre si las siglas que rodean el escudo, A.G.C.D.L.P.U.D.R.D.L.P., aluden a la abreviatura de la Asamblea General Constituyente de las Provincias Unidas del Río de la Plata, o de Administración General de Correos. La sospecha proviene por su donación, porque fue donado al Museo Histórico Nacional por el entonces Director de Correos, Gervasio de Posadas, quien lo encontró entre trastos viejos y correspondencia. El escudo pintado es un óvalo. En la mitad inferior dos brazos agarrados por sus manos que sostienen un bastón cuya punta remata un gorro con su borla de color encarnado. El óvalo tiene el campo partido, la mitad de color celeste y la inferior blanco, contorneado por un tejido de hojas de olivo y por morrión el sol, que simboliza, que ha amanecido nuestra felicidad. Las manos juntas significan la unión de las provincias, y el gorro sobre el palo la libertad, la orla de olivas los triunfos y victorias adquiridas.
 

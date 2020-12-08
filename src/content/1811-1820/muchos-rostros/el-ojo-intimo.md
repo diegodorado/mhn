@@ -7,7 +7,8 @@ intro: |
 overview: |
   Los retratos miniatura se regalaban como una forma de correspondencia. Por lo tanto, tenían destinatarios. Las miniaturas de ojos pertenecían a un género con dos significados posibles: un regalo para una persona amada pero secreta, o un recuerdo para el duelo.
 images:
-  - file: miniatura-sobre-marfil.jpg
+  - desktop: miniatura-sobre-marfil.jpg
+    mobile: miniatura-sobre-marfil_m.jpg  
     epigraph: Miniatura sobre marfil
     alt: Es una miniatura dentro de una miniatura. Representa un ojo que pareciera abrirse como el sol entre las nubes.
 

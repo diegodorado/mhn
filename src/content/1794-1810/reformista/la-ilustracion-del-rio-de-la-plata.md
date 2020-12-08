@@ -7,7 +7,8 @@ intro: |
 overview: |
   El 1° de abril de 1801 apareció el *Telégrafo Mercantil, Rural, Político, Económico e Historiográfico del Río de la Plata*, el primer periódico que se publicó en Buenos Aires. En él expresaron sus ideas y proyectos de transformación social y económica algunos destacados *ilustrados* de la época. Uno de ellos era Belgrano.
 images:
-  - file: portada-del-n-10-del-telegrafo-mercantil.jpg
+  - desktop: portada-del-n-10-del-telegrafo-mercantil.jpg
+    mobile: portada-del-n-10-del-telegrafo-mercantil_m.jpg  
     epigraph: Portada del Nº 10 del Telégrafo Mercantil
     alt: Hoja de portada del número diez del periódico Telégrafo Mercantil, del sábado dos de mayo de 1801.
 

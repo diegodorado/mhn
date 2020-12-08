@@ -5,7 +5,8 @@ title: En el Consulado
 overview: |
   Desde su lugar en el Consulado de Buenos Aires, el joven Belgrano defendió sus ideas e intentó promover algunos cambios económicos en el Río de la Plata. Pronto se ganó un prestigio sólido entre la elite porteña.
 images:
-  - file: sillon-del-real-consulado-de-buenos-aires.jpg
+  - desktop: sillon-del-real-consulado-de-buenos-aires.jpg
+    mobile: sillon-del-real-consulado-de-buenos-aires_m.jpg  
     epigraph: Sillón del Real Consulado de Buenos Aires
     alt: Sillón de madera de jacarandá tallada, con apoyabrazos curvos y alargados. La parte superior del respaldo está coronada con un motivo tallado. El asiento y el respaldo alto están tapizados en pana. Tiene marcas de las herramientas con las que se labraron a mano, huella del trabajo de los artesanos. El sillón tiene las patas rectas acordes al estilo neoclásico. Aunque en términos estilísticos puede considerarse en una etapa de transición.
 ---

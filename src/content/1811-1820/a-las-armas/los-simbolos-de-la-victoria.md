@@ -5,13 +5,16 @@ title: Los símbolos de la victoria
 overview: |
   Los estandartes de los enemigos eran de los trofeos más valorados en la guerra. El Museo cuenta con dieciséis banderas que pertenecieron a los ejércitos realistas en la Guerra de Independencia. Varias de estas banderas fueron tomadas por Belgrano tras la capitulación del general Tristán en la Batalla de Salta, el 20 de febrero de 1813. 
 images:
-  - file: bandera-del-batallon-fernando-vii.jpg
+  - desktop: bandera-del-batallon-fernando-vii.jpg
+    mobile: bandera-del-batallon-fernando-vii_m.jpg  
     epigraph: Bandera del Batallón Fernando VII
     alt: Bandera del Batallón Fernando VII en tafetán de seda y bordados. En el centro se observa una cruz roja con aspas en los brazos de la misma. Cada vértice rematado con un escudo con letras bordadas. 
-  - file: bandera-del-regimiento-abancay.jpg
+  - desktop: bandera-del-regimiento-abancay.jpg
+    mobile: bandera-del-regimiento-abancay_m.jpg  
     epigraph: Bandera del Regimiento Abancay
     alt: Bandera de seda blanca con un escudo pintado al óleo en el centro. Se trata del escudo real de España coronado. En la base sobre una cinta se lee la frase “Viva el Rey” y en un costado en otra cinta se lee “Regimiento Abancay”.
-  - file: bandera-del-batallon-fernando-vii-2.jpg
+  - desktop: bandera-del-batallon-fernando-vii-2.jpg
+    mobile: bandera-del-batallon-fernando-vii-2_m.jpg  
     epigraph: Bandera del Batallón Fernando VII
     alt: Bandera del Batallón Fernando VII en tafetán de seda y bordados. En el centro se observa una cruz roja con aspas en los brazos de la misma. Cada vértice rematado con un escudo con letras bordadas. 
 ---

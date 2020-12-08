@@ -7,7 +7,8 @@ intro: |
 overview: |
   A diferencia de su anterior etapa en el mando, esta vez el ejército comandado por Belgrano no marchó a la ofensiva sino que quedó en la retaguardia, convertido en el brazo armado del gobierno para reprimir cualquier conflicto interno. Se instaló en Tucumán.
 images:
-  - file: timbre.jpg
+  - desktop: timbre.jpg
+    mobile: timbre_m.jpg  
     epigraph: Timbre
     alt: Timbre de campamento de Belgrano, con base de madera adornada con faja labrada y campana de metal. 
 

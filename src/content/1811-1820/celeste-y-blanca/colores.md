@@ -5,7 +5,8 @@ title: Colores
 overview: |
   La familia real española era habitualmente retratada con una banda celeste-blanca-celeste cruzada en el pecho. Es probable que de allí provengan los colores de la escarapela y la bandera.
 images:
-  - file: retrato-de-fernando-vii.jpg
+  - desktop: retrato-de-fernando-vii.jpg
+    mobile: retrato-de-fernando-vii_m.jpg  
     epigraph: Retrato de Fernando VII
     alt: Litografía coloreada de Fernando VII, de medio cuerpo de frente y rostro de perfil. Luce el cabello corto ondulado, con patillas largas. Viste una chaqueta de cuello alto y rígido, con medallas e insignias colgadas de su pecho,y una banda con los colores de la casa borbónica, celeste, blanco, celeste.
 

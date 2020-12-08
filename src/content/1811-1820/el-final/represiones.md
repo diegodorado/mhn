@@ -5,7 +5,8 @@ title: Represiones
 overview: |
   Muchos dirigentes pensaron que la reunión del Congreso en Tucumán podría terminar con los conflictos internos. Pero no fue así. Pronto hubo movimientos en diversas provincias.
 images:
-  - file: silla-plegable-de-campana.jpg
+  - desktop: silla-plegable-de-campana.jpg
+    mobile: silla-plegable-de-campana_m.jpg  
     epigraph: Silla plegable de campaña
     alt: Silla Plegable de campaña, reclinada, con apoya brazos, hecha en madera, con asiento y respaldo de listones.
 

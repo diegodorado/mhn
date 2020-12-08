@@ -7,7 +7,8 @@ intro: |
 overview: |
   A principios del siglo XIX Buenos Aires era a la vez capital de un virreinato y puerto comercial destacado. Sin embargo, a diferencia de otros puertos hispanoamericanos, estaba mal protegida militarmente.
 images:
-  - file: fusil-tower.jpg
+  - desktop: fusil-tower.jpg
+    mobile: fusil-tower_m.jpg  
     epigraph: Fusil Tower
     alt: Fusil Tower con mango de madera, gatillo y caño de metal. Medía alrededor de un metro de largo, pesaba de seis a siete kilos y disparaba un proyectil esférico de plomo. 
 

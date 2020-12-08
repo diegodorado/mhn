@@ -5,16 +5,20 @@ title: “La voluntad del pueblo”
 overview: >
   El 25 de mayo de 1810 se presentó al Cabildo un documento con múltiples firmas y “*a nombre del pueblo*”, conocido como *petitorio popular*. Enumera una serie de pedidos y exigencias de los revolucionarios. La principal: la definitiva destitución del Virrey y la formación de una junta de gobierno en la que no intervenía ninguna autoridad colonial.
 images:
-  - file: petitorio-popular.jpg
+  - desktop: petitorio-popular.jpg
+    mobile: petitorio-popular_m.jpg  
     epigraph: Petitorio Popular
     alt: Hojas del petitorio el Cabildo Abierto. Las hojas del petitorio del cabildo abierto están membretadas con el sello de la corona española que le daba oficialidad a los documentos. Se ven las firmas de los adherentes.
-  - file: detalle-de-la-mencion-de-manuel-belgrano-como-miembro-de-la-junta.jpg
+  - desktop: detalle-de-la-mencion-de-manuel-belgrano-como-miembro-de-la-junta.jpg
+    mobile: detalle-de-la-mencion-de-manuel-belgrano-como-miembro-de-la-junta_m.jpg  
     epigraph: Detalle de la mención de Manuel Belgrano como miembro de la Junta
     alt: Detalle de la mención de Manuel Belgrano como miembro de la Junta
-  - file: detalle-de-las-firmas-de-antonio-luis-beruti-y-domingo-french.jpg
+  - desktop: detalle-de-las-firmas-de-antonio-luis-beruti-y-domingo-french.jpg
+    mobile: detalle-de-las-firmas-de-antonio-luis-beruti-y-domingo-french_m.jpg  
     epigraph: Detalle de las firmas de Antonio Luis Beruti y Domingo French
     alt: Detalle de las firmas de Antonio Luis Beruti y Domingo French
-  - file: detalle-de-las-firmas-del-cacique-don-jose-minoyulle.jpg
+  - desktop: detalle-de-las-firmas-del-cacique-don-jose-minoyulle.jpg
+    mobile: detalle-de-las-firmas-del-cacique-don-jose-minoyulle_m.jpg  
     epigraph: Detalle de las firmas del cacique Don José Minoyulle
     alt: Detalle de las firmas del cacique Don José Minoyulle
 ---

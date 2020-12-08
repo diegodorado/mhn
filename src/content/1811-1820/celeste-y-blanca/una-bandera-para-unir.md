@@ -7,7 +7,8 @@ intro: |
 overview: |
   El 26 de febrero de 1812, en una carta al Triunvirato desde Rosario, Belgrano comentó que “*las Banderas de nuestros enemigos son las que hasta ahora hemos usado*”, a lo que mostró su oposición. “*Abajo, Señor Excelentísimo, esas señales exteriores que para nada nos han servido, y con que parece que aún no hemos roto las cadenas de la esclavitud*”.
 images:
-  - file: bandera-de-macha.jpg
+  - desktop: bandera-de-macha.jpg
+    mobile: bandera-de-macha_m.jpg  
     epigraph: Bandera de Macha
     alt: Bandera desplegada sobre una superficie plana, hallada en 1883 en la ciudad de Macha, Bolivia. Tiene tres franjas similares a la actual bandera argentina, los colores se perciben tenues debido a la antigüedad de sus telas.
 

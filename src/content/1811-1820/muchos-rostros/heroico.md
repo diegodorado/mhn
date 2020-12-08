@@ -5,7 +5,8 @@ title: Heroico
 overview: |
   Las revoluciones norteamericana y francesa, junto con las guerras napoleónicas, produjeron gran cantidad de retratos heroicos. Los retratos de Núñez de Ibarra de San Martín y Belgrano sirvieron de modelos para dos retratos ecuestres de cada uno hechos por el célebre artista Théodore Géricault, en París. 
 images:
-  - file: retrato-ecuestre-de-manuel-belgrano.jpg
+  - desktop: retrato-ecuestre-de-manuel-belgrano.jpg
+    mobile: retrato-ecuestre-de-manuel-belgrano_m.jpg  
     epigraph: Retrato ecuestre de Manuel Belgrano
     alt: Retrato ecuestre de Manuel Belgrano
 

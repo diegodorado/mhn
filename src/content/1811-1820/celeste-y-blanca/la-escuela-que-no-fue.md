@@ -5,7 +5,8 @@ title: La escuela que no fue
 overview: |
   Cuando la Asamblea del Año XIII resolvió premiar a Belgrano por haber comandado las victorias de Tucumán y Salta con cuarenta mil pesos en fincas del Estado, él pidió que se destinara esa suma a la creación de cuatro escuelas de primeras letras en las ciudades de Jujuy, Santiago del Estero, Tarija y Tucumán.
 images:
-  - file: carta-a-teodoro-sanchez-de-bustamante.jpg
+  - desktop: carta-a-teodoro-sanchez-de-bustamante.jpg
+    mobile: carta-a-teodoro-sanchez-de-bustamante_m.jpg  
     epigraph: Carta a Teodoro Sánchez de Bustamante
     alt: Carta escrita a mano firmada por Manuel Belgrano desde Potosí, el 10 de julio de 1813. En la base del papel se lee el destinatario, Teodoro Sánchez de Bustamante.
 

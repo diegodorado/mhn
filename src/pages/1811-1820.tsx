@@ -37,6 +37,7 @@ const Page = ({ data, path }) => {
               <Link to={slug}>{title}</Link>
             </h3>
             <p>{intro}</p>
+            <Link to={slug}>Ver más</Link>
           </div>
         </div>
     )})}

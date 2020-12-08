@@ -5,7 +5,8 @@ title: El ataque
 overview: |
   Varios meses después de la derrota británica de 1806 circuló un curioso grabado inglés en el que se representaba la entrada de los invasores en Buenos Aires. 
 images:
-  - file: toma-de-buenos-aires-de-1806.jpg
+  - desktop: toma-de-buenos-aires-de-1806.jpg
+    mobile: toma-de-buenos-aires-de-1806_m.jpg  
     epigraph: Toma de Buenos Aires de 1806
     alt: Grabado de tipo xilografía titulado “La gloriosa conquista de Buenos Aires por las fuerzas británicas”, coloreado a mano.  La escena representa la primera invasión inglesa en sucesivos planos de la ciudad. Se intercalan las tropas británicas desembarcando, transportando municiones y cañones en barcas desde la flota principal. Entre los soldados se percibe el Regimiento Regimiento 71 de Highlanders de infantería, de Escocia, con sus típicos kilt o polleras y cubrecabezas emplumados que tanto llamó la atención a los habitantes de la ciudad.  En el fondo hay lomadas y palmeras, seguramente para representar una ciudad exótica a los ojos de los londinenses de 1806. Las edificaciones de la ciudad tienen humo y fuego de la batalla. El fuerte también representado en el cual flamea la bandera actual española de dos franjas rojas en los extremos y una amarilla central, que era la utilizada entonces por la armada naval española. A lo lejos, en el río hay varios barcos de grandes velas.
 

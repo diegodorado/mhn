@@ -5,7 +5,8 @@ title: El libro del orgullo americano
 overview: |
   En 1609, *El Inca* Garcilaso, hijo de un conquistador español y una princesa inca, publicó en Europa una historia del imperio inca titulada “*Comentarios reales*”. Le siguió en 1617 un segundo tomo, “*Historia General del Perú*”, sobre la conquista. Con el tiempo se convirtió en un libro clave para la identidad americana.
 images:
-  - file: el-primer-inca-manco-capac-y-la-reina-coya-mama-ocllo.jpg
+  - desktop: el-primer-inca-manco-capac-y-la-reina-coya-mama-ocllo.jpg
+    mobile: el-primer-inca-manco-capac-y-la-reina-coya-mama-ocllo_m.jpg  
     epigraph: El primer Inca Manco Capac y la Reina Coya Mama Ocllo
     alt: Grabado titulado "El primer Inca Manco Capac y la Reina Coya Mama Ocllo", impreso de plancha de cobre, En la ilustración se representa el mito de la pareja fundante del Inca Manco Cápac y la Colla Mama Ocllo, vestidos, reuniendo a los considerados salvajes, desnudos, y enseñándoles la construcción del Cuzco, futura capital del imperio. El papel donde está impreso muestra signos del tiempo y roturas.
 

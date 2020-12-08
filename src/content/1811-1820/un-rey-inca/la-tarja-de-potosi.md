@@ -7,16 +7,20 @@ intro: |
 overview: |
   Los revolucionarios tomaron algunas medidas en favor de las comunidades indígenas, como la abolición del tributo, la mita y el servicio personal. También propagaron un discurso igualitario y celebraron una identidad americana reivindicando el pasado indígena. Esto fue evidente en la campaña de Belgrano al Alto Perú de 1813.
 images:
-  - file: la-tarja-de-potosi.jpg
+  - desktop: la-tarja-de-potosi.jpg
+    mobile: la-tarja-de-potosi_m.jpg  
     epigraph: Tarja de Potosí
     alt: La Tarja de Potosí es una joya de oro y plata. Se trata de una compleja obra que reúne piezas que representan follajes, frutas, flores, animales y figuras humanas, que se sobreponen las unas a las otras para constituir un todo. En el centro hay un escudo de oro grabado con el mensaje de las damas potosinas a Belgrano.
-  - file: detalle-de-la-figura-del-indio-coronado.jpg
+  - desktop: detalle-de-la-figura-del-indio-coronado.jpg
+    mobile: detalle-de-la-figura-del-indio-coronado_m.jpg  
     epigraph: Detalle de la figura del indio coronado
     alt: Detalle de la figura del indio coronado 
-  - file: detalle-de-la-silueta-de-america-del-sur.jpg
+  - desktop: detalle-de-la-silueta-de-america-del-sur.jpg
+    mobile: detalle-de-la-silueta-de-america-del-sur_m.jpg  
     epigraph: Detalle de la silueta de América del Sur
     alt: Detalle de la silueta de América del Sur
-  - file: detalle-de-las-medallas-conmemorativas.jpg
+  - desktop: detalle-de-las-medallas-conmemorativas.jpg
+    mobile: detalle-de-las-medallas-conmemorativas_m.jpg  
     epigraph: Detalle de las medallas conmemorativas
     alt: Detalle de las medallas conmemorativas
 

@@ -5,7 +5,8 @@ title: Una nueva milicia
 overview: |
   Una de las consecuencias de la primera invasión británica fue que tras su derrota en agosto de 1806 se formaron en Buenos Aires una serie de cuerpos milicianos voluntarios para combatir una posible segunda invasión.
 images:
-  - file: escudo-de-patricios.jpg
+  - desktop: escudo-de-patricios.jpg
+    mobile: escudo-de-patricios_m.jpg  
     epigraph: Escudo de Patricios
     alt: El escudo de la milicia de Patricios que es un emblema de la tropa. Tiene forma ovalada, bordada con hilos de colores sobre un paño. En el centro se presenta las letras B y A como sigla de Buenos Aires rodeadas de hojas de palmas.
 ---

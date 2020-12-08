@@ -7,7 +7,8 @@ intro: |
 overview: |
   Carlota Joaquina de Borbón, hija mayor del rey de España Carlos IV y hermana de quien sería Fernando VII, se casó con el príncipe de Braganza, luego rey de Portugal con el nombre de Juan VI. En 1808 ella se propuso como depositaria de los derechos de la dinastía borbónica española en América, para gobernar en Buenos Aires.
 images:
-  - file: retrato-de-carlota-joaquina.jpg
+  - desktop: retrato-de-carlota-joaquina.jpg
+    mobile: retrato-de-carlota-joaquina_m.jpg  
     epigraph: Retrato de Doña Carlota Joaquina
     alt: En el retrato se la ve a Carlota Joaquina de medio cuerpo en leve perfil, de pie junto a una mesa. Tiene un peinado con volumen terminado en dos rulos que caen sobre el escote. Luce vestido escotado, ceñido a la cintura, con pollera amplia y armada. Con la mano derecha toma un pequeño abanico que se encuentra sobre la mesa, y la izquierda la apoya sobre las faldas. Sobre el pecho tiene un gran medallón con un retrato de su prometido. A la izquierda del pecho un arreglo con una cruz. En el fondo se ven los pliegues de un gran cortinado.
 ---
