@@ -1,5 +1,5 @@
 import React, {useState} from "react"
-import { Link } from "gatsby"
+import { Link, withPrefix } from "gatsby"
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 
@@ -17,6 +17,7 @@ const Page = ({ data, path }) => {
   return (
   <Layout bodyClass="games">
     <SEO title="Juegos para todas las edades" />
+    <section>
     <h2>Juegos para todas las edades</h2>
     <div className="iframeHolder" >
         <iframe frameBorder="0" width="1200px" height="675px" src={url} type="text/html" allowscriptaccess="always" allowFullScreen={ true } scrolling="yes" allownetworking="all"></iframe>
@@ -30,7 +31,7 @@ const Page = ({ data, path }) => {
           <span>{g.description}</span>
           <br/>
           <br/>
-          <img src={`/juegos/${g.thumb}`} alt={g.title} />
+          <img src={withPrefix(`/juegos/${g.thumb}`)} alt={g.title} />
           <br/>
           <br/>
           <a href={g.url}>Ir al juego</a>
@@ -44,7 +45,7 @@ const Page = ({ data, path }) => {
       <span>Descubrí los objetos.</span>
       <br/>
       <br/>
-      <img src={`/juegos/6_Rompecabezas.jpg`} alt="Rompecabezas" />
+      <img src={withPrefix(`/juegos/6_Rompecabezas.jpg`)} alt="Rompecabezas" />
     </div>
     <div className="game-list">
     {games.jigsaws.map( g => {
@@ -66,15 +67,14 @@ const Page = ({ data, path }) => {
           <span>{g.title}</span>
           <br/>
           <br/>
-          <img src={`/juegos/${g.thumb}`} alt={g.title} />
+          <img src={withPrefix(`/juegos/${g.thumb}`)} alt={g.title} />
           <br/>
           <br/>
           <a href={g.url}>Ir al juego</a>
         </div>)
       })}
     </div>
-
-
+    </section>
 
   </Layout>
 )

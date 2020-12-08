@@ -22,28 +22,27 @@ const SiteMapPage = ({ data, path }) => {
   return (
   <Layout bodyClass="sitemap">
     <SEO title="Mapa del sitio" />
+    <section>
     <h2>Mapa del sitio</h2>
-      <Link to="/">Contenidos</Link>
-      <nav>
-        {Object.entries(links).map(([k,v])=>{
-          return (<React.Fragment key={k}>
-            <Link to={`/${k}`}>{k}</Link>
-            <nav>
-              {v.map( l => {
-                return (<React.Fragment key={l.slug}>
-                  <Link to={l.slug}>{l.category}</Link>
-                  <nav>
-                    {l.posts.map( p => <Link key={p.slug} to={p.slug}>{p.title}</Link>)}
-                  </nav>
-                </React.Fragment>)})}
-            </nav>
-          </React.Fragment>)
-        })}
-      </nav>
+      {Object.entries(links).map(([k,v])=>{
+        return (<React.Fragment key={k}>
+          <Link to={`/${k}`}>{k}</Link>
+          <nav>
+            {v.map( l => {
+              return (<React.Fragment key={l.slug}>
+                <Link to={l.slug}>{l.category}</Link>
+                <nav>
+                  {l.posts.map( p => <Link key={p.slug} to={p.slug}>{p.title}</Link>)}
+                </nav>
+              </React.Fragment>)})}
+          </nav>
+        </React.Fragment>)
+      })}
       <Link to="/juegos">Juegos para todas las edades</Link>
       <Link to="/propuestas-educativas/">Propuestas educativas</Link>
       <Link to="/sobre-esta-muestra/">Sobre esta muestra</Link>
       <Link to="/mapa-del-sitio/">Mapa del sitio</Link>
+    </section>
   </Layout>
 )
 }

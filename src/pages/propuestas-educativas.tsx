@@ -8,6 +8,7 @@ const Page = ({ data, path }) => {
   return (
   <Layout bodyClass="about">
     <SEO title="Propuestas educativas" />
+    <section>
     <h2>Propuestas para el aula</h2>
 
     <p>Estas actividades propuestas para acompañar la muestra virtual BELGRANO – <em>Transformar la realidad</em>, establecen temas transversales a la cronología de Manuel Belgrano.</p>
@@ -70,6 +71,7 @@ const Page = ({ data, path }) => {
     </ul>
 
     <a href="https://museohistoriconacional.cultura.gob.ar/noticia/educacion-media-propuestas-para-el-aula/" target="_blank"> Click acá para descargar los materiales</a>
+    </section>
 
   </Layout>
 )

@@ -19,6 +19,7 @@ const Page = ({ data, path }) => {
   return (
   <Layout bodyClass="home2">
     <SEO title="1794-1810" />
+    <section>
     <h2>1794 - 1810</h2>
     {axis.map( ({slug,title,intro},i) => {
       return (
@@ -38,6 +39,7 @@ const Page = ({ data, path }) => {
           </div>
         </div>
     )})}
+    </section>
 
   </Layout>
 )

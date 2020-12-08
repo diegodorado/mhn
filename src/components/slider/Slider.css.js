@@ -1,5 +1,10 @@
 import styled from 'styled-components'
 
+export const SliderWrapper = styled.div`
+  width: 100%;
+  overflow: ${props => (props.isZooming ? 'visible' : 'hidden')};
+`
+
 export const Slider = styled.div`
   margin-top: 10px;
   position: relative;

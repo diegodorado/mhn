@@ -5,4 +5,5 @@ export const Slide = styled.div`
   height: auto;
   display: block;
   cursor: pointer;
+  visibility: ${props => (props.isZooming && !props.active ? 'hidden' : 'visible')};
 `

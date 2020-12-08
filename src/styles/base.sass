@@ -48,9 +48,23 @@ main
 
 #app
   margin: 0 auto 100px
-  width: 85%
+  header, section, footer
+    width: 85%
+    margin: auto
   +breakpoint(sm)
+    header, section, footer
+      width: auto
     width: 700px
   +breakpoint(lg)
     width: 1080px
+
+.level1 #app .post-content
+  width: 85%
+  margin: auto
+  .gatsby-resp-image-wrapper
+    margin: 2em -10% !important
+  +breakpoint(sm)
+    width: auto
+    .gatsby-resp-image-wrapper
+      margin: 2em auto !important
 

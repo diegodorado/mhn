@@ -7,7 +7,7 @@ import { Slide as StyledSlide } from './Slide.css'
 
 const AnimatedSlide = animated(StyledSlide)
 
-export default function Slide({ children, zoom, onScale, minScale, maxScale }) {
+export default function Slide({ children, zoom, onScale, minScale, maxScale, active, isZooming }) {
   const [element, scale, translateX, translateY, middleTouchOnElement, set] = useZoom({
     minScale,
     maxScale,
@@ -25,6 +25,8 @@ export default function Slide({ children, zoom, onScale, minScale, maxScale }) {
   return (
     <AnimatedSlide
       ref={element}
+      active={active}
+      isZooming={isZooming}
       style={{
         transform: interpolate(
           [scale, translateX, translateY],

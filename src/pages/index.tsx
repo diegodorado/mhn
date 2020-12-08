@@ -64,6 +64,7 @@ const IndexPage: React.FC<PageProps<DataProps>> = ({ data, path }) => {
   return (
   <Layout bodyClass="home">
     <SEO title="Inicio" />
+    <section>
     <div className={ `intro ${ ended ? 'ended' : 'playing'} ${ wide ? 'wide' : 'small'}` }>
       <video ref={vidRef} autoPlay={true} muted={true} >
         <source src={wide ? IntroWide : IntroSq} type="video/mp4" />
@@ -79,6 +80,7 @@ const IndexPage: React.FC<PageProps<DataProps>> = ({ data, path }) => {
         </div>
         <button className="skip" onClick={skipIntro}>Saltar</button>
     </div>
+    </section>
   </Layout>
 )
 }

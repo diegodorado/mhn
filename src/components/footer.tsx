@@ -36,22 +36,22 @@ const Footer: React.FC = () => {
       }
       mhn: file(relativePath: { eq: "logos/logo-mhn.png" }) {
         childImageSharp {
-          fixed(width: 240) {
-            ...GatsbyImageSharpFixed
+          fluid(maxWidth: 240) {
+            ...GatsbyImageSharpFluid
           }
         }
       }
       museos: file(relativePath: { eq: "logos/logo-museos.png" }) {
         childImageSharp {
-          fixed(width: 106) {
-            ...GatsbyImageSharpFixed
+          fluid(maxWidth: 106) {
+            ...GatsbyImageSharpFluid
           }
         }
       }
       ministerio: file(relativePath: { eq: "logos/logo-ministerio.png" }) {
         childImageSharp {
-          fixed(width: 120) {
-            ...GatsbyImageSharpFixed
+          fluid(maxWidth: 120) {
+            ...GatsbyImageSharpFluid
           }
         }
       }
@@ -80,13 +80,13 @@ const Footer: React.FC = () => {
         <Link to="/mapa-del-sitio/">Mapa del sitio</Link>
       </nav>
       <a href="https://museohistoriconacional.cultura.gob.ar/" className="mhn">
-        <Img fixed={data.mhn.childImageSharp.fixed} />
+        <Img fluid={data.mhn.childImageSharp.fluid} />
       </a>
       <a href="https://museohistoriconacional.cultura.gob.ar/" className="museos">
-        <Img fixed={data.museos.childImageSharp.fixed} />
+        <Img fluid={data.museos.childImageSharp.fluid} />
       </a>
       <a href="https://museohistoriconacional.cultura.gob.ar/" className="ministerio">
-        <Img fixed={data.ministerio.childImageSharp.fixed} />
+        <Img fluid={data.ministerio.childImageSharp.fluid} />
       </a>
     </footer>
   )

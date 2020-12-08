@@ -175,7 +175,6 @@ $rfs-base-value: 12
         right: 20px
         font-size: 1.5em
 
-
     header
       h1
         display: none
@@ -189,22 +188,16 @@ $rfs-base-value: 12
 .sitemap
   main
     text-align: left
-    +font-size(1.0rem)
     nav
-      margin-left: 3em
+      margin-left: 2em
       a
-        color: $black
-        font-size: 1rem
+        color: $primary
       nav
         a
-          color: $primary
-        nav
-          a
-            color: $black
+          color: $black
     a
       display: block
-      line-height: 2.5em
-      font-size: 1.2rem
+      line-height: 2.2em
       color: $primary
         
 .level1
@@ -219,6 +212,7 @@ $rfs-base-value: 12
   .post-content
     .gatsby-resp-image-wrapper
       margin: 2em 0
+
 
   h2
     text-align: center
@@ -237,10 +231,8 @@ $rfs-base-value: 12
       opacity: 0.5
     a,span
       display: block
-      padding: 0 0 0 1em
+      padding: 0 1em
       font-size: 1.2rem
-      &:nth-child(1)
-        padding: 0 1em 0 0
       &::after
         display: block
         content: ""
@@ -256,7 +248,6 @@ $rfs-base-value: 12
           &::after
             border-left: 0
             border-right: 1em solid $gray
-
     &.foot
       padding: 2em 0 5em
       a,span

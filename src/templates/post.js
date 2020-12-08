@@ -1,10 +1,9 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { Link, graphql, withPrefix  } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Img from "gatsby-image"
 import ZoomSlider from "../components/slider/Slider"
-import juegos from "../images/juegos/banner.gif"
 
 const remark = require('remark')
 const toHAST = require(`mdast-util-to-hast`)
@@ -19,7 +18,21 @@ const Template = ({pageContext, data}) => {
 
 
   const {previous, next } = pageContext
-  const slides = images.map( i => <Img key={i}  draggable={false}  fluid={i.file.childImageSharp.fluid} alt={i.alt} epigraph={i.epigraph} />)
+  const slides = images.map( i => {
+    /*
+    const sources = [
+      i.mobile.childImageSharp.fluid,
+      {
+        ...i.desktop.childImageSharp.fluid,
+        media: `(min-width: 768px)`,
+      },
+    ]
+    */
+    const sources = [
+      i.desktop.childImageSharp.fluid,
+    ]
+    return <Img key={i}  draggable={false}  fluid={sources} alt={i.alt} epigraph={i.epigraph} />
+  })
 
   return (
   <Layout bodyClass="level1">
@@ -33,13 +46,13 @@ const Template = ({pageContext, data}) => {
       {next ? <Link to={next} /> : <span/>}
     </nav>
     
-    <div style={{width:'100%', overflow: 'hidden'}}>
-      <ZoomSlider slides={slides} activeDotColor={"#006699"}/>
-    </div>
+    <ZoomSlider slides={slides} activeDotColor={"#006699"}/>
 
-    <div className="overview"
-      dangerouslySetInnerHTML={{ __html: ov}}
-    />
+    <section>
+      <div className="overview"
+        dangerouslySetInnerHTML={{ __html: ov}}
+      />
+    </section>
 
     <div
       className="post-content"
@@ -51,16 +64,18 @@ const Template = ({pageContext, data}) => {
       {next ? <Link to={next} /> : <span/>}
     </nav>
     
-    <figure>
-      <Link to="/juegos/">
-        <img src={juegos} alt="Juegos para todas las edades " style={{width:'100%'}} />
-      </Link>
-      <figcaption>
+    <section>
+      <figure>
         <Link to="/juegos/">
-          Juegos para todas las edades
+          <img src={withPrefix(`/juegos/banner.gif`)} alt="Juegos para todas las edades " style={{width:'100%'}} />
         </Link>
-      </figcaption>
-    </figure>
+        <figcaption>
+          <Link to="/juegos/">
+            Juegos para todas las edades
+          </Link>
+        </figcaption>
+      </figure>
+    </section>
 
   </Layout>)
 }
@@ -81,7 +96,14 @@ export const pageQuery = graphql`
         images {
           alt
           epigraph
-          file{ 
+          mobile: file{ 
+            childImageSharp {
+              fluid(maxWidth: 1920, quality: 90, maxHeight: 1920) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+          desktop: file{ 
             childImageSharp {
               fluid(maxWidth: 1920, quality: 90) {
                 ...GatsbyImageSharpFluid

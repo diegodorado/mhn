@@ -11,6 +11,7 @@ import {
   Overlay as StyledOverlay,
   SlideOverlay as StyledSlideOverlay,
   Slider as StyledSlider,
+  SliderWrapper,
 } from './Slider.css'
 
 const AnimatedOverlay = animated(StyledOverlay)
@@ -39,7 +40,7 @@ export default function Slider({
   }
 
   return (
-    <div>
+    <SliderWrapper isZooming={zooming}>
       {zooming && (
         <AnimatedOverlay
           style={{
@@ -68,12 +69,14 @@ export default function Slider({
           transform: x.interpolate(slideX => `translateX(${slideX}%`),
         }}
       >
-        {slides.map((slide, idx) => (
+        {slides.map((slide, idx) => {
+          return(
           // eslint-disable-next-line react/no-array-index-key
-          <Slide zoom={zoom} onScale={onScale} key={idx}>
-            {slide}
-          </Slide>
-        ))}
+            <Slide active={idx===currentSlide} isZooming={zooming} zoom={zoom} onScale={onScale} key={idx}>
+              {slide}
+            </Slide>
+          )}
+        )}
       </AnimatedSlider>
       <Epigraph>{epigraph}</Epigraph>
 
@@ -86,7 +89,7 @@ export default function Slider({
         onZoom={onZoom}
       />
 
-    </div>
+    </SliderWrapper>
   )
 }
 
