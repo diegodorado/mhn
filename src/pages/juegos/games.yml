@@ -1,0 +1,52 @@
+games:
+  - title: Retratos escondidos
+    desciption: Para poner a prueba tu memoria visual
+    url: https://view.genial.ly/5f5f8843aeba3b0d96ca8f91
+    thumb: 1_RetratosEscondidos.jpg
+  - title: La valija de Belgrano
+    desciption: Ayudá a Belgrano con el equipaje para su primer viaje como revolucionario
+    url: https://view.genial.ly/5fa97d0b347e0f0d17e47935
+    thumb: 2_LaValijaDeBelgrano.jpg
+  - title: Aventura europea con Belgrano
+    desciption: Tirá el dado y acompañá a Belgrano en el famoso “Serpientes y Escaleras”
+    url: https://view.genial.ly/5f3ed0f6fc68630d97057464
+    thumb: 4_AventuraEuropea.jpg
+  - title: Hacer bandera
+    desciption: Personalizá una bandera con símbolos y colores que te representen a vos y a tu grupo
+    url: https://view.genial.ly/5f58ffe41835080da96a00bf
+    thumb: 5_HacerBandera.jpg
+  - title: La Tarja sonora
+    desciption: Una invitación a mirar de cerca la Tarja de Potosí e imaginar sus sonidos
+    url: https://view.genial.ly/5f6e46c81722e90da36f863b
+    thumb: 3_LaTarjaSonora.jpg
+
+
+
+
+jigsaws:
+  - title: Manuel Belgrano por Fortunato Fontana
+    url: https://www.jigsawplanet.com/?rc=play&pid=093cafd2cbdb&view=iframe&bgcolor=0xffffff
+  - title: Captura de Buenos Aires
+    url: https://www.jigsawplanet.com/?rc=play&pid=39911afe3690&view=iframe&bgcolor=0xffffff
+  - title: Vista de Buenos Aires de 1790
+    url: https://www.jigsawplanet.com/?rc=play&pid=2948eddad26c&view=iframe&bgcolor=0xffffff
+  - title: Escribanía de plata con frascos de tinta y arena
+    url: https://www.jigsawplanet.com/?rc=play&pid=338db6d0ce90&view=iframe&bgcolor=0xffffff
+  - title: Escudo de 1813
+    url: https://www.jigsawplanet.com/?rc=play&pid=20d3fa76fc7c&view=iframe&bgcolor=0xffffff
+
+kids:
+  - title: Veo veo con mi catalejo
+    url: https://view.genial.ly/5f5f887e1c33852b41244657
+    thumb: 9_VeoVeoConElCatalejo.jpg
+  - title: Tinta que deja huella
+    url: https://view.genial.ly/5f74d39d09ee130d09804e79
+    thumb: 7_TIntaQueDejaHuella.jpg
+  - title: Plantar semillas como ideas
+    url: https://view.genial.ly/5f74bfdc60fdea0d08cb2581
+    thumb: 8_PlantarSemillasComoIdeas.jpg
+  - title: Cruzar el océano en barco
+    url: https://view.genial.ly/5f6e4b57d911060d5ce26b91
+    thumb: 10_CruzarElOceano.jpg
+
+

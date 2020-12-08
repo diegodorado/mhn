@@ -22,14 +22,14 @@ images:
 
 Se cree que tanto este, como otro retrato de busto, que está en la colección del Museo Nacional de Bellas Artes, llegaron a Buenos Aires desde Londres en 1822. Esto puede ser un indicio del tiempo y el trabajo que llevaba hacer un retrato. Carbonnier había adherido a Napoleón y tras su derrota, mudó su taller a Londres. Coincidió con la llegada de Belgrano a esa ciudad.
 
-![](./eje11-2-a.jpg)
+![Detalle del objeto](./eje11-2-a.jpg)
 
 Belgrano eligió ser representado en sus dos facetas. En primer plano, como funcionario, con un elegante traje de civil y un peinado a la moda. Y también como general, dirigiendo la batalla que se ve a través de una ventana.
 
-![](./eje11-2-b.jpg)
+![Detalle del objeto](./eje11-2-b.jpg)
 
 
-En la escena militar del cuadro hay varias banderas blancas y celestes flameando. Como curiosidad, Belgrano hizo el viaje a Europa con Rivadavia, quien había sido secretario del Triunvirato que en 1812 desautorizó su creación de la bandera.
+En la escena militar del cuadro hay varias banderas blancas y celestes flameando. Como son banderas solo de dos franjas, una celeste y otra blanca, en coincidencia con la nota que escribió al crearla en 1812, algunos autores han sostenido que este era el diseño antes del de tres franjas que se empezó a usar poco después. Pero no se lo puede saber con certeza. Como curiosidad, Belgrano hizo el viaje a Europa con Rivadavia, quien había sido secretario del Triunvirato que en 1812 desautorizó su creación de la bandera.
 
 ### ¿Querés saber más?
 José María Paz, oficial del Ejército del Norte, señala en sus memorias:
@@ -43,5 +43,4 @@ El comerciante tucumano José Celedonio Balbín, tuvo una impresión distinta a 
 Retrato de Manuel Belgrano hecho al óleo por Fortunato Fontana en 1941. Mide 1,15 metros de alto y 0,90 metros de ancho.
 
 
-![](./eje11-1-a.jpg)
 

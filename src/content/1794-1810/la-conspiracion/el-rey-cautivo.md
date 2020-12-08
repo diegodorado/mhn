@@ -22,10 +22,16 @@ images:
 
 En 1807, el rey español Carlos IV había renunciado al trono. El príncipe heredero, que había conspirado para que esto sucediera, fue coronado como Fernando VII. Pero su reinado fue breve: Napoleón lo desplazó y lo llevó prisionero a un palacio francés. Entonces nombró a su hermano, José Bonaparte, como rey de España, pero una gran parte de los españoles no aceptó la decisión.
 
+![Detalle del objeto](./eje04-2-a.jpg)
+
 Desde ése momento la imagen de Fernando VII se volvió un símbolo de la resistencia española a la invasión francesa tanto en Europa como en las colonias americanas, que permanecieron fieles al monarca cautivo.
+
+![Detalle del objeto](./eje04-2-b.jpg)
 
 ### Una cara en todos lados
 La producción gráfica de cuadros, retratos e impresos con el rostro de Fernando VII fue una de las formas de expresar esa resistencia y unidad española en contra de los franceses. Estas representaciones también aparecían en espacios públicos y hasta en las casas de algunas personas. La figura de Fernando VII y la idea de su regreso al trono se volvió tan importante que popularmente se lo llamaría *el deseado*. Las autoridades francesas sabían de la fuerza que estos retratos e imágenes tenían. Por eso, el 31 de mayo de 1808 ordenaron secuestrar todos los retratos de Fernando VII que pudieran encontrarse y también las láminas de cobre que estaban en la Imprenta Real y en todas las librerías y tiendas.
+
+![Detalle del objeto](./eje04-2-c.jpg)
 
 ### ¿Querés saber más?
 Para graficar la lucha entre dos naciones generalmente se usaban símbolos o animales que las representaban. A este recurso se lo conoce como alegoría. En las escenas pintadas durante estos años el león representa a España, mientras que el águila a Francia. Estas decisiones no son casuales: los leones son animales muy importantes en la simbología española, y el águila fue un ave recuperada por Napoleón Bonaparte de las legiones romanas, por lo que simbolizaba específicamente a la Francia napoleónica.

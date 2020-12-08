@@ -61,16 +61,16 @@ const Footer: React.FC = () => {
   return (
     <footer>
       <nav className="social">
-        <Link to="/">
+        <Link to="https://www.facebook.com/museohistoriconacionalargentina">
           <Img fluid={data.fb.childImageSharp.fluid} />
         </Link>
-        <Link to="/">
+        <Link to="https://twitter.com/MuseoHistorico">
           <Img fluid={data.tw.childImageSharp.fluid} />
         </Link>
-        <Link to="/">
+        <Link to="https://museohistoriconacional.cultura.gob.ar/">
           <Img fluid={data.web.childImageSharp.fluid} />
         </Link>
-        <Link to="/">
+        <Link to="https://www.instagram.com/mhnarg/">
           <Img fluid={data.ig.childImageSharp.fluid} />
         </Link>
       </nav>
@@ -79,13 +79,13 @@ const Footer: React.FC = () => {
         <Link to="/sobre-esta-muestra/">Sobre esta muestra</Link>
         <Link to="/mapa-del-sitio/">Mapa del sitio</Link>
       </nav>
-      <Link to="/" className="mhn">
+      <Link to="https://museohistoriconacional.cultura.gob.ar/" className="mhn">
         <Img fixed={data.mhn.childImageSharp.fixed} />
       </Link>
-      <Link to="/" className="museos">
+      <Link to="https://museohistoriconacional.cultura.gob.ar/" className="museos">
         <Img fixed={data.museos.childImageSharp.fixed} />
       </Link>
-      <Link to="/" className="ministerio">
+      <Link to="https://museohistoriconacional.cultura.gob.ar/" className="ministerio">
         <Img fixed={data.ministerio.childImageSharp.fixed} />
       </Link>
     </footer>

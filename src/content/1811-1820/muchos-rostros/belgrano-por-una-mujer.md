@@ -14,7 +14,7 @@ images:
 
 Macaire se inspiró en los retratos londinenses de Belgrano, uno conservado por su familia y otro por Rivadavia. Pero introdujo variaciones: en vez de un traje de civil, usa un traje militar, y su cara tiene una expresión risueña.
 
-![](./eje11-5-a.jpg)
+![Detalle del objeto](./eje11-5-a.jpg)
 
 La inscripción que incluyó debajo, dice:
 
@@ -23,7 +23,7 @@ La inscripción que incluyó debajo, dice:
 ### ¿Querés saber más?
 En el Río de la Plata, la introducción de la litografía permitió un salto en la circulación de imágenes y en los usos visuales de la política.
 
-![](./eje11-5-b.jpg)
+![Detalle del objeto](./eje11-5-b.jpg)
 
 La litografía tenía varios pasos. Primero, se dibujaba sobre una piedra caliza pulida. Segundo, remarcaba el dibujo con una tinta grasa, y se aplicaba una sustancia fijadora. Tercero, se humedecía con agua la superficie y se entintaba con más tinta grasa la piedra, y así esta solo se adhería a la tinta previa. Cuarto y último, se colocaba el papel sobre la piedra y se estampaba con una prensa, ejerciendo presión.
 

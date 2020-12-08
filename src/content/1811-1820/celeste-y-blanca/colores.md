@@ -14,11 +14,11 @@ images:
 
 La banda era un símbolo de la *Orden de Carlos III*, creada por este rey en 1771 para premiar a las personas que se destacaban en servicio de la corona. Los colores se habían inspirado en el manto de la Inmaculada Concepción de María, patrona de la orden.
 
-![](./eje07-4-a.jpg)
+![Detalle del objeto](./eje07-4-a.jpg)
 
 En este retrato de Fernando VII se perciben bien los colores. El retrato real en las ceremonias y en las sedes de gobierno recibía un tratamiento especial, se lo colocaba en un espacio diferenciado de sus súbditos.
 
-![](./eje07-4-b.jpg)
+![Detalle del objeto](./eje07-4-b.jpg)
 
 La difusión de las técnicas de grabado, de estampa de imágenes, coincidió con la prisión de Fernando VII por parte de Napoleón. Nunca antes habían circulado tantos retratos de un rey ni en España ni en América. La intensa producción y circulación de retratos de Fernando, que empezó a ser conocido como *El Deseado* tras su cautiverio, volvió próxima a esa figura alejada.
 

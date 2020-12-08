@@ -3,7 +3,7 @@ index: "09-5"
 category: Un rey inca
 title: Independencia
 overview: |
-  "Tres días después de que Belgrano presentase el plan del rey inca, el *Soberano Congreso de las Provincias Unidas del Río de la Plata* dio un paso fundamental: declaró la independencia. Al hacerlo cambió el nombre del nuevo Estado por *Provincias Unidas en Sud-América*."
+  Tres días después de que Belgrano presentase el plan del rey inca, el *Soberano Congreso de las Provincias Unidas del Río de la Plata* dio un paso fundamental: declaró la independencia. Al hacerlo cambió el nombre del nuevo Estado por *Provincias Unidas en Sud-América*.
 images:
   - file: escribania.jpg
     epigraph: Escribanía
@@ -13,11 +13,11 @@ images:
 
 Este reforzaba una identidad americana por sobre las locales, y dejaba abierta la posibilidad de que se incorporaran otros pueblos: los altoperuanos e incluso Chile, que en ese momento estaban bajo dominio realista; los litoraleños, confederados bajo el liderazgo de Artigas; y el Paraguay, independiente en los hechos. Incluso parte del Perú, ya que algunos soñaban con una capital en Cuzco, la ciudad incaica.
 
-![](./eje09-5-a.jpg)
+![Detalle del objeto](./eje09-5-a.jpg)
 
 La declaración decía que era “*voluntad unánime e indudable de estas provincias romper los violentos vínculos que las ligaban a los reyes de España, recuperar los derechos de que fueron despojadas, e investirse del alto carácter de una nación libre e independiente del rey Fernando VII, sus sucesores y metrópoli*”. El 21 de julio, ante críticas de que se negociaría con los portugueses, se agregó “*y de toda otra dominación extranjera*”.
 
-![](./eje09-5-b.jpg)
+![Detalle del objeto](./eje09-5-b.jpg)
 
 Se tomaba a la dominación española como una imposición por la fuerza y no el fruto del consentimiento legítimo, por lo cual se tenía derecho a resistirla y disolverla, y a restituir una soberanía independiente a los pueblos como un acto de justicia.
 

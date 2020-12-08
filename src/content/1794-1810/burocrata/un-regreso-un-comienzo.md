@@ -15,11 +15,11 @@ images:
 
 Buenos Aires pedía la creación de un Consulado de Comercio desde hacía tiempo. Los consulados funcionaban como tribunales mercantiles y sociedades económicas. Su existencia reconocía la importancia de Buenos Aires en los circuitos comerciales y expresaba el creciente poder de su elite.
 
-![](./eje01-1-a.jpg)
+![Detalle del objeto](./eje01-1-a.jpg)
 
 Desde su creación, en el Consulado se tomaron decisiones importantes acerca del comercio y la producción, y por eso fue sede de varios debates. Cada uno de sus miembros representaba a distintas familias de grandes comerciantes. Mientras algunos defendían la apertura del comercio, otros sostenían que era conveniente su restricción y mantener el monopolio español.
 
-![](./eje01-1-b.jpg)
+![Detalle del objeto](./eje01-1-b.jpg)
 
 Belgrano estaba en contra del monopolio y defendía una postura librecambista, es decir, que el virreinato del Río de la Plata pudiese comerciar con otras potencias además de con España.
 

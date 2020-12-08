@@ -14,11 +14,11 @@ images:
 Una de las principales estaba dirigida por una mujer, Juana Azurduy, junto con su marido Manuel Padilla. Ella se destacó en la lucha. En el combate de Villar, Azurduy, al frente de 30 fusileros y 200 indígenas armados con palos y hondas, logró dispersar una columna enemiga y capturar con sus propias manos una bandera realista.
 Cuando esa noticia llegó a Buenos Aires, le otorgaron el grado de teniente coronel de milicias a “*la amazona Juana Azurduy*”.
 
-![](./eje10-3-a.jpg)
+![Detalle del objeto](./eje10-3-a.jpg)
 
 El apodo de *Amazona* se lo había dado Belgrano que, a pesar de estar en contra de la presencia de mujeres en los ejércitos porque sostenía que atentaba contra la disciplina, hizo una excepción con Azurduy.
 
-![](./eje10-3-b.jpg)
+![Detalle del objeto](./eje10-3-b.jpg)
 
 Más adelante, Azurduy fue reconocida por Simón Bolívar, quien le otorgó el cargo de Coronel.
 

@@ -13,11 +13,11 @@ images:
 
 *La gloriosa conquista de Buenos Aires por las fuerzas británicas* es una entre muchas imágenes que circulaban y construían relatos. Así, las personas conocían y recordaban los eventos más significativos de sus tiempos: batallas, naufragios, funerales y hasta actividades de la vida cotidiana.
 
-![](./eje03-2-a.jpg)
+![Detalle del objeto](./eje03-2-a.jpg)
 
 Probablemente inspirada en los relatos de quienes regresaban de América, esta escena representa en sucesivos planos la toma de la ciudad de Buenos Aires en junio de 1806, durante la primera invasión inglesa. Por eso se ven distintos grupos de hombres descargando armamento, formándose, disparando e incluso iniciando incendios camino al Fuerte.
 
-![](./eje03-2-b.jpg)
+![Detalle del objeto](./eje03-2-b.jpg)
 
 Su autor es George Thompson, un grabador e impresor de Londres, y se trata de una xilografía coloreada a mano.
 

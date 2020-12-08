@@ -16,19 +16,19 @@ images:
   - file: detalle-de-la-silueta-de-america-del-sur.jpg
     epigraph: Detalle de la silueta de América del Sur
     alt: Detalle de la silueta de América del Sur
-  - file: detalle-de-la-medallas-conmemorativas.jpg
-    epigraph: Detalle de la medallas conmemorativas
-    alt: Detalle de la medallas conmemorativas
+  - file: detalle-de-las-medallas-conmemorativas.jpg
+    epigraph: Detalle de las medallas conmemorativas
+    alt: Detalle de las medallas conmemorativas
 
 
 ---
 
 Belgrano ingresó en Potosí en junio de 1813. Varias damas patriotas de esa ciudad minera le obsequiaron una notable obra de platería y orfebrería conocida como la Tarja de Potosí. Es un homenaje al general, a Buenos Aires y a Sudamérica. Se celebra la libertad, la unión americana y su tradición indígena.
-![](./eje09-1-a.jpg)
+![Detalle del objeto](./eje09-1-a.jpg)
 
 El águila, un símbolo de la corona española adoptado por la Potosí colonial, se transforma en la paloma del escudo de la ciudad de Buenos Aires. El Cerro Rico potosino le agradece al Río de la Plata. En la cima hay un *indio* coronado. Está representado como en Europa se caracterizaba a los diversos pueblos indígenas, con el torso desnudo y con adornos de plumas. Sostiene una daga y una lanza rematada por el *gorro de la libertad*. Está dando un significativo paso adelante.
 
-![](./eje09-1-b.jpg)
+![Detalle del objeto](./eje09-1-b.jpg)
 
 Belgrano envió la Tarja a Buenos Aires, acompañada por una lista de las *77 diputadas* que lo distinguieron. Por su tamaño viajó desarmada y fue compuesta en la capital por el platero altoperuano Juan de Dios Rivera. El regalo llegó en diciembre, pero el clima era poco festivo por las noticias de la derrota de Belgrano en Vilcapugio y Ayohuma.
 

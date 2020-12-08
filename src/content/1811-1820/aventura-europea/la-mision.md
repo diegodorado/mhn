@@ -17,11 +17,11 @@ images:
 
 Una alternativa era “*la venida de un príncipe de la Casa Real de España que mande en soberano este Continente bajo las formas Constitucionales que establezcan las Provincias; o el vínculo y dependencia de ellas de la Corona de España, quedando la administración de todos sus ramos en manos de los Americanos*”. Si no conseguían nada debían ganar tiempo y buscar la protección de otra potencia europea.
 
-![](./eje08-1-a.jpg)
+![Detalle del objeto](./eje08-1-a.jpg)
 
 Los enviados fueron primero a Londres a reunirse con Manuel de Sarratea, otro porteño que estaba tratando de convencer a Carlos IV, padre de Fernando VII y monarca español hasta 1808, de que permitiera ser rey de las Provincias Unidas a otro de sus hijos, Francisco de Paula. Pero no lo logró. Tampoco pudieron acordar con la corona española. Fernando VII preparó una gran expedición restauradora, que en principio iba a dirigirse al Río de la Plata pero finalmente atacó Venezuela en 1815.
 
-![](./eje08-1-b.jpg)
+![Detalle del objeto](./eje08-1-b.jpg)
 
 Los enviados se hicieron retratar en el viaje. Se supone que Belgrano se hizo pintar en miniatura. Por el peinado, la vestimenta y la pose se piensa que ese retrato fue hecho en el viaje diplomático. Pero en ese momento Belgrano tenía 45 años y seguramente ya no se veía tan joven como lo muestra la miniatura.
 

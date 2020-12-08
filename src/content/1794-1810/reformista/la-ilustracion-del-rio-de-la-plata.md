@@ -15,11 +15,11 @@ images:
 
 En su etapa universitaria en España, Belgrano adoptó ideas de la Ilustración, movimiento que confiaba en la razón humana como vía de conocer la realidad y transformarla. También vivió el impacto que generó la Revolución Francesa, con su gran cuestionamiento de la autoridad y la sociedad tradicional.
 
-![](./eje02-1-a.jpg)
+![Detalle del objeto](./eje02-1-a.jpg)
 
 Con letra de molde, como se llamaba a los tipos móviles de plomo y de madera de las imprentas, Belgrano y otros ilustrados de Buenos Aires intentaron dar forma desde la prensa a una sociedad distinta, en la que el conocimiento técnico y una nueva economía fueran la clave del desarrollo local.
 
-![](./eje02-1-b.jpg)
+![Detalle del objeto](./eje02-1-b.jpg)
 
 También consideraban clave a la educación, tanto para los hombres como para las mujeres. Con sus artículos pretendían generar una opinión favorable a las reformas y presionar a las autoridades españolas para que las realizaran.
 

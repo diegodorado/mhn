@@ -16,11 +16,11 @@ images:
 
 Esta es una invitación al Cabildo Abierto del 22 de mayo de 1810, dirigida a Don Diego Agüero, un gran comerciante de Buenos Aires. La posición mayoritaria en la reunión fue que la soberanía debía volver a los pueblos, es decir a las ciudades del virreinato, que se gobernarían a sí mismos a través de una junta en nombre de Fernando VII, el rey cautivo.
 
-![](./eje05-1-a.jpg)
+![Detalle del objeto](./eje05-1-a.jpg)
 
 Se suponía que la soberanía retornaba del rey a los pueblos que se la habían dado originalmente, y estos la tendrían en depósito hasta que el monarca volviese a su trono.
 
-![](./eje05-1-b.jpg)
+![Detalle del objeto](./eje05-1-b.jpg)
 
 Los opositores a la medida argumentaron que Buenos Aires no podía tomar la decisión sin consultar a los otros pueblos, pero se les respondió que la emergencia permitía formar la junta primero y convocarlos después. Belgrano estuvo presente en el Cabildo Abierto y fue uno de los partidarios de deponer al virrey, postura que ganó en la votación final.
 

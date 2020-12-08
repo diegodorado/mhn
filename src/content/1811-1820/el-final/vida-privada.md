@@ -19,12 +19,14 @@ El general nunca se casó. Aunque se esperaba que los varones de la elite lo hic
 
 Helguero no es el único vínculo amoroso que se conoce de Belgrano. Al comenzar el siglo XIX empezaron un amorío con la joven María Josefa Ezcurra. Pero en 1803 a ella le impusieron casarse con un primo. Tras la Revolución de Mayo, su esposo –que era español y opositor a la Junta– regresó a Europa. Y entonces se reinició el romance. En 1812, María Josefa acompañó a Belgrano en su campaña al Norte. Fruto de este vínculo, nació un hijo que criaron la hermana menor de Josefa, Encarnación Ezcurra, y su cuñado Juan Manuel de Rosas. Cuando fue mayor se le reveló quién era su padre y desde entonces adoptó el nombre Pedro Rosas y Belgrano.
 
-![](./eje10-4-a.jpg)
+![Detalle del objeto](./eje10-4-a.jpg)
 
 ### ¿Querés saber más?
 Esta pistola no era para la función militar sino de uso privado. Es una pistola para defensa personal que se llevaba en los bolsillos, con un mecanismo de seguridad para evitar que se accionara sola. Tiene grabado el nombre de su dueño: “*General M.J. Belgrano*”. Es probable que sea un regalo del Cabildo porteño en reconocimiento por su accionar.
 
-![](./eje10-4-b.jpg)
+![Detalle del objeto](./eje10-4-b.jpg)
+
+### Datos del objeto
 
 Este modelo de pistola se fabricaba en las fraguas de Ripoll, localidad catalana con minas de hierro. Se puede identificar por su empuñadura, por su decoración y por el tipo de llave a la española o *de Miquelete*.
 

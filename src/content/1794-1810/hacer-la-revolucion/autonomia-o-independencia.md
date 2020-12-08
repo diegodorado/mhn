@@ -17,11 +17,11 @@ images:
 
 Moreno era muy crítico de la monarquía y quería instalar un gobierno representativo de la voluntad popular. En *La Gazeta*, el periódico que fundó para difundir las ideas del gobierno revolucionario, sostuvo que todos amaban a Fernando VII pero que en realidad los derechos de la monarquía española en América eran ilegítimos, ya que la conquista se hizo por la fuerza, y nunca se le había dado poder por el consentimiento libre y unánime de los pueblos americanos, por lo que no se le debía obediencia. Ahí estaba esbozada la idea de romper los vínculos con España y su rey, para volverse independientes.
 
-![](./eje05-3-a.jpg)
+![Detalle del objeto](./eje05-3-a.jpg)
 
 Esta cigarrera perteneció a Moreno. Tiene la inscripción de su nombre, su título profesional y su status de español americano: Doctor –en leyes–, y Don. Contiene también una inscripción política: “*Fernando VII - Viva el Rey*”, y el escudo de armas de la corona española. Seguramente la adquirió antes de 1810.
 
-![](./eje05-3-b.jpg)
+![Detalle del objeto](./eje05-3-b.jpg)
 
 En la primera etapa de la Revolución, Belgrano estuvo cerca de las ideas de Moreno.
 

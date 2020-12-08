@@ -13,11 +13,11 @@ images:
 
 El ejército de Belgrano estaba en inferioridad numérica y con tropas a las que le faltaba entrenamiento. Sin embargo, el 24 de septiembre de 1812 obtuvo una victoria fundamental, que detuvo el avance contrarrevolucionario.
 
-![](./eje06-2-a.jpg)
+![Detalle del objeto](./eje06-2-a.jpg)
 
 Poco después, un nuevo gobierno, el segundo Triunvirato, decidió entregar premios por Tucumán. Los escudos de paño bordado se habían empezado a usar en las milicias porteñas formadas tras las invasiones inglesas. Eran de paño de lana, como los uniformes, porque es una tela gruesa y resistente, y se cosían a la manga izquierda de la casaca.
 
-![](./eje06-2-b.jpg)
+![Detalle del objeto](./eje06-2-b.jpg)
 
 Este escudo fue otorgado al comerciante salteño Rudecindo Alvarado. Eran para los oficiales hasta el grado de coronel. Alvarado era teniente de voluntarios de caballería.
 Para que brillaran, en hilos de plata se bordó la inscripción, y en hilos de seda posiblemente celestes, desteñidos por el tiempo, las hojas de palma.

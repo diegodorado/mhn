@@ -21,13 +21,13 @@ images:
 
 En una sesión secreta del 6 de julio de 1816, Belgrano presentó al Congreso de Tucumán su plan. La restitución sería un acto de *justicia* y la “*sola noticia estallará un entusiasmo general de los habitantes del interior*”. En una carta contó:
 
-![](./eje09-2-a.jpg)
+![Detalle del objeto](./eje09-2-a.jpg)
 
  “*Yo hablé, me exalté, lloré e hice llorar a todos al considerar la situación infeliz del país. Les hablé de la monarquía constitucional con la representación de la Casa de los Incas: todos adoptaron la idea*”.
 
 Una tercera campaña revolucionaria al Alto Perú había sido derrotada en 1815, y se buscaba con el proyecto la adhesión de los pueblos indígenas de esa región para conseguir la esquiva victoria. Las rebeliones andinas de 1780 habían activado el mito del regreso de un Inca liberador, y también Castelli había sido señalado como inca en 1810. Se supone que el candidato de Belgrano era un sobrino de Tupac Amaru, preso de los españoles.
 
-![](./eje09-2-b.jpg)
+![Detalle del objeto](./eje09-2-b.jpg)
 El plan se basaba en la reivindicación del pasado indígena que existía en el momento. Una señal es que en 1815 se haya elegido llamar a un cañón *Atahualpa*, el último gobernante Inca ejecutado por los españoles.
 
 Pese al apoyo de muchos diputados, el sanjuanino Oro frenó la iniciativa en el Congreso, al sostener que para “*declarar la forma de gobierno, era preciso consultar previamente a los pueblos*”.

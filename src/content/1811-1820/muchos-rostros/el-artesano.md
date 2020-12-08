@@ -17,11 +17,11 @@ images:
 
 En 1821, para acompañar un homenaje fúnebre, Núñez hizo otro retrato grabado, con un rostro más avejentado, con la colaboración del grabador francés José Rousseau. Ambos enseñaban en la escuela de dibujo del Consulado de Comercio, que Belgrano había impulsado.
 
-![](./eje11-3-a.jpg)
+![Detalle del objeto](./eje11-3-a.jpg)
 
 La vida de este artesano estuvo surcada por los cambios políticos causados por la revolución y por la guerra. De hacer estampas religiosas, pasó a retratar a San Martín, a Belgrano y a Rivadavia. Los retratos de estos personajes creados por Núñez de Ibarra fueron los primeros que circularon en el Río de la Plata.
 
-![](./eje11-3-b.jpg)
+![Detalle del objeto](./eje11-3-b.jpg)
 
 El arte del grabado posibilita la multiplicación, porque su operación de impresión se puede repetir. Se dibuja con una herramienta filosa sobre una plancha metálica. La tinta se aloja en los surcos del dibujo y cuando la plancha pasa por una prensa, se graba en papel.
 

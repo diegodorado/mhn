@@ -15,12 +15,12 @@ images:
 
 Desde antes se pedía la protección de distintas advocaciones de la Virgen para la guerra, y se le ofrecían trofeos tomados al enemigo. La novedad de Belgrano fue nombrar a la Virgen como generala. Era también una medida hábil para combatir el discurso de los contrarrevolucionarios, que acusaron a la primera expedición al Alto Perú comandada por Castelli de ser impía y atacar la religión.
 
-![](./eje06-3-a.jpg)
+![Detalle del objeto](./eje06-3-a.jpg)
 
 Pezuela, general que enfrentó a Belgrano Vilcapugio y Ayohuma, hizo algo similar: nombró a la Virgen del Carmen patrona y generala de sus fuerzas. Cuando después de esas derrotas Belgrano le dejó el mando a San Martín, le aconsejó:
  "*La guerra, allí, no sólo la ha de hacer Usted con las armas, sino con la opinión, afianzándose siempre ésta en las virtudes morales, cristianas, y religiosas, pues los enemigos nos la han hecho llamándonos herejes*".
 
-![](./eje06-3-b.jpg)
+![Detalle del objeto](./eje06-3-b.jpg)
 
 Esta es una *imagen de vestir* de la Virgen de La Merced. Las prácticas de devoción consisten en vestirlas con lujo y detalle para caracterizarlas, y así llevarlas en procesión o para colecta de limosna.
 

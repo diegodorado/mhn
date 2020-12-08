@@ -16,11 +16,11 @@ images:
 Desde Potosí, el 10 de julio de 1813, Belgrano le escribió una carta al jujeño Teodoro Sánchez de Bustamante. Le encargaba una tarea pendiente: terminar el escudo que debía colocarse en la futura escuela de Jujuy, como ordenaba la Asamblea. Y le decía:
 "*Cada vez anhelo más por la apertura de estos establecimientos, y por ver sus resultados, porque conozco diariamente la falta que nos hacen*".
 
-![](./eje07-3-a.jpg)
+![Detalle del objeto](./eje07-3-a.jpg)
 
 En el Reglamento que redactó para su funcionamiento, también pidió costear “*papel, pluma, tin­ta, libros y catecismo para los Niños de Padres pobres*”. Y prohibió el lujo en la vestimenta para que no hubiera distinción de clases en el aula.
 
-![](./eje07-3-b.jpg)
+![Detalle del objeto](./eje07-3-b.jpg)
 
 La invasión realista de 1814, que se apoderó de Jujuy y de Salta una vez más, interrumpió el proyecto de las escuelas.
 

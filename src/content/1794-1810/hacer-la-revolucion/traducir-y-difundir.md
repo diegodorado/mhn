@@ -17,11 +17,11 @@ images:
 
 Se trata de un mensaje de George Washington, general de la guerra de independencia de Estados Unidos de América y primer presidente de ese país, escrito a modo de carta a los ciudadanos, en el que comunicó la decisión de no continuar por un tercer mandato en la presidencia, como le fue ofrecido.
 
-![](./eje05-4-a.jpg)
+![Detalle del objeto](./eje05-4-a.jpg)
 
 Se publicó por primera vez en septiembre de 1796, y es una declaración clásica sobre el republicanismo y sus ideas acerca del gobierno. Defendía la Constitución al afirmar que el sistema de controles, equilibrios y la separación de poderes eran la clave para la libertad y la felicidad de la nación.
 
-![](./eje05-4-b.jpg)
+![Detalle del objeto](./eje05-4-b.jpg)
 
 Este es un ejemplar del libro con el discurso de Washington traducido por Manuel Belgrano y Joseph Redhead, su médico personal. Se publicó en Buenos Aires en 1813. Belgrano consideraba que era útil e inspirador, una incitación a terminar con la tiranía española en el Río de la Plata, y por eso impulsó que se leyera este “*librito*”, como lo llamó.
 

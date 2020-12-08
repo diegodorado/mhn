@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Img from "gatsby-image"
 import ZoomSlider from "../components/slider/Slider"
-import juegos from "../images/juegos.gif"
+import juegos from "../images/juegos/banner.gif"
 
 const remark = require('remark')
 const toHAST = require(`mdast-util-to-hast`)
@@ -51,9 +51,16 @@ const Template = ({pageContext, data}) => {
       {next ? <Link to={next} /> : <span/>}
     </nav>
     
-    <Link to="/juegos/">
-      <img src={juegos} style={{width:'100%'}} />
-    </Link>
+    <figure>
+      <Link to="/juegos/">
+        <img src={juegos} alt="Juegos para todas las edades " style={{width:'100%'}} />
+      </Link>
+      <figcaption>
+        <Link to="/juegos/">
+          Juegos para todas las edades
+        </Link>
+      </figcaption>
+    </figure>
 
   </Layout>)
 }

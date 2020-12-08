@@ -18,11 +18,11 @@ images:
 
 El comandante de los Gallegos fue Pedro Antonio Cerviño, que había llegado de Galicia en 1774 y desde 1799 era el director de la Escuela Náutica, puesto en el que fue designado por Belgrano, con quien compartía varios puntos de vista.
 
-![](./eje03-4-a.jpg)
+![Detalle del objeto](./eje03-4-a.jpg)
 
 Cada unidad de la milicia tenía su reglamento. En el primer punto del reglamento de los Gallegos, Cerviño estableció el nombre oficial del grupo: *Tercio de Voluntarios de Galicia*, y la confección de dos banderas. El nombre *tercio* fue adoptado por todos los españoles. Así se llamaba en España a los grupos de defensa *cívica* de las ciudades. El nombre provenía de las famosas unidades de infantería españolas del siglo XVI.
 
-![](./eje03-4-b.jpg)
+![Detalle del objeto](./eje03-4-b.jpg)
 
 Los cuerpos milicianos crearon sus insignias. Los escudos y banderas organizaban a los hombres y reforzaban su identidad. Cerviño mandó a hacer dos banderas para el tercio de Gallegos.
 

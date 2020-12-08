@@ -65,7 +65,7 @@ const Page = ({ data, path }) => {
     <ul>
       <li>Bandera de Macha</li>
       <li>Belgrano y los proyectos monárquicos</li>
-      <li>Indigenismo</li>
+      <li>"Indigenismo"</li>
       <li>La Tarja de Potosí</li>
     </ul>
 

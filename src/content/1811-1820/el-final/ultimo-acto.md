@@ -6,7 +6,7 @@ overview: |
   El conflicto entre el Directorio y Santa Fe parecía no terminar nunca. Pueyrredón renunció en 1819, pero el nuevo director, José Rondeau, decidió volver a atacar a la provincia. Para eso convocó otra vez al Ejército de Belgrano. Este puso a sus tropas en marcha pero delegó el mando, ya que estaba enfermo, y se instaló en Tucumán.
 images:
   - file: sable-de-manuel-belgrano.jpg
-    epigraph: Sable de Manuel Belgrano
+    epigraph: El sable del debate
     alt: Sable de acero con forma curva y vaina con la misma forma. Está decorada con repujados y aplicaciones de bronce con escenas de guerra.
   - file: detalle-de-la-vaina.jpg
     epigraph: Detalle de la vaina
@@ -17,11 +17,11 @@ images:
 
 Pero en noviembre de ese año, un motín removió al gobernador directorial de esa provincia y llevó al poder a Bernabé Aráoz, que había tenido varios conflictos con Belgrano a lo largo del tiempo. El general terminó preso, pero le permitieron partir. Agotado, emprendió el largo viaje a Buenos Aires, por última vez.
 
-![](./eje10-5-a.jpg)
+![Detalle del objeto](./eje10-5-a.jpg)
 
 No solo Belgrano se derrumbaba: en enero de 1820 el Ejército que había mandado se negó a continuar la guerra civil y se dispersó. En febrero los santafesinos y entrerrianos vencieron a Buenos Aires y obligaron al Directorio a disolverse. También se desmoronó la Liga de los Pueblos Libres. El sistema creado por la Revolución de Mayo había llegado a su fin.
 
-![](./eje10-5-b.jpg)
+![Detalle del objeto](./eje10-5-b.jpg)
 
 Lo mismo le ocurrió a Belgrano. Ya en Buenos Aires, enfermo, redactó su testamento el 25 de mayo de 1820. Menos de un mes después, el 20 de junio, murió, en la misma casa donde había nacido.
 
@@ -35,5 +35,5 @@ Sin embargo, investigaciones hechas por miembros de Gendarmería Nacional sostie
 Es un sable *de honor* que, aparentemente, recuerda las campañas de Napoleón Bonaparte en Egipto a fines del siglo XVIII. Estos sables de lujo eran encargados especialmente a famosos espaderos y era frecuente que fueran obsequiados como muestra de gratitud a alguna personalidad militar.
 
 ### Datos del objeto
-El sable tiene hoja de acero corva, con empuñadura de cachas de nácar, de un solo filo.La vaina es dorada, con dos abrazaderas y anillas, con tres aplicaciones de bronce que representan escenas de guerra. El resto está repujado.
+El sable tiene hoja de acero corva, con empuñadura de cachas de nácar, de un solo filo. La vaina es dorada, con dos abrazaderas y anillas, con tres aplicaciones de bronce que representan escenas de guerra. El resto está repujado.
 

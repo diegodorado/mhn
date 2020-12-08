@@ -40,6 +40,7 @@ const SiteMapPage = ({ data, path }) => {
           </React.Fragment>)
         })}
       </nav>
+      <Link to="/juegos">Juegos para todas las edades</Link>
       <Link to="/propuestas-educativas/">Propuestas educativas</Link>
       <Link to="/sobre-esta-muestra/">Sobre esta muestra</Link>
       <Link to="/mapa-del-sitio/">Mapa del sitio</Link>

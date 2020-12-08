@@ -24,6 +24,32 @@ $rfs-base-value: 12
     p.intro
       padding: 4% 10%
 
+.games
+  .iframeHolder
+    width: 100%
+    margin-bottom: 5em
+    position: relative
+    &::before
+      position: relative
+      padding-bottom: 56.25%
+      padding-top: 0
+      height: 0
+      content: ""
+      display: block
+    iframe
+      width: 100%
+      height: 100%
+      position: absolute
+      top: 0
+      left: 0
+  .game
+    cursor: pointer
+    padding: 1em 0
+  ul
+    font-size: inherit
+    li
+      line-height: 1.6em
+      cursor: pointer
 
 .home2
   h2
@@ -60,6 +86,20 @@ $rfs-base-value: 12
       text-align: center
       +font-size(1rem)
       opacity: 0
+    .skip
+      position: absolute
+      bottom: 20px
+      right: 20px
+      border: 1px solid $primary
+      color: $primary
+      font-size: 1.5em
+      padding: 0.5em 2em
+      background: white
+      font-weight: normal
+      opacity: 0.8
+      cursor: pointer
+      outline: 0
+
     .chairL
       left: 4%
     .chairR
@@ -81,6 +121,10 @@ $rfs-base-value: 12
         transition-delay: 1s
         opacity: 0
     &.ended
+      .skip
+        opacity: 0
+        pointer-events: none
+        transition: opacity 1s
       .chairR,.chairL, p
         transition: opacity 1s, transform 1s
         opacity: 1
@@ -151,7 +195,7 @@ $rfs-base-value: 12
     a
       text-align: center
       display: block
-      +font-size(0.9rem)
+      line-height: 1.6em
   .post-content
     .gatsby-resp-image-wrapper
       margin: 2em 0

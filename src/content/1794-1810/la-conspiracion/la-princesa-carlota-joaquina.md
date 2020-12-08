@@ -14,11 +14,11 @@ images:
 
 En 1808 Napoleón Bonaparte invadió España y tomó prisionero a Fernando VII, quien abdicó. José, hermano de Napoleón, fue nombrado rey en su lugar. Pero muchos de sus súbditos en España y en América no aceptaron la designación y resistieron en nombre de Fernando, al que consideraban el monarca legítimo.
 
-![](./eje04-1-a.jpg)
+![Detalle del objeto](./eje04-1-a.jpg)
 
 Napoleón también invadió Portugal. La familia real y la corte huyeron a Brasil, colonia portuguesa, y se instalaron en Río de Janeiro. Desde allí, en agosto de 1808, Carlota intentó ser reconocida como regente de la monarquía española en América, ante el cautiverio de su hermano.
 
-![](./eje04-1-b.jpg)
+![Detalle del objeto](./eje04-1-b.jpg)
 
 Las autoridades coloniales la rechazaron, pero tuvo el apoyo de un grupo de hombres de la elite de Buenos Aires, entre los que estaban Belgrano, Juan José Castelli, Hipólito Vieytes, Antonio Beruti y los hermanos Rodríguez Peña. El proyecto político de coronar a la Infanta Carlota como soberana del Río de la Plata en nombre de Fernando, es conocido como *Carlotismo*.
 

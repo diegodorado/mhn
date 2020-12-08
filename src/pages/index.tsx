@@ -18,8 +18,8 @@ const IndexPage: React.FC<PageProps<DataProps>> = ({ data, path }) => {
   const [wide, setWide] = useState(false)
   const [ended, setEnded] = useState(false)
 
-  const lLink = "/1794-1810/burocrata/sello-consulado/"
-  const rLink = "/"
+  const lLink = "/1794-1810/"
+  const rLink = "/1811-1820/"
   const lAlt = "Sillón de madera de jacarandá tallada, con apoyabrazos curvos y alargados. La parte superior del respaldo está coronada con un motivo tallado. El asiento  y el respaldo alto están tapizados en pana. Tiene marcas de las herramientas con las que se labraron a mano,  huella del trabajo de los artesanos. El sillón tiene las patas rectas acordes al estilo neoclásico. Aunque en términos estilísticos puede considerarse en una etapa de transición."
   const rAlt = "Silla Plegable de campaña, reclinada, con apoya brazos, hecha en madera, con asiento y respaldo de listones."
 
@@ -55,6 +55,11 @@ const IndexPage: React.FC<PageProps<DataProps>> = ({ data, path }) => {
 
   },[])
 
+  const skipIntro = (ev) => {
+    const vid = vidRef.current
+    vid.currentTime = vid.duration
+  }
+
   return (
   <Layout bodyClass="home">
     <SEO title="Inicio" />
@@ -71,6 +76,7 @@ const IndexPage: React.FC<PageProps<DataProps>> = ({ data, path }) => {
           <Img fluid={data.image1.childImageSharp.fluid} alt={rAlt} />
           <Link to={rLink}>VER 1811-1820</Link>
         </div>
+        <button className="skip" onClick={skipIntro}>Saltar</button>
     </div>
   </Layout>
 )

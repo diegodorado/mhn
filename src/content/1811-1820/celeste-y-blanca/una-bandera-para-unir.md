@@ -18,11 +18,11 @@ Estaba en Rosario para construir una defensa sobre el río Paraná contra los ba
 
 El general nombró Libertad e Independencia a las dos baterías de cañones que montó en las costas del Paraná. El 27 de febrero organizó un acto para su inauguración. Y ahí hizo izar y flamear una nueva bandera. Le comunicó al Triunvirato que “*Siendo preciso enarbolar la bandera, y no teniéndola, la mandé hacer celeste y blanca*”, como los colores de la escarapela.
 
-![](./eje07-1-a.jpg)
+![Detalle del objeto](./eje07-1-a.jpg)
 
 El Triunvirato le prohibió usarla, ya que no quería demostrar gestos de independencia. Belgrano partió hacia el norte, donde iba a asumir el mando del ejército, y argumentó que no recibió el mensaje. El 25 de mayo de 1812, en Jujuy, organizó el acto del segundo aniversario de la Revolución. En vez de pasear el estandarte real, como se hacía hasta entonces, presentó la nueva bandera de su creación.
 
-![](./eje07-1-b.jpg)
+![Detalle del objeto](./eje07-1-b.jpg)
 
 La bandera celeste y blanca se difundió rápidamente. El 8 de octubre de 1812 un nuevo Triunvirato, a favor de la independencia, tomó el poder y empezó a utilizarla.
 

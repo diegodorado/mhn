@@ -12,11 +12,11 @@ images:
 
 La milicia no era lo mismo que el ejército, sino que la formaban los habitantes de la ciudad armados. Las unidades se crearon según el lugar de origen de los hombres que las conformaron y el color de piel, ya que la sociedad colonial era jurídicamente desigual: quien no era blanco debía estar separado.
 
-![](./eje03-3-a.jpg)
+![Detalle del objeto](./eje03-3-a.jpg)
 
 Los Patricios eran los nacidos en *la patria de Buenos Aires*, los Arribeños eran de las provincias *de arriba*, los Naturales, Pardos y Morenos estaban integrados por los miembros de las castas (sin importar dónde hubieran nacido), y los cuerpos españoles se organizaron por su lugar de origen. Los soldados votaban a los oficiales. El Cabildo pagó las armas y los uniformes de muchos milicianos sin recursos.
 
-![](./eje03-3-b.jpg)
+![Detalle del objeto](./eje03-3-b.jpg)
 
 Belgrano fue elegido sargento mayor de Patricios y en ese cuerpo combatió contra la segunda invasión. Pronto comenzó a tomar lecciones militares.
 
