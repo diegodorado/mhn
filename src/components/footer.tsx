@@ -61,33 +61,33 @@ const Footer: React.FC = () => {
   return (
     <footer>
       <nav className="social">
-        <Link to="https://www.facebook.com/museohistoriconacionalargentina">
+        <a href="https://www.facebook.com/museohistoriconacionalargentina">
           <Img fluid={data.fb.childImageSharp.fluid} />
-        </Link>
-        <Link to="https://twitter.com/MuseoHistorico">
+        </a>
+        <a href="https://twitter.com/MuseoHistorico">
           <Img fluid={data.tw.childImageSharp.fluid} />
-        </Link>
-        <Link to="https://museohistoriconacional.cultura.gob.ar/">
+        </a>
+        <a href="https://museohistoriconacional.cultura.gob.ar/">
           <Img fluid={data.web.childImageSharp.fluid} />
-        </Link>
-        <Link to="https://www.instagram.com/mhnarg/">
+        </a>
+        <a href="https://www.instagram.com/mhnarg/">
           <Img fluid={data.ig.childImageSharp.fluid} />
-        </Link>
+        </a>
       </nav>
       <nav className="links">
         <Link to="/propuestas-educativas/">Propuestas educativas</Link>
         <Link to="/sobre-esta-muestra/">Sobre esta muestra</Link>
         <Link to="/mapa-del-sitio/">Mapa del sitio</Link>
       </nav>
-      <Link to="https://museohistoriconacional.cultura.gob.ar/" className="mhn">
+      <a href="https://museohistoriconacional.cultura.gob.ar/" className="mhn">
         <Img fixed={data.mhn.childImageSharp.fixed} />
-      </Link>
-      <Link to="https://museohistoriconacional.cultura.gob.ar/" className="museos">
+      </a>
+      <a href="https://museohistoriconacional.cultura.gob.ar/" className="museos">
         <Img fixed={data.museos.childImageSharp.fixed} />
-      </Link>
-      <Link to="https://museohistoriconacional.cultura.gob.ar/" className="ministerio">
+      </a>
+      <a href="https://museohistoriconacional.cultura.gob.ar/" className="ministerio">
         <Img fixed={data.ministerio.childImageSharp.fixed} />
-      </Link>
+      </a>
     </footer>
   )
 }

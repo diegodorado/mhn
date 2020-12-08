@@ -45,11 +45,22 @@ $rfs-base-value: 12
   .game
     cursor: pointer
     padding: 1em 0
+    img
+      width: 100%
   ul
     font-size: inherit
     li
       line-height: 1.6em
       cursor: pointer
+  +breakpoint(lg)
+    .game-list
+      display: flex
+      flex-wrap: wrap
+      gap: 10%
+      .game
+        flex: 1 40%
+        width: 40%
+
 
 .home2
   h2
@@ -88,12 +99,12 @@ $rfs-base-value: 12
       opacity: 0
     .skip
       position: absolute
-      bottom: 20px
-      right: 20px
+      bottom: 10px
+      right: 10px
       border: 1px solid $primary
       color: $primary
-      font-size: 1.5em
-      padding: 0.5em 2em
+      font-size: 1em
+      padding: 0.3em 1em
       background: white
       font-weight: normal
       opacity: 0.8
@@ -145,6 +156,10 @@ $rfs-base-value: 12
         left: 10%
       .chairR
         right: 10%
+      .skip
+        font-size: 1.25em
+        padding: 0.5em 2em
+
   +breakpoint(lg)
     .intro
       p
@@ -155,6 +170,11 @@ $rfs-base-value: 12
         left: 4%
       .chairR
         right: 4%
+      .skip
+        bottom: 20px
+        right: 20px
+        font-size: 1.5em
+
 
     header
       h1

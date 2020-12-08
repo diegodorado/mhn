@@ -5,7 +5,7 @@ import SEO from "../../components/seo"
 
 import games from "./games.yml"
 
-//    thumb: 6_Rompecabezas.jpg
+
 
 const Page = ({ data, path }) => {
   const [url, setUrl] = useState(games.games[0].url)
@@ -22,38 +22,57 @@ const Page = ({ data, path }) => {
         <iframe frameBorder="0" width="1200px" height="675px" src={url} type="text/html" allowscriptaccess="always" allowFullScreen={ true } scrolling="yes" allownetworking="all"></iframe>
     </div>
 
+    <div className="game-list">
     {games.games.map( g => {
       return (
-        <div onClick={ ev => changeGame(g.url)} className="game" key={g.title}>
-          <strong>{g.title}</strong>
+        <div onClick={ ev => ev.preventDefault() || changeGame(g.url)} className="game" key={g.title}>
+          <h3>{g.title}</h3>
+          <span>{g.description}</span>
           <br/>
-          <span>{g.desciption}</span>
           <br/>
+          <img src={`/juegos/${g.thumb}`} alt={g.title} />
+          <br/>
+          <br/>
+          <a href={g.url}>Ir al juego</a>
         </div>)
       })}
+    </div>
 
     <br/>
-    <strong>Rompecabezas</strong>
-    <ul>
+    <div className="game">
+      <h3>Rompecabezas</h3>
+      <span>Descubrí los objetos.</span>
+      <br/>
+      <br/>
+      <img src={`/juegos/6_Rompecabezas.jpg`} alt="Rompecabezas" />
+    </div>
+    <div className="game-list">
     {games.jigsaws.map( g => {
       return (
-        <li onClick={ ev => changeGame(g.url)} key={g.title}>
+        <div onClick={ ev => ev.preventDefault() || changeGame(g.url)} className="game" key={g.title}>
           <span>{g.title}</span>
-        </li>)
+          <br/>
+          <a href={g.url}>Ir al juego</a>
+        </div>)
       })}
-    </ul>
+    </div>
 
     <br/>
-    <strong>Para hacer con chiquitines</strong>
-    <ul>
+    <h3>Para hacer con chiquitines</h3>
+    <div className="game-list">
     {games.kids.map( g => {
       return (
-        <li onClick={ ev => changeGame(g.url)} key={g.title}>
+        <div onClick={ ev => ev.preventDefault() || changeGame(g.url)} className="game" key={g.title}>
           <span>{g.title}</span>
-        </li>)
+          <br/>
+          <br/>
+          <img src={`/juegos/${g.thumb}`} alt={g.title} />
+          <br/>
+          <br/>
+          <a href={g.url}>Ir al juego</a>
+        </div>)
       })}
-    </ul>
-
+    </div>
 
 
 

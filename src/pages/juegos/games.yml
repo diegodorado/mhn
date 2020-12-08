@@ -1,22 +1,22 @@
 games:
   - title: Retratos escondidos
-    desciption: Para poner a prueba tu memoria visual
+    description: Para poner a prueba tu memoria visual
     url: https://view.genial.ly/5f5f8843aeba3b0d96ca8f91
     thumb: 1_RetratosEscondidos.jpg
   - title: La valija de Belgrano
-    desciption: Ayudá a Belgrano con el equipaje para su primer viaje como revolucionario
+    description: Ayudá a Belgrano con el equipaje para su primer viaje como revolucionario
     url: https://view.genial.ly/5fa97d0b347e0f0d17e47935
     thumb: 2_LaValijaDeBelgrano.jpg
   - title: Aventura europea con Belgrano
-    desciption: Tirá el dado y acompañá a Belgrano en el famoso “Serpientes y Escaleras”
+    description: Tirá el dado y acompañá a Belgrano en el famoso “Serpientes y Escaleras”
     url: https://view.genial.ly/5f3ed0f6fc68630d97057464
     thumb: 4_AventuraEuropea.jpg
   - title: Hacer bandera
-    desciption: Personalizá una bandera con símbolos y colores que te representen a vos y a tu grupo
+    description: Personalizá una bandera con símbolos y colores que te representen a vos y a tu grupo
     url: https://view.genial.ly/5f58ffe41835080da96a00bf
     thumb: 5_HacerBandera.jpg
   - title: La Tarja sonora
-    desciption: Una invitación a mirar de cerca la Tarja de Potosí e imaginar sus sonidos
+    description: Una invitación a mirar de cerca la Tarja de Potosí e imaginar sus sonidos
     url: https://view.genial.ly/5f6e46c81722e90da36f863b
     thumb: 3_LaTarjaSonora.jpg
 

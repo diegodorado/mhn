@@ -57,7 +57,8 @@ const IndexPage: React.FC<PageProps<DataProps>> = ({ data, path }) => {
 
   const skipIntro = (ev) => {
     const vid = vidRef.current
-    vid.currentTime = vid.duration
+    //vid.currentTime = vid.duration
+    vid.currentTime = 8
   }
 
   return (
