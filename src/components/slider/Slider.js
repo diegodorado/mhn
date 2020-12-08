@@ -30,15 +30,6 @@ export default function Slider({
     slides,
   })
   const epigraph = slides[currentSlide].props.epigraph
-  const [zoom, setZoom] = useState(0)
-
-  const onZoom = dir => {
-    if(dir >0)
-      setZoom(zoom > 0 ? zoom + 1 : 1)
-    else
-      setZoom(zoom < 0 ? zoom - 1 : -1)
-  }
-
   return (
     <SliderWrapper isZooming={zooming}>
       {zooming && (
@@ -72,7 +63,7 @@ export default function Slider({
         {slides.map((slide, idx) => {
           return(
           // eslint-disable-next-line react/no-array-index-key
-            <Slide active={idx===currentSlide} isZooming={zooming} zoom={zoom} onScale={onScale} key={idx}>
+            <Slide active={idx===currentSlide} isZooming={zooming} onScale={onScale} key={idx}>
               {slide}
             </Slide>
           )}
@@ -86,7 +77,6 @@ export default function Slider({
         centerDots={slides.length < 6 ? slides.length : undefined}
         dotColor={dotColor}
         activeDotColor={activeDotColor}
-        onZoom={onZoom}
       />
 
     </SliderWrapper>
