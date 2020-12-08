@@ -87,6 +87,19 @@ $rfs-base-value: 12
 
 .home
   .intro
+    video
+      position: absolute
+      top: 0
+      left: 0
+      width: 100%
+      height: 100%
+    &::before
+      content: ""
+      display: block
+      width: 100%
+      padding-bottom: 100%
+      +breakpoint(sm)
+        padding-bottom: 56.25%
     position: relative
     p
       position: absolute
@@ -95,7 +108,6 @@ $rfs-base-value: 12
       margin: 0
       line-height: 1.4em
       text-align: center
-      +font-size(1rem)
       opacity: 0
     .skip
       position: absolute
@@ -112,14 +124,14 @@ $rfs-base-value: 12
       outline: 0
 
     .chairL
-      left: 4%
+      left: 2%
     .chairR
-      right: 4%
+      right: 2%
     .chairL, .chairR
       cursor: pointer
       position: absolute
-      width: 40%
-      top: 25%
+      width: 44%
+      bottom: 0
       text-align: center
       transform-origin: center center
       transform: scale(0.5)
@@ -131,6 +143,14 @@ $rfs-base-value: 12
         text-decoration: none
         transition-delay: 1s
         opacity: 0
+        position: absolute
+        bottom: 0
+        left: 50%
+        width: 6em
+        margin-left: -3em
+        background: white
+        border: 1px solid #aaa
+        font-size: 0.75em
     &.ended
       .skip
         opacity: 0
@@ -141,17 +161,20 @@ $rfs-base-value: 12
         opacity: 1
         transform: scale(1)
         a
-          opacity: 1
+          opacity: 0.9
       p
         transition-delay: 1s
 
-    video
-      width: 100%
   +breakpoint(sm)
     .intro
+      p
+        font-size: 1.1em
+        line-height: 1.6em
       .chairL, .chairR
-        width: 30%
-        top: 20%
+        width: 35%
+        top: 10%
+        a
+          font-size: 1em
       .chairL
         left: 10%
       .chairR
@@ -163,13 +186,17 @@ $rfs-base-value: 12
   +breakpoint(lg)
     .intro
       p
-        padding: 10% 32%
+        padding: 7% 25%
+        font-size: 1.2em
+        line-height: 1.6em
       .chairL, .chairR
-        top: 0
+        top: 10%
+        a
+          font-size: 1.3em
       .chairL
-        left: 4%
+        left: 2%
       .chairR
-        right: 4%
+        right: 2%
       .skip
         bottom: 20px
         right: 20px
@@ -202,7 +229,7 @@ $rfs-base-value: 12
         
 .level1
   .overview p
-    +font-size(1.3rem)
+    font-size: 1.25em
   figure
     margin: 0
     a

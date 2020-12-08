@@ -72,11 +72,11 @@ const IndexPage: React.FC<PageProps<DataProps>> = ({ data, path }) => {
         <p>Fue reformista y después revolucionario. Fue republicano y luego monárquico. Tuvo victorias y también derrotas. Muchas variaciones pero una constante: la confianza en la acción para modificar el mundo. A esa certeza dedicó su vida Manuel Belgrano.</p>
         <div className="chairL" onClick={() => navigate(lLink)}>
           <Img fluid={data.image0.childImageSharp.fluid} alt={lAlt} />
-          <Link to={lLink}>VER 1794-1810</Link>
+          <Link to={lLink}>1794-1810</Link>
         </div>
         <div className="chairR" onClick={() => navigate(rLink)}>
           <Img fluid={data.image1.childImageSharp.fluid} alt={rAlt} />
-          <Link to={rLink}>VER 1811-1820</Link>
+          <Link to={rLink}>1811-1820</Link>
         </div>
         <button className="skip" onClick={skipIntro}>Saltar</button>
     </div>

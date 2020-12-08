@@ -21,8 +21,6 @@ header
     img
       width: 100%
   .links
-    a
-      +font-size(1rem)
     width: 75%
     margin: 50px auto 20px
     display: none
@@ -45,10 +43,9 @@ header
       position: absolute
       top: 0
       right: 0
-      +rfs(1rem)
-      +rfs(3rem, width)
-      +rfs(3rem, height)
-      +padding(2rem 3rem)
+      width: 2em
+      height: 2em
+      padding: 1em 1.5em
       display: flex
       flex-direction: column
       span
@@ -71,7 +68,6 @@ header
   .dropdown
     z-index: 9
     text-align: left
-    +font-size(1.0rem)
     padding: 2em 3em
     background: $primary
     nav

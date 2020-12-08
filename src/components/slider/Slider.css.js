@@ -35,5 +35,7 @@ export const SlideOverlay = styled.div`
 export const Epigraph = styled.div`
   text-align: center;
   padding: 1em 0 0.3em;
+  width: 85%;
+  margin: auto;
 `
 
