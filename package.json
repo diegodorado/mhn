@@ -31,7 +31,6 @@
     "react-helmet": "^6.1.0",
     "react-spring": "^8.0.27",
     "react-use-gesture": "^8.0.0",
-    "rfs": "^9.0.3",
     "styled-components": "^5.2.1"
   },
   "devDependencies": {
@@ -43,7 +42,7 @@
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
-    "build2": "gatsby build --prefix-paths",
+    "build2": "gatsby clean && gatsby build --prefix-paths",
     "develop": "gatsby develop",
     "dev-m": "gatsby develop -H 0.0.0.0 -p 8000",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",

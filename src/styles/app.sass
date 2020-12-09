@@ -5,7 +5,6 @@ $white: #fff
 $rfs-base-value: 12
 
 @import "mixins"
-@import "~rfs/scss"
 @import "base"
 @import "header"
 @import "footer"
@@ -106,7 +105,8 @@ $rfs-base-value: 12
       top: 0
       padding: 0
       margin: 0
-      line-height: 1.4em
+      line-height: 1.6em
+      font-size: 3.2vw
       text-align: center
       opacity: 0
     .skip
@@ -124,13 +124,13 @@ $rfs-base-value: 12
       outline: 0
 
     .chairL
-      left: 2%
+      left: 0
     .chairR
-      right: 2%
+      right: 0
     .chairL, .chairR
       cursor: pointer
       position: absolute
-      width: 44%
+      width: 48%
       bottom: 0
       text-align: center
       transform-origin: center center
@@ -164,6 +164,9 @@ $rfs-base-value: 12
           opacity: 0.9
       p
         transition-delay: 1s
+      .chairR,.chairL
+        &:hover
+          transform: scale(1.1)
 
   +breakpoint(sm)
     .intro
