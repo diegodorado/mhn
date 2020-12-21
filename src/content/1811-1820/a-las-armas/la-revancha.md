@@ -8,7 +8,7 @@ images:
   - desktop: escudo-por-la-batalla-de-vilcapugio.jpg
     mobile: escudo-por-la-batalla-de-vilcapugio_m.jpg  
     epigraph: Escudo por la batalla de Vilcapugio
-    alt: Escudo de honor otorgado por el ejército realista a los oficiales vencedores de la batalla de Vilcapugio. Este tipo de distintivos se cocían en la manga izquierda de los uniformes. Los escudos concedidos por el ejército realista eran generalmente circulares, a diferencia de los patriotas que solían ser ovalados y además bordados con hilos metálicos. Este escudo está bordado en hilos seda, vistosos por su brillo. En su circunferencia, se lee "Lavó la afrenta del Tucumán y Salta en los llanos de Vilcapugio". En su centro, está bordado un gorro frigio atravesado por dos bayonetas. Los escudos se llevaban en el brazo izquierdo, porque en la diestra se solía portar el arma.
+    alt: Escudo de honor otorgado por el ejército realista a los oficiales vencedores de la batalla de Vilcapugio. Este tipo de distintivos se cosían en la manga izquierda de los uniformes. Los escudos concedidos por el ejército realista eran generalmente circulares, a diferencia de los patriotas que solían ser ovalados y además bordados con hilos metálicos. Este escudo está bordado en hilos seda, vistosos por su brillo. En su circunferencia, se lee "Lavó la afrenta del Tucumán y Salta en los llanos de Vilcapugio". En su centro, está bordado un gorro frigio atravesado por dos bayonetas. Los escudos se llevaban en el brazo izquierdo, porque en la diestra se solía portar el arma.
 
 ---
 
@@ -18,7 +18,7 @@ Este es un *escudo de honor* otorgado por el ejército realista a los oficiales 
 ![Detalle del objeto](./eje06-6-a.jpg)
 
 
-En los ejércitos estos reconocimientos eran como un *currículum* visible del militar premiado con ellos. Se cocían en la manga izquierda de los uniformes y se iban acumulando con las victorias. Los escudos de paño concedidos por el ejército realista eran generalmente circulares, bordados con hilos de seda, a diferencia de los patriotas que solían ser ovalados, bordados con hilos metálicos.
+En los ejércitos estos reconocimientos eran como un *currículum* visible del militar premiado con ellos. Se cosían en la manga izquierda de los uniformes y se iban acumulando con las victorias. Los escudos de paño concedidos por el ejército realista eran generalmente circulares, bordados con hilos de seda, a diferencia de los patriotas que solían ser ovalados, bordados con hilos metálicos.
 
 ![Detalle del objeto](./eje06-6-b.jpg)
 

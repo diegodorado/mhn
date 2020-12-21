@@ -1,6 +1,7 @@
 module.exports = {
   //pathPrefix: process.env.NODE_ENV === "development" ? "" : "/mhn",
-  pathPrefix: "/manuel-belgrano-transformarlarealidad",
+  //pathPrefix: "/manuel-belgrano-transformarlarealidad",
+  pathPrefix: "/",
   siteMetadata: {
     siteUrl: `https://change.me`,
     title: `Museo Histórico Nacional`,
