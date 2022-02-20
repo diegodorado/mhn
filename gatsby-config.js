@@ -3,7 +3,7 @@ module.exports = {
   //pathPrefix: "/manuel-belgrano-transformarlarealidad",
   pathPrefix: "/",
   siteMetadata: {
-    siteUrl: `https://change.me`,
+    siteUrl: `https://mhn.netlify.app`,
     title: `Museo Histórico Nacional`,
     description: `Sitio Web del Museo Historico Nacional`,
     author: `@diegodorado`,

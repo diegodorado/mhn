@@ -13,7 +13,7 @@ images:
 
 ---
 
-Se creó un escudo nuevo: un óvalo celeste y blanco en el que dos manos sostienen un *gorro de la libertad* sobre una lanza o pica, símbolo de la unión de las provincias y su determinación de defensa. Encima, asoma un sol naciente con cara. El sol era la máxima divinidad adorada por el imperio Inca,y era entonces un símbolo americano. También era una señal de regeneración y de igualdad en el imaginario republicano de la Revolución Francesa, muy influyente en la Asamblea.
+Se creó un escudo nuevo: un óvalo celeste y blanco en el que dos manos sostienen un *gorro de la libertad* sobre una lanza o pica, símbolo de la unión de las provincias y su determinación de defensa. Encima, asoma un sol naciente con cara. El sol era la máxima divinidad adorada por el imperio Inca, y era entonces un símbolo americano. También era una señal de regeneración y de igualdad en el imaginario republicano de la Revolución Francesa, muy influyente en la Asamblea.
 
 ![Detalle del objeto](./eje07-2-a.jpg)
 

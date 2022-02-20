@@ -24,7 +24,7 @@ El proyecto que Belgrano impulsó desde el Consulado promovía el desarrollo loc
 ### Para tomar decisiones
 El mobiliario de las familias más adineradas del Virreinato se seleccionaba y diseñaba cuidadosamente. O se traía de Europa o se usaban diseños europeos como modelo. Los artesanos locales, sin embargo, podían hacer algunas modificaciones y empleaban los materiales que tenían disponibles.
 
-Las sillas del Consulado no fueron la excepción. Este sillón está inspirado en el estilo francés del período del rey Luis XVI, pero fue realizado en Buenos Aires. Se utilizó madera de jacarandá. La decisión de comprar a un ebanista local es coherente con las preocupaciones de Belgrano por el desarrollo de la industria artesanal en este territorio.
+Las sillas del Consulado no fueron la excepción. Este sillón corresponde, en términos estilísticos, a un período de transición entre el estilo lusobrasileño y una nueva corriente clásica en la cual las líneas curvas son sustituidas por las rectas y las patas de doble curvatura por las verticales estriadas. El sillón fue realizado en Buenos Aires y para hacerlo se utilizó madera de jacarandá. La decisión de comprar a un ebanista local es coherente con las preocupaciones de Belgrano por el desarrollo de la industria artesanal en este territorio.
 
 ### ¿Querés saber más?
 Es probable que el maestro ebanista detrás de esta silla se llamara José Guerrero. En las cuentas del Consulado figura una compra de sillas a su nombre. Se trata de un mueble artesanal, probablemente confeccionado a medida por él mismo y los miembros de su taller.

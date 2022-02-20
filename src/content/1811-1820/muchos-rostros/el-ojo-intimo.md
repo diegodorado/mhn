@@ -23,10 +23,11 @@ Está atribuida al artista francés Jean-Philippe Goulu, que migró a Sudaméric
 ![Detalle del objeto](./eje11-1-b.jpg)
 
 ### ¿Querés saber más?
-Paradójicamente, por su diminuto tamaño las miniaturas se hacían sobre láminas de marfil, extraídas de los colmillos de animales colosales, elefantes e hipopótamos, comercializados desde Asia y África. Se usaban también pinceles de pelos finos de marta para lograr el detalle. Y los pigmentos de las acuarelas se preparaban con miel de abejas.
+Paradójicamente, por su diminuto tamaño las miniaturas se hacían sobre láminas de marfil, extraídas de los colmillos de animales colosales, elefantes e hipopótamos, comercializados desde Asia y África. Se usaban también pinceles de pelos finos de marta para lograr el detalle.  Se pintaban en gouache, óleo o acuarela. Los pigmentos de las acuarelas se aglutinaban con goma arábiga. También, podían usar la miel de abejas como plastificante para aumentar la flexibilidad.
 
 ### Datos del objeto
-*Ojo izquierdo del Gral Manuel Belgrano*, miniatura sobre marfil pintada en *gouache* atribuida a Jean-Phillipe Goulu. Mide 3 centímetros de alto y 2 centímetros de ancho.
+*Ojo izquierdo del Gral Manuel Belgrano*, miniatura sobre marfil pintada en acuarela atribuida a Jean-Phillipe Goulu. Mide 3,3 centímetros de alto, 2,3 centímetros de ancho y 0,05 centímetros de espesor.
+
 
 
 

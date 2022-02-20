@@ -20,6 +20,7 @@ Este es un *escudo de honor* otorgado por el ejército realista a los oficiales 
 
 En los ejércitos estos reconocimientos eran como un *currículum* visible del militar premiado con ellos. Se cosían en la manga izquierda de los uniformes y se iban acumulando con las victorias. Los escudos de paño concedidos por el ejército realista eran generalmente circulares, bordados con hilos de seda, a diferencia de los patriotas que solían ser ovalados, bordados con hilos metálicos.
 
+
 ![Detalle del objeto](./eje06-6-b.jpg)
 
 ### Datos del objeto
